@@ -23,7 +23,7 @@ import xml.etree.ElementTree as ET
 try:
     from dotenv import load_dotenv
     env_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
-    load_dotenv(env_path)
+    load_dotenv(env_path, override=True)  # 确保.env覆盖系统环境变量
 except ImportError:
     pass  # 如果没有安装 python-dotenv，跳过
 
@@ -663,7 +663,7 @@ def translate_titles_batch(titles: List[str]) -> Dict[str, str]:
         }
         
         payload = {
-            'model': 'kimi-k2.5',
+            'model': 'moonshot-v1-8k',  # 使用标准模型名
             'messages': [
                 {'role': 'system', 'content': '你是一个专业的AI新闻标题翻译助手，擅长将英文技术新闻标题翻译为简洁准确的中文。'},
                 {'role': 'user', 'content': prompt}
