@@ -1,0 +1,23 @@
+name: AI早报数据抓取
+
+on:
+  schedule:
+    - cron: '7 22 * * *'  # 每天 06:07 UTC+8
+  workflow_dispatch:
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - run: pip install requests
+    - run: python scripts/fetch-news.py
+    - run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/ai-news-daily.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 自动更新 AI早报数据 $(date +'%Y-%m-%d')"
+        git push        
