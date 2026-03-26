@@ -19,6 +19,14 @@ import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
 
+# 加载 .env 文件
+try:
+    from dotenv import load_dotenv
+    env_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
+    load_dotenv(env_path)
+except ImportError:
+    pass  # 如果没有安装 python-dotenv，跳过
+
 # 配置
 DATA_DIR = os.environ.get("DATA_DIR", "/root/.openclaw/workspace/ai-news-swipe/data")
 OUTPUT_FILE = os.path.join(DATA_DIR, "ai-news-daily.json")
