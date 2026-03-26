@@ -14,8 +14,13 @@ jobs:
       with:
         python-version: '3.11'
     - run: pip install requests
-    - run: python scripts/fetch-news.py
-    - run: |
+    - name: Run fetch script
+      run: python scripts/fetch-news.py
+      timeout-minutes: 10
+      env:
+        DATA_DIR: ${{ github.workspace }}/data
+    - name: Commit changes
+      run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/ai-news-daily.json
