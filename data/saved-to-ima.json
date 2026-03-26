@@ -1,0 +1,56 @@
+[
+  {
+    "title": "测试新闻标题",
+    "source": "Solidot",
+    "icon": "🇨🇳",
+    "heat": "high",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "what": "这是一个测试内容",
+    "why": "测试为什么火",
+    "publicView": "大众观点测试",
+    "counterView": "反常识观点测试",
+    "url": "https://example.com",
+    "content": "# 测试",
+    "savedAt": "2026-03-26T03:43:25.721Z",
+    "id": "1774496605721"
+  },
+  {
+    "title": "阿里巴巴发布RISC-V芯片优化大模型",
+    "source": "Solidot",
+    "icon": "🇨🇳",
+    "heat": "high",
+    "tags": [
+      "阿里",
+      "RISC-V",
+      "芯片"
+    ],
+    "what": "阿里巴巴发布优化运行国产大模型的RISC-V服务器芯片",
+    "why": "国产芯片+大模型结合，技术自主可控意义重大",
+    "publicView": "业界关注国产替代进展",
+    "counterView": "芯片只是第一步，软件生态才是真正的护城河",
+    "url": "https://www.solidot.org/story?sid=83867",
+    "savedAt": "2026-03-26T03:45:04.715Z",
+    "id": "1774496704715"
+  },
+  {
+    "title": "Google发布Lyria 3 Pro音乐生成器",
+    "source": "The Decoder",
+    "icon": "🌍",
+    "heat": "high",
+    "tags": [
+      "Google",
+      "音乐生成",
+      "Gemini"
+    ],
+    "what": "Google推出AI音乐生成器Lyria 3 Pro，支持多种音乐风格",
+    "why": "Google在AI创意工具领域追赶OpenAI",
+    "publicView": "音乐创作者关注其对行业的影响",
+    "counterView": "AI音乐版权归属仍不明晰，商业使用风险高",
+    "url": "https://the-decoder.com/google-lyria-3-pro",
+    "savedAt": "2026-03-26T03:45:13.758Z",
+    "id": "1774496713758"
+  }
+]

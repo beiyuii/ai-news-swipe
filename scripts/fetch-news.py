@@ -24,6 +24,7 @@ DATA_DIR = os.environ.get("DATA_DIR", "/root/.openclaw/workspace/ai-news-swipe/d
 OUTPUT_FILE = os.path.join(DATA_DIR, "ai-news-daily.json")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "")
+KIMI_API_KEY = os.environ.get("KIMI_API_KEY", "sk-kimi-lVFL8eOPdjcHeIKqRKO9cMukh1NdIBjS33yMWKgx1oGqTWnI0LCsg5cMYt9tPJil")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 # RSS源配置
@@ -617,6 +618,133 @@ def send_feishu_notification(data: Dict):
     except Exception as e:
         print(f"    [飞书推送错误] {e}")
 
+# ============ Kimi 批量翻译 ============
+
+def translate_titles_batch(titles: List[str]) -> Dict[str, str]:
+    """批量翻译英文标题为中文，使用Kimi API"""
+    if not titles:
+        return {}
+    
+    # 过滤掉空标题和已有中文的
+    to_translate = []
+    for t in titles:
+        if t and not is_chinese_text(t):
+            to_translate.append(t)
+    
+    if not to_translate:
+        return {t: t for t in titles}
+    
+    print(f"\n🌐 Kimi 批量翻译 {len(to_translate)} 条英文标题...")
+    
+    try:
+        # 构建批量翻译提示
+        titles_with_index = "\n".join([f"{i+1}. {t}" for i, t in enumerate(to_translate)])
+        
+        prompt = f"""请将以下英文AI新闻标题翻译成简洁的中文标题（保留技术术语如GPT、AI等不翻译）：
+
+{titles_with_index}
+
+请严格按照以下格式返回，每行一个翻译结果：
+1. [中文翻译]
+2. [中文翻译]
+..."""
+
+        headers = {
+            'Authorization': f'Bearer {KIMI_API_KEY}',
+            'Content-Type': 'application/json'
+        }
+        
+        payload = {
+            'model': 'kimi-k2.5',
+            'messages': [
+                {'role': 'system', 'content': '你是一个专业的AI新闻标题翻译助手，擅长将英文技术新闻标题翻译为简洁准确的中文。'},
+                {'role': 'user', 'content': prompt}
+            ],
+            'temperature': 0.3,
+            'max_tokens': 2000
+        }
+        
+        req = urllib.request.Request(
+            'https://api.moonshot.cn/v1/chat/completions',
+            data=json.dumps(payload).encode('utf-8'),
+            headers=headers
+        )
+        
+        with urllib.request.urlopen(req, timeout=60) as response:
+            result = json.loads(response.read().decode())
+            content = result['choices'][0]['message']['content']
+            
+            # 解析翻译结果
+            translations = {}
+            lines = content.strip().split('\n')
+            
+            for i, original in enumerate(to_translate):
+                translated = original  # 默认使用原文
+                
+                # 查找对应行的翻译
+                for line in lines:
+                    line = line.strip()
+                    if line.startswith(f"{i+1}.") or line.startswith(f"{i+1}、"):
+                        # 提取翻译内容
+                        parts = line.split('.', 1)
+                        if len(parts) == 2:
+                            translated = parts[1].strip()
+                        else:
+                            parts = line.split('、', 1)
+                            if len(parts) == 2:
+                                translated = parts[1].strip()
+                        
+                        # 清理可能的方括号
+                        translated = translated.strip('[]"')
+                        break
+                
+                translations[original] = translated if translated else original
+                print(f"      {i+1}. {original[:40]}... → {translations[original][:40]}...")
+            
+            print(f"      ✓ 翻译完成")
+            return translations
+            
+    except Exception as e:
+        print(f"    [Kimi翻译失败] {e}")
+        # 失败时返回原文
+        return {t: t for t in to_translate}
+
+def is_chinese_text(text: str) -> bool:
+    """判断文本是否主要为中文"""
+    if not text:
+        return False
+    chinese_chars = len([c for c in text if '\u4e00' <= c <= '\u9fff'])
+    return chinese_chars > len(text) * 0.3
+
+def add_title_cn_to_cards(cards: List[Dict]) -> List[Dict]:
+    """为所有卡片添加中文标题"""
+    # 收集需要翻译的标题
+    titles_to_translate = []
+    for card in cards:
+        if card.get('isEnglish') and card.get('title'):
+            titles_to_translate.append(card['title'])
+    
+    # 去重
+    unique_titles = list(set(titles_to_translate))
+    
+    if unique_titles:
+        # 批量翻译
+        translations = translate_titles_batch(unique_titles)
+        
+        # 应用到卡片
+        for card in cards:
+            if card.get('isEnglish') and card.get('title') in translations:
+                card['titleCn'] = translations[card['title']]
+            else:
+                # 中文标题或翻译失败，使用原标题
+                card['titleCn'] = card.get('title', '')
+    else:
+        # 没有英文标题需要翻译
+        for card in cards:
+            card['titleCn'] = card.get('title', '')
+    
+    return cards
+
 # ============ 主函数 ============
 
 def main():
@@ -668,6 +796,10 @@ def main():
     # 格式化卡片
     print(f"\n📝 格式化卡片并生成观点...")
     cards = format_cards(sorted_items)
+    
+    # 批量翻译英文标题
+    print(f"\n🌐 为英文标题添加中文翻译...")
+    cards = add_title_cn_to_cards(cards)
     
     # 构建数据
     data = {

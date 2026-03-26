@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>AI早报</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { font-family: 'Inter', 'Noto Sans SC', sans-serif; -webkit-tap-highlight-color: transparent; }
+        .dark-theme { background: #0a0a0f; }
+        .card-dark { background: linear-gradient(145deg, #1a1a24 0%, #12121a 100%); border: 1px solid rgba(255,255,255,0.06); box-shadow: 0 8px 32px rgba(0,0,0,0.4); }
+        .card-hover:hover { border-color: rgba(99,102,241,0.3); box-shadow: 0 12px 40px rgba(99,102,241,0.15); }
+        .card-stack { perspective: 1000px; }
+        .mobile-card { position: absolute; width: 100%; height: 100%; border-radius: 20px; transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease; overflow: hidden; }
+        .mobile-card.dragging { transition: none; }
+        .mobile-card:nth-child(1) { z-index: 30; }
+        .mobile-card:nth-child(2) { z-index: 20; transform: scale(0.97) translateY(10px); opacity: 0.6; }
+        .mobile-card:nth-child(3) { z-index: 10; transform: scale(0.94) translateY(20px); opacity: 0.3; }
+        .badge { position: absolute; top: 50px; padding: 6px 16px; border: 3px solid; border-radius: 10px; font-size: 18px; font-weight: 700; opacity: 0; transition: all 0.2s; }
+        .badge-nope { right: 30px; color: #ef4444; border-color: #ef4444; transform: rotate(15deg) scale(0.9); }
+        .badge-like { left: 30px; color: #10b981; border-color: #10b981; transform: rotate(-15deg) scale(0.9); }
+        .mobile-card.nope .badge-nope { opacity: 1; transform: rotate(15deg) scale(1); }
+        .mobile-card.like .badge-like { opacity: 1; transform: rotate(-15deg) scale(1); }
+        .tag { background: rgba(99,102,241,0.12); border: 1px solid rgba(99,102,241,0.2); }
+        .module { background: rgba(255,255,255,0.03); border-left: 3px solid; }
+        .module-what { border-color: #6366f1; }
+        .module-why { border-color: #f59e0b; }
+        .module-public { border-color: #3b82f6; }
+        .module-counter { border-color: #10b981; }
+        .btn-primary { background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); box-shadow: 0 4px 20px rgba(99,102,241,0.4); }
+        .btn-primary:hover { box-shadow: 0 6px 24px rgba(99,102,241,0.5); transform: translateY(-1px); }
+        ::-webkit-scrollbar { width: 4px; height: 4px; }
+        ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 2px; }
+        .toast { animation: toastIn 0.3s ease, toastOut 0.3s ease 2.7s forwards; }
+        @keyframes toastIn { from { opacity: 0; transform: translate(-50%, -10px); } to { opacity: 1; transform: translate(-50%, 0); } }
+        @keyframes toastOut { to { opacity: 0; transform: translate(-50%, -10px); } }
+        .selected { background: rgba(99,102,241,0.15) !important; border-color: rgba(99,102,241,0.4) !important; }
+        .lang-btn { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); }
+        .lang-btn.active { background: rgba(99,102,241,0.3); border-color: rgba(99,102,241,0.5); }
+        .loader { width: 40px; height: 40px; border: 2px solid rgba(99,102,241,0.2); border-top-color: #6366f1; border-radius: 50%; animation: spin 0.8s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+        .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+</head>
+<body class="dark-theme text-white min-h-screen">
+    <div id="loading" class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#0a0a0f]">
+        <div class="loader mb-4"></div>
+        <p class="text-white/50 text-sm">加载中...</p>
+    </div>
+    
+    <div id="toast" class="fixed top-6 left-1/2 z-50 hidden">
+        <div class="bg-[#1a1a24] border border-white/10 px-5 py-3 rounded-xl shadow-2xl flex items-center gap-3">
+            <span class="text-green-400 text-lg">✓</span>
+            <span id="toast-message" class="text-white/90 text-sm">已保存</span>
+        </div>
+    </div>
+    
+    <!-- MOBILE -->
+    <div id="mobile-view" class="lg:hidden h-screen flex flex-col">
+        <div class="px-4 py-3 flex items-center justify-between border-b border-white/5">
+            <div><h1 class="font-bold text-lg">AI早报</h1><p class="text-white/40 text-xs" id="mobile-date">--</p></div>
+            <div class="flex items-center gap-3">
+                <div class="flex bg-white/5 rounded-lg p-0.5">
+                    <button onclick="setLang('bilingual')" id="btn-bi-mobile" class="lang-btn active px-2 py-1 rounded text-xs">双语</button>
+                    <button onclick="setLang('cn-only')" id="btn-cn-mobile" class="lang-btn px-2 py-1 rounded text-xs">仅中文</button>
+                </div>
+                <div class="text-right"><div class="text-xs text-white/40">已保存</div><div class="text-indigo-400 font-bold" id="mobile-saved">0</div></div>
+            </div>
+        </div>
+        
+        <div class="flex-1 relative px-4 py-4">
+            <div id="mobile-stack" class="card-stack relative w-full h-full max-w-sm mx-auto"></div>
+            <div id="mobile-empty" class="hidden absolute inset-0 flex flex-col items-center justify-center text-center p-6">
+                <div class="text-5xl mb-4">🎉</div>
+                <h2 class="font-bold text-xl mb-2">今日早报已读完</h2>
+                <p class="text-white/50 mb-6">已保存 <span id="mobile-final">0</span> 条到 IMA</p>
+                <button onclick="location.reload()" class="btn-primary px-6 py-2.5 rounded-full text-sm font-medium">重新浏览</button>
+            </div>
+        </div>
+        
+        <div class="px-6 py-4 pb-8 border-t border-white/5">
+            <div class="flex items-center justify-center gap-6">
+                <button onclick="swipe('nope')" class="w-14 h-14 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-red-400">✕</button>
+                <div class="text-white/30 text-xs text-center"><div class="mb-0.5">← 舍弃</div><div>保存 →</div></div>
+                <button onclick="swipe('like')" class="w-14 h-14 rounded-full btn-primary flex items-center justify-center text-white">✓</button>
+            </div>
+            <div class="text-center mt-3 text-white/30 text-xs" id="mobile-progress">1 / 12</div>
+        </div>
+    </div>
+    
+    <!-- DESKTOP -->
+    <div id="desktop-view" class="hidden lg:flex h-screen">
+        <div class="w-80 flex flex-col border-r border-white/5 bg-[#0d0d12]">
+            <div class="p-4 border-b border-white/5">
+                <div class="flex items-center justify-between mb-3"><h1 class="font-bold text-lg">AI早报</h1><span class="text-white/40 text-sm" id="desktop-date">--</span></div>
+                <div class="flex items-center justify-between">
+                    <div class="flex bg-white/5 rounded-lg p-0.5">
+                        <button onclick="setLang('bilingual')" id="btn-bi" class="lang-btn active px-3 py-1 rounded text-xs">双语</button>
+                        <button onclick="setLang('cn-only')" id="btn-cn" class="lang-btn px-3 py-1 rounded text-xs">仅中文</button>
+                    </div>
+                    <div class="text-sm"><span class="text-white/40">已保存 </span><span class="text-indigo-400 font-bold" id="desktop-saved">0</span></div>
+                </div>
+            </div>
+            <div id="desktop-list" class="flex-1 overflow-y-auto p-3 space-y-2"></div>
+            <div class="p-4 border-t border-white/5">
+                <div class="flex items-center justify-between text-sm mb-2"><span class="text-white/40">进度</span><span class="text-white/60" id="desktop-progress">1 / 12</span></div>
+                <div class="h-1 bg-white/5 rounded-full overflow-hidden"><div id="progress-bar" class="h-full bg-indigo-500 transition-all duration-300" style="width: 0%"></div></div>
+            </div>
+        </div>
+        
+        <div class="flex-1 flex flex-col bg-[#0a0a0f]">
+            <div id="desktop-empty" class="hidden flex-1 flex flex-col items-center justify-center">
+                <div class="text-6xl mb-4">🎉</div>
+                <h2 class="font-bold text-2xl mb-2">今日早报已读完</h2>
+                <p class="text-white/50 mb-6">已保存 <span id="desktop-final">0</span> 条到 IMA</p>
+                <button onclick="location.reload()" class="btn-primary px-8 py-3 rounded-full font-medium">重新浏览</button>
+            </div>
+            
+            <div id="desktop-detail" class="flex-1 overflow-y-auto p-8">
+                <div class="max-w-3xl mx-auto">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span id="detail-icon" class="text-2xl">🌍</span>
+                        <span id="detail-source" class="text-white/40 text-sm">--</span>
+                        <span id="detail-heat" class="px-2 py-0.5 rounded text-xs font-medium bg-red-500/20 text-red-400">高热</span>
+                        <div id="detail-tags" class="flex gap-2 ml-auto"></div>
+                    </div>
+                    
+                    <div class="mb-8">
+                        <h1 id="detail-title-en" class="text-2xl font-bold text-white mb-2">--</h1>
+                        <h2 id="detail-title-cn" class="text-xl text-white/70">--</h2>
+                    </div>
+                    
+                    <div class="space-y-4">
+                        <div class="module module-what rounded-xl p-5">
+                            <div class="flex items-center gap-2 text-indigo-400 text-sm font-medium mb-3"><span>📋</span> 发生了什么</div>
+                            <p id="detail-what" class="text-white/80 leading-relaxed">--</p>
+                        </div>
+                        <div class="module module-why rounded-xl p-5">
+                            <div class="flex items-center gap-2 text-amber-400 text-sm font-medium mb-3"><span>🔥</span> 为什么火</div>
+                            <p id="detail-why" class="text-white/80 leading-relaxed">--</p>
+                        </div>
+                        <div class="module module-public rounded-xl p-5">
+                            <div class="flex items-center gap-2 text-blue-400 text-sm font-medium mb-3"><span>💬</span> 大众观点</div>
+                            <p id="detail-public" class="text-white/80 leading-relaxed">--</p>
+                        </div>
+                        <div class="module module-counter rounded-xl p-5">
+                            <div class="flex items-center gap-2 text-emerald-400 text-sm font-medium mb-3"><span>🤔</span> 反常识认知</div>
+                            <p id="detail-counter" class="text-white/80 leading-relaxed">--</p>
+                        </div>
+                    </div>
+                    
+                    <div class="flex items-center justify-center gap-4 mt-8 pt-6 border-t border-white/5">
+                        <button onclick="desktopSwipe('nope')" class="px-5 py-2.5 rounded-full bg-white/5 border border-white/10 text-white/70">舍弃</button>
+                        <button onclick="desktopSwipe('like')" class="btn-primary px-6 py-2.5 rounded-full text-white font-medium">保存到 IMA</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let cards = [], currentIndex = 0, savedCount = 0, savedIndices = new Set();
+        window.langMode = 'bilingual';
+        
+        // 标题 Hook - 从数据源的 titleCn 读取中文
+        function useTitle(card) {
+            const original = card.title || '';
+            const translated = card.titleCn || original;
+            const hasTranslation = translated !== original && translated !== '';
+            const mode = window.langMode || 'bilingual';
+            
+            return {
+                original, translated, hasTranslation,
+                html: () => {
+                    if (mode === 'cn-only') return `\u003ch2 class="text-lg font-bold text-white mb-1"\u003e${translated}\u003c/h2\u003e`;
+                    if (mode === 'bilingual' && hasTranslation) {
+                        return `\u003ch2 class="text-lg font-bold text-white mb-1"\u003e${original}\u003c/h2\u003e\u003cp class="text-sm text-white/50 mt-1"\u003e${translated}\u003c/p\u003e`;
+                    }
+                    return `\u003ch2 class="text-lg font-bold text-white mb-1"\u003e${original}\u003c/h2\u003e`;
+                },
+                list: () => mode === 'cn-only' ? translated : original,
+                sub: () => (mode === 'bilingual' && hasTranslation) ? translated : ''
+            };
+        }
+        
+        async function loadData() {
+            try {
+                const [savedRes, dataRes] = await Promise.all([
+                    fetch('/api/saved-items'),
+                    fetch('https://raw.githubusercontent.com/beiyuii/ai-news-swipe/main/data/ai-news-daily.json')
+                ]);
+                const savedData = await savedRes.json();
+                const data = await dataRes.json();
+                cards = data.cards || [];
+                savedCount = savedData.todaySavedCount || 0;
+                
+                document.getElementById('mobile-date').textContent = data.date;
+                document.getElementById('desktop-date').textContent = data.date;
+                document.getElementById('mobile-saved').textContent = savedCount;
+                document.getElementById('desktop-saved').textContent = savedCount;
+                document.getElementById('loading').classList.add('hidden');
+                
+                window.innerWidth >= 1024 ? renderDesktop() : renderMobile();
+            } catch (e) {
+                document.getElementById('loading').innerHTML = '\u003cp class="text-white/50"\u003e加载失败\u003c/p\u003e';
+            }
+        }
+        
+        function setLang(mode) {
+            window.langMode = mode;
+            ['btn-bi', 'btn-cn', 'btn-bi-mobile', 'btn-cn-mobile'].forEach(id => {
+                const btn = document.getElementById(id);
+                if (btn) btn.classList.toggle('active', (mode === 'bilingual' && id.includes('bi')) || (mode === 'cn-only' && id.includes('cn')));
+            });
+            window.innerWidth >= 1024 ? (renderDesktopList(), showDesktopDetail(currentIndex)) : renderMobileCards();
+        }
+        
+        function renderMobile() {
+            document.getElementById('mobile-view').classList.remove('hidden');
+            renderMobileCards();
+        }
+        
+        function renderMobileCards() {
+            const container = document.getElementById('mobile-stack');
+            container.innerHTML = '';
+            for (let i = currentIndex; i < Math.min(currentIndex + 3, cards.length); i++) {
+                container.appendChild(createMobileCard(cards[i], i));
+            }
+            initMobileEvents();
+            document.getElementById('mobile-progress').textContent = `${currentIndex + 1} / ${cards.length}`;
+        }
+        
+        function createMobileCard(data, index) {
+            const div = document.createElement('div');
+            div.className = 'mobile-card card-dark';
+            div.dataset.index = index;
+            const titleObj = useTitle(data);
+            const tags = data.related?.map(t => `\u003cspan class="tag px-2 py-0.5 rounded text-xs text-indigo-300"\u003e${t}\u003c/span\u003e`).join('') || '';
+            const heatColor = data.heat === 'high' ? 'text-red-400' : 'text-amber-400';
+            const heatText = data.heat === 'high' ? '● 高热' : '● 中热';
+            
+            div.innerHTML = `\u003cdiv class="h-full flex flex-col p-5"\u003e
+                \u003cdiv class="flex items-center justify-between mb-3"\u003e\u003cdiv class="flex items-center gap-2"\u003e\u003cspan class="text-xl"\u003e${data.icon}\u003c/span\u003e\u003cspan class="text-white/40 text-xs"\u003e${data.source}\u003c/span\u003e\u003c/div\u003e\u003cspan class="${heatColor} text-xs font-medium"\u003e${heatText}\u003c/span\u003e\u003c/div\u003e
+                \u003cdiv class="mb-3"\u003e${titleObj.html()}\u003c/div\u003e
+                \u003cdiv class="flex flex-wrap gap-1.5 mb-4"\u003e${tags}\u003c/div\u003e
+                \u003cdiv class="flex-1 overflow-y-auto hide-scrollbar space-y-3"\u003e
+                    \u003cdiv class="bg-white/5 rounded-lg p-3"\u003e\u003cdiv class="text-xs text-indigo-400 mb-1"\u003e📋 发生了什么\u003c/div\u003e\u003cp class="text-sm text-white/70 line-clamp-3"\u003e${data.what || data.subtitle || '暂无内容'}\u003c/p\u003e\u003c/div\u003e
+                    \u003cdiv class="bg-white/5 rounded-lg p-3"\u003e\u003cdiv class="text-xs text-blue-400 mb-1"\u003e💬 大众观点\u003c/div\u003e\u003cp class="text-sm text-white/70 line-clamp-2"\u003e${data.publicView}\u003c/p\u003e\u003c/div\u003e
+                \u003c/div\u003e
+                \u003cdiv class="badge badge-nope"\u003e舍弃\u003c/div\u003e\u003cdiv class="badge badge-like"\u003e保存\u003c/div\u003e
+            \u003c/div\u003e`;
+            return div;
+        }
+        
+        function initMobileEvents() {
+            const card = document.querySelector('.mobile-card');
+            if (!card) return;
+            let startX = 0, isDragging = false;
+            const start = e => { isDragging = true; startX = e.touches ? e.touches[0].clientX : e.clientX; card.classList.add('dragging'); };
+            const move = e => {
+                if (!isDragging) return;
+                const x = e.touches ? e.touches[0].clientX : e.clientX, diff = x - startX;
+                card.style.transform = `translateX(${diff}px) rotate(${diff * 0.03}deg)`;
+                card.classList.toggle('like', diff > 60); card.classList.toggle('nope', diff < -60);
+            };
+            const end = () => {
+                if (!isDragging) return; isDragging = false; card.classList.remove('dragging');
+                const diff = parseInt(card.style.transform.replace('translateX(', '')) || 0;
+                if (diff > 120) swipe('like'); else if (diff < -120) swipe('nope'); else { card.style.transform = ''; card.classList.remove('like', 'nope'); }
+            };
+            card.addEventListener('mousedown', start); card.addEventListener('touchstart', start, {passive: false});
+            document.addEventListener('mousemove', move); document.addEventListener('touchmove', move, {passive: false});
+            document.addEventListener('mouseup', end); document.addEventListener('touchend', end);
+        }
+        
+        function renderDesktop() { document.getElementById('desktop-view').classList.remove('hidden'); renderDesktopList(); showDesktopDetail(currentIndex); }
+        
+        function renderDesktopList() {
+            const container = document.getElementById('desktop-list');
+            container.innerHTML = '';
+            cards.forEach((card, i) => {
+                const div = document.createElement('div');
+                const isSaved = savedIndices.has(i), isActive = i === currentIndex;
+                const titleObj = useTitle(card);
+                div.className = `card-dark card-hover rounded-lg p-3 cursor-pointer transition ${isActive ? 'selected' : ''} ${isSaved ? 'opacity-40' : ''}`;
+                div.onclick = () => { currentIndex = i; renderDesktopList(); showDesktopDetail(i); };
+                const subHtml = titleObj.sub() ? `\u003cp class="text-xs text-white/40 mt-0.5"\u003e${titleObj.sub()}\u003c/p\u003e` : '';
+                div.innerHTML = `\u003cdiv class="flex items-start gap-3"\u003e\u003cspan class="text-xl"\u003e${card.icon}\u003c/span\u003e\u003cdiv class="flex-1 min-w-0"\u003e\u003cdiv class="flex items-center gap-2 mb-1"\u003e\u003cspan class="text-xs text-white/30"\u003e${card.source}\u003c/span\u003e${card.heat === 'high' ? '\u003cspan class="text-xs text-red-400"\u003e●\u003c/span\u003e' : ''}\u003c/div\u003e\u003ch3 class="text-sm font-medium text-white/90 line-clamp-2 ${isSaved ? 'line-through' : ''}"\u003e${titleObj.list()}\u003c/h3\u003e${subHtml}\u003c/div\u003e${isSaved ? '\u003cspan class="text-green-400 text-xs"\u003e✓\u003c/span\u003e' : ''}\u003c/div\u003e`;
+                container.appendChild(div);
+            });
+            const active = container.children[currentIndex];
+            if (active) active.scrollIntoView({behavior: 'smooth', block: 'center'});
+        }
+        
+        function showDesktopDetail(index) {
+            if (index >= cards.length) {
+                document.getElementById('desktop-detail').classList.add('hidden');
+                document.getElementById('desktop-empty').classList.remove('hidden');
+                document.getElementById('desktop-final').textContent = savedCount;
+                return;
+            }
+            document.getElementById('desktop-detail').classList.remove('hidden');
+            document.getElementById('desktop-empty').classList.add('hidden');
+            const card = cards[index], titleObj = useTitle(card);
+            document.getElementById('detail-icon').textContent = card.icon;
+            document.getElementById('detail-source').textContent = card.source;
+            document.getElementById('detail-heat').textContent = card.heat === 'high' ? '高热' : '中热';
+            document.getElementById('detail-heat').className = `px-2 py-0.5 rounded text-xs font-medium ${card.heat === 'high' ? 'bg-red-500/20 text-red-400' : 'bg-amber-500/20 text-amber-400'}`;
+            document.getElementById('detail-title-en').textContent = titleObj.original;
+            document.getElementById('detail-title-cn').textContent = titleObj.sub();
+            document.getElementById('detail-title-cn').style.display = titleObj.sub() ? 'block' : 'none';
+            document.getElementById('detail-what').textContent = card.what || card.subtitle || '暂无内容';
+            document.getElementById('detail-why').textContent = card.why || '暂无';
+            document.getElementById('detail-public').textContent = card.publicView || '暂无';
+            document.getElementById('detail-counter').textContent = card.counterView || '暂无';
+            document.getElementById('detail-tags').innerHTML = card.related?.map(t => `\u003cspan class="tag px-2 py-0.5 rounded text-xs text-indigo-300"\u003e${t}\u003c/span\u003e`).join('') || '';
+            document.getElementById('progress-bar').style.width = `${((index + 1) / cards.length) * 100}%`;
+            document.getElementById('desktop-progress').textContent = `${index + 1} / ${cards.length}`;
+        }
+        
+        async function swipe(dir) {
+            const card = document.querySelector('.mobile-card');
+            if (!card) return;
+            if (dir === 'like') { card.style.transform = 'translateX(150%) rotate(20deg)'; card.style.opacity = '0'; await saveCard(cards[currentIndex]); }
+            else { card.style.transform = 'translateX(-150%) rotate(-20deg)'; card.style.opacity = '0'; }
+            setTimeout(() => {
+                currentIndex++;
+                if (currentIndex >= cards.length) {
+                    document.getElementById('mobile-stack').classList.add('hidden');
+                    document.getElementById('mobile-empty').classList.remove('hidden');
+                    document.getElementById('mobile-final').textContent = savedCount;
+                } else { renderMobileCards(); }
+            }, 300);
+        }
+        
+        async function desktopSwipe(dir) {
+            if (dir === 'like') { savedIndices.add(currentIndex); await saveCard(cards[currentIndex]); }
+            currentIndex++; renderDesktopList(); showDesktopDetail(currentIndex);
+        }
+        
+        async function saveCard(card) {
+            try {
+                const titleObj = useTitle(card);
+                const res = await fetch('/api/save-to-ima', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ title: titleObj.translated || titleObj.original, source: card.source, icon: card.icon, heat: card.heat, tags: card.related, what: card.what, why: card.why, publicView: card.publicView, counterView: card.counterView, url: card.url })
+                });
+                const data = await res.json();
+                if (data.success) {
+                    savedCount = data.savedCount;
+                    document.getElementById('mobile-saved').textContent = savedCount;
+                    document.getElementById('desktop-saved').textContent = savedCount;
+                    showToast(`已保存 (${savedCount}条)`);
+                }
+            } catch (e) {}
+        }
+        
+        function showToast(msg) {
+            const t = document.getElementById('toast');
+            document.getElementById('toast-message').textContent = msg;
+            t.classList.remove('hidden');
+            t.querySelector('div').classList.add('toast');
+            setTimeout(() => t.classList.add('hidden'), 3000);
+        }
+        
+        document.addEventListener('keydown', e => {
+            if (window.innerWidth >= 1024) {
+                if (e.key === 'ArrowUp' && currentIndex > 0) { currentIndex--; renderDesktopList(); showDesktopDetail(currentIndex); }
+                if (e.key === 'ArrowDown' && currentIndex < cards.length - 1) { currentIndex++; renderDesktopList(); showDesktopDetail(currentIndex); }
+                if (e.key === 's' || e.key === 'S') desktopSwipe('like');
+                if (e.key === 'd' || e.key === 'D') desktopSwipe('nope');
+            } else {
+                if (e.key === 'ArrowLeft') swipe('nope');
+                if (e.key === 'ArrowRight') swipe('like');
+            }
+        });
+        
+        loadData();
+    </script>
+</body>
+</html>
