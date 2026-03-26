@@ -17,7 +17,7 @@ import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
 
-DATA_DIR = "/root/.openclaw/workspace/ai-news-swipe/data"
+DATA_DIR = os.environ.get("DATA_DIR", "/root/.openclaw/workspace/ai-news-swipe/data")
 OUTPUT_FILE = os.path.join(DATA_DIR, "ai-news-daily.json")
 os.makedirs(DATA_DIR, exist_ok=True)
 
