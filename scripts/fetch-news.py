@@ -24,7 +24,7 @@ DATA_DIR = os.environ.get("DATA_DIR", "/root/.openclaw/workspace/ai-news-swipe/d
 OUTPUT_FILE = os.path.join(DATA_DIR, "ai-news-daily.json")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "")
-KIMI_API_KEY = os.environ.get("KIMI_API_KEY", "sk-kimi-lVFL8eOPdjcHeIKqRKO9cMukh1NdIBjS33yMWKgx1oGqTWnI0LCsg5cMYt9tPJil")
+KIMI_API_KEY = os.environ.get("KIMI_API_KEY", "")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 # RSS源配置
