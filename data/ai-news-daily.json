@@ -1,0 +1,407 @@
+{
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T10:28:01.580154",
+  "count": 20,
+  "cards": [
+    {
+      "id": "1",
+      "title": "阿里巴巴发布优化运行国产大模型的 RISC-V 服务器芯片",
+      "subtitle": "",
+      "what": "",
+      "why": "Solidot报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "Solidot报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "Solidot",
+      "icon": "🇨🇳",
+      "url": "https://www.solidot.org/story?sid=83867",
+      "isEnglish": false
+    },
+    {
+      "id": "2",
+      "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
+      "subtitle": "",
+      "what": "",
+      "why": "Google在AI领域持续发力，Gemini系列被视为对抗OpenAI的重要力量",
+      "related": [
+        "Google",
+        "Gemini",
+        "DeepMind",
+        "Sundar Pichai"
+      ],
+      "publicView": "The Decoder报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "The Decoder",
+      "icon": "🔍",
+      "url": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
+      "isEnglish": true
+    },
+    {
+      "id": "3",
+      "title": "PyPI 库中的 LiteLLM 遭到入侵植入恶意代码",
+      "subtitle": "",
+      "what": "",
+      "why": "Solidot报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "Solidot报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "Solidot",
+      "icon": "🇨🇳",
+      "url": "https://www.solidot.org/story?sid=83865",
+      "isEnglish": false
+    },
+    {
+      "id": "4",
+      "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
+      "subtitle": "",
+      "what": "",
+      "why": "权威AI媒体深度报道，技术细节准确，业界高度关注",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "The Decoder报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "The Decoder",
+      "icon": "🔍",
+      "url": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
+      "isEnglish": true
+    },
+    {
+      "id": "5",
+      "title": "OpenAI 宣布关闭 Sora，终止与迪士尼的合作",
+      "subtitle": "",
+      "what": "",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "Sam Altman",
+        "GPT-5",
+        "ChatGPT",
+        "Microsoft"
+      ],
+      "publicView": "OpenAI再次引领行业，GPT系列仍是标杆，国产大模型追赶压力大",
+      "counterView": "OpenAI的'领先'建立在数据飞轮而非技术壁垒上；用户迁移成本其实很低，一旦有更优替代品出现，市场地位可瞬间动摇",
+      "heat": "high",
+      "source": "Solidot",
+      "icon": "🇨🇳",
+      "url": "https://www.solidot.org/story?sid=83864",
+      "isEnglish": false
+    },
+    {
+      "id": "6",
+      "title": "Arm breaks from its licensing-only model with first in-house chip built for AI data centers",
+      "subtitle": "",
+      "what": "",
+      "why": "权威AI媒体深度报道，技术细节准确，业界高度关注",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "The Decoder报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "The Decoder",
+      "icon": "🔍",
+      "url": "https://the-decoder.com/arm-breaks-from-its-licensing-only-model-with-first-in-house-chip-built-for-ai-data-centers/",
+      "isEnglish": true
+    },
+    {
+      "id": "7",
+      "title": "Epic Games 裁员逾千人，强调与 AI 无关",
+      "subtitle": "",
+      "what": "",
+      "why": "Solidot报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "Solidot报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "Solidot",
+      "icon": "🇨🇳",
+      "url": "https://www.solidot.org/story?sid=83863",
+      "isEnglish": false
+    },
+    {
+      "id": "8",
+      "title": "OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\"",
+      "subtitle": "",
+      "what": "",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "Sam Altman",
+        "GPT-5",
+        "ChatGPT",
+        "Microsoft"
+      ],
+      "publicView": "OpenAI再次引领行业，GPT系列仍是标杆，国产大模型追赶压力大",
+      "counterView": "OpenAI的'领先'建立在数据飞轮而非技术壁垒上；用户迁移成本其实很低，一旦有更优替代品出现，市场地位可瞬间动摇",
+      "heat": "high",
+      "source": "The Decoder",
+      "icon": "🔍",
+      "url": "https://the-decoder.com/openai-ceo-sam-altman-reportedly-teases-a-very-strong-model-internally-that-can-really-accelerate-the-economy/",
+      "isEnglish": true
+    },
+    {
+      "id": "9",
+      "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+      "subtitle": "",
+      "what": "",
+      "why": "学术界前沿研究成果发布，可能在未来6-12个月影响产业实践",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "学术界新进展，技术细节扎实，但落地应用还需时间验证",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "Arxiv",
+      "icon": "📄",
+      "url": "https://arxiv.org/abs/2603.22306",
+      "isEnglish": true
+    },
+    {
+      "id": "10",
+      "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+      "subtitle": "",
+      "what": "",
+      "why": "学术界前沿研究成果发布，可能在未来6-12个月影响产业实践",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "学术界新进展，技术细节扎实，但落地应用还需时间验证",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "Arxiv",
+      "icon": "📄",
+      "url": "https://arxiv.org/abs/2603.22312",
+      "isEnglish": true
+    },
+    {
+      "id": "11",
+      "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+      "subtitle": "",
+      "what": "",
+      "why": "学术界前沿研究成果发布，可能在未来6-12个月影响产业实践",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "学术界新进展，技术细节扎实，但落地应用还需时间验证",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "Arxiv",
+      "icon": "📄",
+      "url": "https://arxiv.org/abs/2603.22345",
+      "isEnglish": true
+    },
+    {
+      "id": "12",
+      "title": "Intelligence Inertia: Physical Principles and Applications",
+      "subtitle": "",
+      "what": "",
+      "why": "学术界前沿研究成果发布，可能在未来6-12个月影响产业实践",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "学术界新进展，技术细节扎实，但落地应用还需时间验证",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "Arxiv",
+      "icon": "📄",
+      "url": "https://arxiv.org/abs/2603.22347",
+      "isEnglish": true
+    },
+    {
+      "id": "13",
+      "title": "OpenAI's latest repo has Claude as the third top contributor",
+      "subtitle": "",
+      "what": "HN 58赞/24评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "Sam Altman",
+        "GPT-5",
+        "ChatGPT",
+        "Microsoft"
+      ],
+      "publicView": "OpenAI再次引领行业，GPT系列仍是标杆，国产大模型追赶压力大",
+      "counterView": "OpenAI的'领先'建立在数据飞轮而非技术壁垒上；用户迁移成本其实很低，一旦有更优替代品出现，市场地位可瞬间动摇",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47518001",
+      "isEnglish": true
+    },
+    {
+      "id": "14",
+      "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+      "subtitle": "",
+      "what": "HN 206赞/3评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "Sam Altman",
+        "GPT-5",
+        "ChatGPT",
+        "Microsoft"
+      ],
+      "publicView": "OpenAI再次引领行业，GPT系列仍是标杆，国产大模型追赶压力大",
+      "counterView": "OpenAI的'领先'建立在数据飞轮而非技术壁垒上；用户迁移成本其实很低，一旦有更优替代品出现，市场地位可瞬间动摇",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47509234",
+      "isEnglish": true
+    },
+    {
+      "id": "15",
+      "title": "Goodbye to Sora",
+      "subtitle": "",
+      "what": "HN 1087赞/802评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "Hacker News报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47508246",
+      "isEnglish": true
+    },
+    {
+      "id": "16",
+      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "subtitle": "",
+      "what": "HN 217赞/97评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "Hacker News报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47491466",
+      "isEnglish": true
+    },
+    {
+      "id": "17",
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "subtitle": "",
+      "what": "HN 291赞/213评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "Hacker News报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47461094",
+      "isEnglish": true
+    },
+    {
+      "id": "18",
+      "title": "Ensu – Ente’s Local LLM app",
+      "subtitle": "",
+      "what": "HN 335赞/150评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "Hacker News报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47516650",
+      "isEnglish": true
+    },
+    {
+      "id": "19",
+      "title": "GitHub热门: harry0703/MoneyPrinterTurbo",
+      "subtitle": "",
+      "what": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. MoneyPrinterTurbo 💸 简体中文 | English 只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "GitHub Trending报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "isEnglish": true
+    },
+    {
+      "id": "20",
+      "title": "GitHub热门: TheSmallHanCat/flow2api",
+      "subtitle": "",
+      "what": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297Flow2API 一个功能完整的 OpenAI 兼容 API 服务，为 Flow 提供统一的接口 ✨ 核心特性 🎨 文生图 / 图生图 🎬 文生视频 / 图生视频 🎞️ 首尾帧视频 ",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势",
+        "技术进展",
+        "商业化",
+        "竞争格局"
+      ],
+      "publicView": "GitHub Trending报道，技术圈关注度高，等待更多实测反馈",
+      "counterView": "大众关注的热点往往是噪音；真正改变行业的技术通常在热度消退后才显现价值，过早的媒体关注反而让产品走偏",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/TheSmallHanCat/flow2api",
+      "isEnglish": true
+    }
+  ]
+}
