@@ -1,7 +1,7 @@
 {
-  "date": "2026-03-26",
-  "generated_at": "2026-03-26T22:49:08.218784",
-  "count": 10,
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T22:50:40.266839",
+  "count": 12,
   "sources": {
     "zh": 3,
     "en": 18
@@ -11,8 +11,8 @@
       "id": "1",
       "title": "Goodbye to Sora",
       "subtitle": "",
-      "what": "HN 1119赞/833评论",
-      "why": "HN热度极高(1119赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 1128赞/843评论",
+      "why": "HN热度极高(1128赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "Sora"
       ],
@@ -29,10 +29,10 @@
     },
     {
       "id": "2",
-      "title": "Ensu – Ente’s Local LLM app",
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
       "subtitle": "",
-      "what": "HN 357赞/167评论",
-      "why": "HN热度极高(357赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 483赞/234评论",
+      "why": "HN热度极高(483赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "AI趋势"
       ],
@@ -41,55 +41,34 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47516650",
+      "url": "https://news.ycombinator.com/item?id=47548243",
       "isEnglish": true,
-      "published_at": "2026-03-25T12:49:14Z",
+      "published_at": "2026-03-27T21:04:51Z",
       "trust_score": 5,
-      "titleCn": "Ensu – Ente’s Local LLM app"
+      "titleCn": "If you don't opt out by Apr 24 GitHub will train on your private repos"
     },
     {
       "id": "3",
-      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
       "subtitle": "",
-      "what": "HN 221赞/99评论",
-      "why": "HN热度极高(221赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 296赞/258评论",
+      "why": "HN热度极高(296赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "智能体"
+        "AI趋势"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47491466",
+      "url": "https://news.ycombinator.com/item?id=47544980",
       "isEnglish": true,
-      "published_at": "2026-03-23T16:11:03Z",
+      "published_at": "2026-03-27T16:39:32Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Cq – Stack Overflow for AI coding agents"
+      "titleCn": "AI got the blame for the Iran school bombing. The truth is more worrying"
     },
     {
       "id": "4",
-      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "subtitle": "",
-      "what": "HN 220赞/88评论",
-      "why": "HN热度极高(220赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Apple",
-        "RAG"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47504695",
-      "isEnglish": true,
-      "published_at": "2026-03-24T16:02:22Z",
-      "trust_score": 5,
-      "titleCn": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon"
-    },
-    {
-      "id": "5",
       "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
       "subtitle": "",
       "what": "HN 206赞/3评论",
@@ -110,10 +89,10 @@
       "titleCn": "Disney Exits OpenAI Deal After AI Giant Shutters Sora"
     },
     {
-      "id": "6",
+      "id": "5",
       "title": "Show HN: Robust LLM extractor for websites in TypeScript",
       "subtitle": "",
-      "what": "HN 63赞/43评论",
+      "what": "HN 70赞/46评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -130,7 +109,109 @@
       "titleCn": "Show HN: Robust LLM extractor for websites in TypeScript"
     },
     {
+      "id": "6",
+      "title": "Claude loses its >99% uptime in Q1 2026",
+      "subtitle": "",
+      "what": "HN 69赞/71评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Claude"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47543189",
+      "isEnglish": true,
+      "published_at": "2026-03-27T14:40:06Z",
+      "trust_score": 5,
+      "titleCn": "Claude loses its >99% uptime in Q1 2026"
+    },
+    {
       "id": "7",
+      "title": "OpenAI's latest repo has Claude as the third top contributor",
+      "subtitle": "",
+      "what": "HN 59赞/25评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI",
+        "Claude"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47518001",
+      "isEnglish": true,
+      "published_at": "2026-03-25T14:44:10Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI's latest repo has Claude as the third top contributor"
+    },
+    {
+      "id": "8",
+      "title": "OpenAI shutting down Sora app",
+      "subtitle": "",
+      "what": "HN 50赞/3评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI",
+        "Sora"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47509036",
+      "isEnglish": true,
+      "published_at": "2026-03-24T20:49:31Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI shutting down Sora app"
+    },
+    {
+      "id": "9",
+      "title": "GitHub热门: agentscope-ai/agentscope",
+      "subtitle": "",
+      "what": "Build and run agents you can see, understand and trust.\n\n 中文主页 | Tutorial | Roadmap (Jan 2026 -) | FAQ\n\nWhat is AgentScope? \nAgentScope is a production-ready, easy-to-use agent framework with essentia",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: agentscope-ai/agentscope"
+    },
+    {
+      "id": "10",
+      "title": "GitHub热门: p-e-w/heretic",
+      "subtitle": "",
+      "what": "Fully automatic censorship removal for language models\n\nHeretic: Fully automatic censorship removal for language models\n\nHeretic is a tool that removes censorship (aka \"safety alignment\") from transfo",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "大模型"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/p-e-w/heretic",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: p-e-w/heretic"
+    },
+    {
+      "id": "11",
       "title": "GitHub热门: harry0703/MoneyPrinterTurbo",
       "subtitle": "",
       "what": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.\n\n MoneyPrinterTurbo 💸 \n\n 简体中文 | English \n\n 只需提供一个视频 \n 主题 或 \n 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 \n\n Web界面 \n\n API界面 \n\n特",
@@ -150,54 +231,12 @@
       "titleCn": "GitHub热门: harry0703/MoneyPrinterTurbo"
     },
     {
-      "id": "8",
-      "title": "GitHub热门: TheSmallHanCat/flow2api",
+      "id": "12",
+      "title": "GitHub热门: hsliuping/TradingAgents-CN",
       "subtitle": "",
-      "what": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297\nFlow2API \n\n 一个功能完整的 OpenAI 兼容 API 服务，为 Flow 提供统一的接口\n\n✨ 核心特性 \n\n 🎨 文生图 / 图生图 \n 🎬 文生视频 / 图生视频 \n 🎞️ 首尾帧视频 \n 🔄 AT/ST自动刷新 - AT 过期自动刷新，ST 过期时自动通过浏览",
+      "what": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版\nTradingAgents 中文增强版 \n\n⚠️ 重要版权声明与授权说明 \n🚨 版权侵权警告 \n我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。\n\n⚠️ 重要提醒：\n\n ❌ 我们项目组目前没有给任何组织或个人进行过商业授权 \n ❌ 该网站未经授权使用我们的",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "OpenAI"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/TheSmallHanCat/flow2api",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: TheSmallHanCat/flow2api"
-    },
-    {
-      "id": "9",
-      "title": "GitHub热门: FujiwaraChoki/MoneyPrinterV2",
-      "subtitle": "",
-      "what": "Automate the process of making money online.\nMoneyPrinter V2 \n\n ♥︎ Sponsor: The Best AI Chat App: shiori.ai. Use code MPV2 for 20% off.\n\n 𝕏 Also, follow me on X: @DevBySami.\n\nAn Application that autom",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "代码生成"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: FujiwaraChoki/MoneyPrinterV2"
-    },
-    {
-      "id": "10",
-      "title": "GitHub热门: anthropics/skills",
-      "subtitle": "",
-      "what": "Public repository for Agent Skills\n\n Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io.\n\nSkills \nSkill",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Anthropic",
-        "Claude",
         "智能体"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
@@ -205,11 +244,11 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/anthropics/skills",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: anthropics/skills"
+      "titleCn": "GitHub热门: hsliuping/TradingAgents-CN"
     }
   ]
 }
