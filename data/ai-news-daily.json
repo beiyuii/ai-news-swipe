@@ -1,18 +1,18 @@
 {
-  "date": "2026-03-27",
-  "generated_at": "2026-03-27T22:50:40.266839",
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T22:46:30.873185",
   "count": 12,
   "sources": {
-    "zh": 3,
-    "en": 18
+    "zh": 0,
+    "en": 19
   },
   "cards": [
     {
       "id": "1",
       "title": "Goodbye to Sora",
       "subtitle": "",
-      "what": "HN 1128赞/843评论",
-      "why": "HN热度极高(1128赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 1134赞/849评论",
+      "why": "HN热度极高(1134赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "Sora"
       ],
@@ -29,10 +29,10 @@
     },
     {
       "id": "2",
-      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
       "subtitle": "",
-      "what": "HN 483赞/234评论",
-      "why": "HN热度极高(483赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 252赞/200评论",
+      "why": "HN热度极高(252赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "AI趋势"
       ],
@@ -41,34 +41,14 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47548243",
+      "url": "https://news.ycombinator.com/item?id=47555090",
       "isEnglish": true,
-      "published_at": "2026-03-27T21:04:51Z",
+      "published_at": "2026-03-28T14:49:25Z",
       "trust_score": 5,
-      "titleCn": "If you don't opt out by Apr 24 GitHub will train on your private repos"
+      "titleCn": "Folk are getting dangerously attached to AI that always tells them they're right"
     },
     {
       "id": "3",
-      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "subtitle": "",
-      "what": "HN 296赞/258评论",
-      "why": "HN热度极高(296赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47544980",
-      "isEnglish": true,
-      "published_at": "2026-03-27T16:39:32Z",
-      "trust_score": 5,
-      "titleCn": "AI got the blame for the Iran school bombing. The truth is more worrying"
-    },
-    {
-      "id": "4",
       "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
       "subtitle": "",
       "what": "HN 206赞/3评论",
@@ -89,10 +69,30 @@
       "titleCn": "Disney Exits OpenAI Deal After AI Giant Shutters Sora"
     },
     {
+      "id": "4",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "subtitle": "",
+      "what": "HN 115赞/75评论",
+      "why": "HN高赞(115赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "Claude"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47557166",
+      "isEnglish": true,
+      "published_at": "2026-03-28T18:38:59Z",
+      "trust_score": 5,
+      "titleCn": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem"
+    },
+    {
       "id": "5",
       "title": "Show HN: Robust LLM extractor for websites in TypeScript",
       "subtitle": "",
-      "what": "HN 70赞/46评论",
+      "what": "HN 72赞/48评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -110,26 +110,6 @@
     },
     {
       "id": "6",
-      "title": "Claude loses its >99% uptime in Q1 2026",
-      "subtitle": "",
-      "what": "HN 69赞/71评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Claude"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47543189",
-      "isEnglish": true,
-      "published_at": "2026-03-27T14:40:06Z",
-      "trust_score": 5,
-      "titleCn": "Claude loses its >99% uptime in Q1 2026"
-    },
-    {
-      "id": "7",
       "title": "OpenAI's latest repo has Claude as the third top contributor",
       "subtitle": "",
       "what": "HN 59赞/25评论",
@@ -148,6 +128,26 @@
       "published_at": "2026-03-25T14:44:10Z",
       "trust_score": 5,
       "titleCn": "OpenAI's latest repo has Claude as the third top contributor"
+    },
+    {
+      "id": "7",
+      "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
+      "subtitle": "",
+      "what": "HN 59赞/47评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47555081",
+      "isEnglish": true,
+      "published_at": "2026-03-28T14:48:14Z",
+      "trust_score": 5,
+      "titleCn": "The risk of AI isn't making us lazy, but making \"lazy\" look productive"
     },
     {
       "id": "8",
@@ -172,9 +172,9 @@
     },
     {
       "id": "9",
-      "title": "GitHub热门: agentscope-ai/agentscope",
+      "title": "GitHub热门: virattt/dexter",
       "subtitle": "",
-      "what": "Build and run agents you can see, understand and trust.\n\n 中文主页 | Tutorial | Roadmap (Jan 2026 -) | FAQ\n\nWhat is AgentScope? \nAgentScope is a production-ready, easy-to-use agent framework with essentia",
+      "what": "An autonomous agent for deep financial research\nDexter 🤖 \nDexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-re",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "智能体"
@@ -184,71 +184,71 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/agentscope-ai/agentscope",
+      "url": "https://github.com/virattt/dexter",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: agentscope-ai/agentscope"
+      "titleCn": "GitHub热门: virattt/dexter"
     },
     {
       "id": "10",
-      "title": "GitHub热门: p-e-w/heretic",
+      "title": "GitHub热门: apache/superset",
       "subtitle": "",
-      "what": "Fully automatic censorship removal for language models\n\nHeretic: Fully automatic censorship removal for language models\n\nHeretic is a tool that removes censorship (aka \"safety alignment\") from transfo",
+      "what": "Apache Superset is a Data Visualization and Data Exploration Platform\nSuperset \n\nA modern, enterprise-ready business intelligence web application.\n\nDocumentation \n\n User Guide — For analysts and busin",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "大模型"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/p-e-w/heretic",
+      "url": "https://github.com/apache/superset",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: p-e-w/heretic"
+      "titleCn": "GitHub热门: apache/superset"
     },
     {
       "id": "11",
-      "title": "GitHub热门: harry0703/MoneyPrinterTurbo",
+      "title": "GitHub热门: langfuse/langfuse",
       "subtitle": "",
-      "what": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.\n\n MoneyPrinterTurbo 💸 \n\n 简体中文 | English \n\n 只需提供一个视频 \n 主题 或 \n 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 \n\n Web界面 \n\n API界面 \n\n特",
+      "what": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23\n\n L",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "视频生成"
+        "OpenAI"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/langfuse/langfuse",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: harry0703/MoneyPrinterTurbo"
+      "titleCn": "GitHub热门: langfuse/langfuse"
     },
     {
       "id": "12",
-      "title": "GitHub热门: hsliuping/TradingAgents-CN",
+      "title": "GitHub热门: twentyhq/twenty",
       "subtitle": "",
-      "what": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版\nTradingAgents 中文增强版 \n\n⚠️ 重要版权声明与授权说明 \n🚨 版权侵权警告 \n我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。\n\n⚠️ 重要提醒：\n\n ❌ 我们项目组目前没有给任何组织或个人进行过商业授权 \n ❌ 该网站未经授权使用我们的",
+      "what": "Building a modern alternative to Salesforce, powered by the community.\n\nThe #1 Open-Source CRM \n🌐 Website · 📚 Documentation · Roadmap · Discord · Figma\n\nInstallation \nSee: 🚀 Self-hosting 🖥️ Local Setu",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "智能体"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "url": "https://github.com/twentyhq/twenty",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: hsliuping/TradingAgents-CN"
+      "titleCn": "GitHub热门: twentyhq/twenty"
     }
   ]
 }
