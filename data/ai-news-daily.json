@@ -1,9 +1,9 @@
 {
-  "date": "2026-03-28",
-  "generated_at": "2026-03-28T22:46:30.873185",
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T22:48:57.343808",
   "count": 12,
   "sources": {
-    "zh": 0,
+    "zh": 1,
     "en": 19
   },
   "cards": [
@@ -11,8 +11,8 @@
       "id": "1",
       "title": "Goodbye to Sora",
       "subtitle": "",
-      "what": "HN 1134赞/849评论",
-      "why": "HN热度极高(1134赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 1139赞/851评论",
+      "why": "HN热度极高(1139赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "Sora"
       ],
@@ -29,10 +29,10 @@
     },
     {
       "id": "2",
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
       "subtitle": "",
-      "what": "HN 252赞/200评论",
-      "why": "HN热度极高(252赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 267赞/199评论",
+      "why": "HN热度极高(267赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "AI趋势"
       ],
@@ -41,14 +41,34 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47555090",
+      "url": "https://news.ycombinator.com/item?id=47561819",
       "isEnglish": true,
-      "published_at": "2026-03-28T14:49:25Z",
+      "published_at": "2026-03-29T10:10:12Z",
       "trust_score": 5,
-      "titleCn": "Folk are getting dangerously attached to AI that always tells them they're right"
+      "titleCn": "Miasma: A tool to trap AI web scrapers in an endless poison pit"
     },
     {
       "id": "3",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "subtitle": "",
+      "what": "HN 252赞/167评论",
+      "why": "HN热度极高(252赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "Claude"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47557166",
+      "isEnglish": true,
+      "published_at": "2026-03-28T18:38:59Z",
+      "trust_score": 5,
+      "titleCn": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem"
+    },
+    {
+      "id": "4",
       "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
       "subtitle": "",
       "what": "HN 206赞/3评论",
@@ -69,30 +89,31 @@
       "titleCn": "Disney Exits OpenAI Deal After AI Giant Shutters Sora"
     },
     {
-      "id": "4",
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "id": "5",
+      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
       "subtitle": "",
-      "what": "HN 115赞/75评论",
-      "why": "HN高赞(115赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 82赞/54评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Claude"
+        "智能体",
+        "代码生成"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
+      "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47557166",
+      "url": "https://news.ycombinator.com/item?id=47561496",
       "isEnglish": true,
-      "published_at": "2026-03-28T18:38:59Z",
+      "published_at": "2026-03-29T08:59:52Z",
       "trust_score": 5,
-      "titleCn": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem"
+      "titleCn": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "Show HN: Robust LLM extractor for websites in TypeScript",
       "subtitle": "",
-      "what": "HN 72赞/48评论",
+      "what": "HN 72赞/49评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -109,7 +130,27 @@
       "titleCn": "Show HN: Robust LLM extractor for websites in TypeScript"
     },
     {
-      "id": "6",
+      "id": "7",
+      "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
+      "subtitle": "",
+      "what": "HN 71赞/80评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47555081",
+      "isEnglish": true,
+      "published_at": "2026-03-28T14:48:14Z",
+      "trust_score": 5,
+      "titleCn": "The risk of AI isn't making us lazy, but making \"lazy\" look productive"
+    },
+    {
+      "id": "8",
       "title": "OpenAI's latest repo has Claude as the third top contributor",
       "subtitle": "",
       "what": "HN 59赞/25评论",
@@ -130,51 +171,10 @@
       "titleCn": "OpenAI's latest repo has Claude as the third top contributor"
     },
     {
-      "id": "7",
-      "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
-      "subtitle": "",
-      "what": "HN 59赞/47评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47555081",
-      "isEnglish": true,
-      "published_at": "2026-03-28T14:48:14Z",
-      "trust_score": 5,
-      "titleCn": "The risk of AI isn't making us lazy, but making \"lazy\" look productive"
-    },
-    {
-      "id": "8",
-      "title": "OpenAI shutting down Sora app",
-      "subtitle": "",
-      "what": "HN 50赞/3评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI",
-        "Sora"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47509036",
-      "isEnglish": true,
-      "published_at": "2026-03-24T20:49:31Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI shutting down Sora app"
-    },
-    {
       "id": "9",
-      "title": "GitHub热门: virattt/dexter",
+      "title": "GitHub热门: SakanaAI/AI-Scientist-v2",
       "subtitle": "",
-      "what": "An autonomous agent for deep financial research\nDexter 🤖 \nDexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-re",
+      "what": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search\n\n The AI Scientist-v2: Workshop-Level Automated\n Scientific Discovery via Agentic Tree Search \n\n 📚 [Paper] | ",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "智能体"
@@ -184,71 +184,74 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/virattt/dexter",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: virattt/dexter"
+      "titleCn": "GitHub热门: SakanaAI/AI-Scientist-v2"
     },
     {
       "id": "10",
-      "title": "GitHub热门: apache/superset",
+      "title": "GitHub热门: alirezarezvani/claude-skills",
       "subtitle": "",
-      "what": "Apache Superset is a Data Visualization and Data Exploration Platform\nSuperset \n\nA modern, enterprise-ready business intelligence web application.\n\nDocumentation \n\n User Guide — For analysts and busin",
+      "what": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.\nClaude Code Skills &amp; P",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "Claude",
+        "Gemini",
+        "智能体",
+        "代码生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/apache/superset",
+      "url": "https://github.com/alirezarezvani/claude-skills",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: apache/superset"
+      "titleCn": "GitHub热门: alirezarezvani/claude-skills"
     },
     {
       "id": "11",
-      "title": "GitHub热门: langfuse/langfuse",
+      "title": "GitHub热门: agentscope-ai/agentscope",
       "subtitle": "",
-      "what": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23\n\n L",
+      "what": "Build and run agents you can see, understand and trust.\n\n 中文主页 | Tutorial | Roadmap (Jan 2026 -) | FAQ\n\nWhat is AgentScope? \nAgentScope is a production-ready, easy-to-use agent framework with essentia",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "OpenAI"
+        "智能体"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/langfuse/langfuse",
+      "url": "https://github.com/agentscope-ai/agentscope",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: langfuse/langfuse"
+      "titleCn": "GitHub热门: agentscope-ai/agentscope"
     },
     {
       "id": "12",
-      "title": "GitHub热门: twentyhq/twenty",
+      "title": "GitHub热门: onyx-dot-app/onyx",
       "subtitle": "",
-      "what": "Building a modern alternative to Salesforce, powered by the community.\n\nThe #1 Open-Source CRM \n🌐 Website · 📚 Documentation · Roadmap · Discord · Figma\n\nInstallation \nSee: 🚀 Self-hosting 🖥️ Local Setu",
+      "what": "Open Source AI Platform - AI Chat with advanced features that works with every LLM\n\nOpen Source AI Platform\n\nOnyx is a feature-rich, self-hostable Chat UI that works with any LLM. It is easy to deploy",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "开源"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/twentyhq/twenty",
+      "url": "https://github.com/onyx-dot-app/onyx",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: twentyhq/twenty"
+      "titleCn": "GitHub热门: onyx-dot-app/onyx"
     }
   ]
 }
