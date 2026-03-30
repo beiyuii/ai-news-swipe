@@ -1,58 +1,18 @@
 {
-  "date": "2026-03-29",
-  "generated_at": "2026-03-29T22:48:57.343808",
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T22:53:43.039960",
   "count": 12,
   "sources": {
-    "zh": 1,
+    "zh": 2,
     "en": 19
   },
   "cards": [
     {
       "id": "1",
-      "title": "Goodbye to Sora",
-      "subtitle": "",
-      "what": "HN 1139赞/851评论",
-      "why": "HN热度极高(1139赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Sora"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47508246",
-      "isEnglish": true,
-      "published_at": "2026-03-24T20:01:05Z",
-      "trust_score": 5,
-      "titleCn": "Goodbye to Sora"
-    },
-    {
-      "id": "2",
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "subtitle": "",
-      "what": "HN 267赞/199评论",
-      "why": "HN热度极高(267赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47561819",
-      "isEnglish": true,
-      "published_at": "2026-03-29T10:10:12Z",
-      "trust_score": 5,
-      "titleCn": "Miasma: A tool to trap AI web scrapers in an endless poison pit"
-    },
-    {
-      "id": "3",
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "subtitle": "",
-      "what": "HN 252赞/167评论",
-      "why": "HN热度极高(252赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 256赞/180评论",
+      "why": "HN热度极高(256赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "Claude"
       ],
@@ -68,7 +28,7 @@
       "titleCn": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem"
     },
     {
-      "id": "4",
+      "id": "2",
       "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
       "subtitle": "",
       "what": "HN 206赞/3评论",
@@ -89,31 +49,30 @@
       "titleCn": "Disney Exits OpenAI Deal After AI Giant Shutters Sora"
     },
     {
-      "id": "5",
-      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
+      "id": "3",
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
       "subtitle": "",
-      "what": "HN 82赞/54评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "HN 145赞/45评论",
+      "why": "HN高赞(145赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
-        "智能体",
-        "代码生成"
+        "大模型"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
+      "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47561496",
+      "url": "https://news.ycombinator.com/item?id=47571495",
       "isEnglish": true,
-      "published_at": "2026-03-29T08:59:52Z",
+      "published_at": "2026-03-30T07:34:04Z",
       "trust_score": 5,
-      "titleCn": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown"
+      "titleCn": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models"
     },
     {
-      "id": "6",
+      "id": "4",
       "title": "Show HN: Robust LLM extractor for websites in TypeScript",
       "subtitle": "",
-      "what": "HN 72赞/49评论",
+      "what": "HN 72赞/50评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -130,27 +89,7 @@
       "titleCn": "Show HN: Robust LLM extractor for websites in TypeScript"
     },
     {
-      "id": "7",
-      "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
-      "subtitle": "",
-      "what": "HN 71赞/80评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47555081",
-      "isEnglish": true,
-      "published_at": "2026-03-28T14:48:14Z",
-      "trust_score": 5,
-      "titleCn": "The risk of AI isn't making us lazy, but making \"lazy\" look productive"
-    },
-    {
-      "id": "8",
+      "id": "5",
       "title": "OpenAI's latest repo has Claude as the third top contributor",
       "subtitle": "",
       "what": "HN 59赞/25评论",
@@ -171,34 +110,94 @@
       "titleCn": "OpenAI's latest repo has Claude as the third top contributor"
     },
     {
-      "id": "9",
-      "title": "GitHub热门: SakanaAI/AI-Scientist-v2",
+      "id": "6",
+      "title": "The sudden fall of Sora",
       "subtitle": "",
-      "what": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search\n\n The AI Scientist-v2: Workshop-Level Automated\n Scientific Discovery via Agentic Tree Search \n\n 📚 [Paper] | ",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "HN 54赞/49评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Sora"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47569837",
+      "isEnglish": true,
+      "published_at": "2026-03-30T02:43:17Z",
+      "trust_score": 5,
+      "titleCn": "The sudden fall of Sora"
+    },
+    {
+      "id": "7",
+      "title": "OpenAI shutting down Sora app",
+      "subtitle": "",
+      "what": "HN 50赞/3评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI",
+        "Sora"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47509036",
+      "isEnglish": true,
+      "published_at": "2026-03-24T20:49:31Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI shutting down Sora app"
+    },
+    {
+      "id": "8",
+      "title": "Show HN: Coasts – Containerized Hosts for Agents",
+      "subtitle": "",
+      "what": "HN 49赞/18评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47575417",
+      "isEnglish": true,
+      "published_at": "2026-03-30T15:17:51Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Coasts – Containerized Hosts for Agents"
+    },
+    {
+      "id": "9",
+      "title": "GitHub热门: microsoft/VibeVoice",
+      "subtitle": "",
+      "what": "Open-Source Frontier Voice AI\n\n 🎙️ VibeVoice: Open-Source Frontier Voice AI \n\n 📰 News \n 2026-03-29: 🎉 VibeVoice-ASR is being adopted by the open-source community! Vibing, a voice-powered input method,",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Microsoft"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "url": "https://github.com/microsoft/VibeVoice",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: SakanaAI/AI-Scientist-v2"
+      "titleCn": "GitHub热门: microsoft/VibeVoice"
     },
     {
       "id": "10",
-      "title": "GitHub热门: alirezarezvani/claude-skills",
+      "title": "GitHub热门: luongnv89/claude-howto",
       "subtitle": "",
-      "what": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.\nClaude Code Skills &amp; P",
+      "what": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\nMaster Claude Code in a Weekend \nGo from typing claude to",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "Claude",
-        "Gemini",
         "智能体",
         "代码生成"
       ],
@@ -207,51 +206,53 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/alirezarezvani/claude-skills",
+      "url": "https://github.com/luongnv89/claude-howto",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: alirezarezvani/claude-skills"
+      "titleCn": "GitHub热门: luongnv89/claude-howto"
     },
     {
       "id": "11",
-      "title": "GitHub热门: agentscope-ai/agentscope",
+      "title": "GitHub热门: hacksider/Deep-Live-Cam",
       "subtitle": "",
-      "what": "Build and run agents you can see, understand and trust.\n\n 中文主页 | Tutorial | Roadmap (Jan 2026 -) | FAQ\n\nWhat is AgentScope? \nAgentScope is a production-ready, easy-to-use agent framework with essentia",
+      "what": "real time face swap and one-click video deepfake with only a single image\nDeep-Live-Cam 2.1 \n Real-time face swap and video deepfake with a single click and only a single image. \n\nDisclaimer \nThis dee",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "智能体"
+        "视频生成",
+        "图像生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/agentscope-ai/agentscope",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: agentscope-ai/agentscope"
+      "titleCn": "GitHub热门: hacksider/Deep-Live-Cam"
     },
     {
       "id": "12",
-      "title": "GitHub热门: onyx-dot-app/onyx",
+      "title": "GitHub热门: OpenBB-finance/OpenBB",
       "subtitle": "",
-      "what": "Open Source AI Platform - AI Chat with advanced features that works with every LLM\n\nOpen Source AI Platform\n\nOnyx is a feature-rich, self-hostable Chat UI that works with any LLM. It is easy to deploy",
+      "what": "Financial data platform for analysts, quants and AI agents.\n\nOpen Data Platform by OpenBB (ODP) is the open-source toolset that helps data engineers integrate proprietary, licensed, and public data so",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "开源"
+        "智能体",
+        "金融AI"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/onyx-dot-app/onyx",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: onyx-dot-app/onyx"
+      "titleCn": "GitHub热门: OpenBB-finance/OpenBB"
     }
   ]
 }
