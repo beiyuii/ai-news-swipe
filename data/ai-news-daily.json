@@ -1,6 +1,6 @@
 {
-  "date": "2026-03-30",
-  "generated_at": "2026-03-30T22:53:43.039960",
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T22:50:06.430692",
   "count": 12,
   "sources": {
     "zh": 2,
@@ -9,67 +9,47 @@
   "cards": [
     {
       "id": "1",
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "title": "Claude Code users hitting usage limits 'way faster than expected'",
       "subtitle": "",
-      "what": "HN 256赞/180评论",
-      "why": "HN热度极高(256赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 260赞/158评论",
+      "why": "HN热度极高(260赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "Claude"
+        "Claude",
+        "代码生成"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47557166",
+      "url": "https://news.ycombinator.com/item?id=47586176",
       "isEnglish": true,
-      "published_at": "2026-03-28T18:38:59Z",
+      "published_at": "2026-03-31T12:11:29Z",
       "trust_score": 5,
-      "titleCn": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem"
+      "titleCn": "Claude Code users hitting usage limits 'way faster than expected'"
     },
     {
       "id": "2",
-      "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+      "title": "OpenAI closes funding round at an $852B valuation",
       "subtitle": "",
-      "what": "HN 206赞/3评论",
-      "why": "HN热度极高(206赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 231赞/212评论",
+      "why": "HN热度极高(231赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "OpenAI",
-        "Sora"
+        "OpenAI"
       ],
       "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
       "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47509234",
+      "url": "https://news.ycombinator.com/item?id=47592755",
       "isEnglish": true,
-      "published_at": "2026-03-24T21:01:21Z",
+      "published_at": "2026-03-31T20:07:30Z",
       "trust_score": 5,
-      "titleCn": "Disney Exits OpenAI Deal After AI Giant Shutters Sora"
+      "titleCn": "OpenAI closes funding round at an $852B valuation"
     },
     {
       "id": "3",
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "subtitle": "",
-      "what": "HN 145赞/45评论",
-      "why": "HN高赞(145赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "大模型"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47571495",
-      "isEnglish": true,
-      "published_at": "2026-03-30T07:34:04Z",
-      "trust_score": 5,
-      "titleCn": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models"
-    },
-    {
-      "id": "4",
       "title": "Show HN: Robust LLM extractor for websites in TypeScript",
       "subtitle": "",
       "what": "HN 72赞/50评论",
@@ -87,6 +67,26 @@
       "published_at": "2026-03-26T03:55:52Z",
       "trust_score": 5,
       "titleCn": "Show HN: Robust LLM extractor for websites in TypeScript"
+    },
+    {
+      "id": "4",
+      "title": "The sudden fall of Sora",
+      "subtitle": "",
+      "what": "HN 62赞/53评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Sora"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47569837",
+      "isEnglish": true,
+      "published_at": "2026-03-30T02:43:17Z",
+      "trust_score": 5,
+      "titleCn": "The sudden fall of Sora"
     },
     {
       "id": "5",
@@ -111,50 +111,30 @@
     },
     {
       "id": "6",
-      "title": "The sudden fall of Sora",
+      "title": "Claude Code full source code leaked on NPM",
       "subtitle": "",
-      "what": "HN 54赞/49评论",
+      "what": "HN 47赞/3评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Sora"
+        "Claude",
+        "代码生成"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47569837",
+      "url": "https://news.ycombinator.com/item?id=47584850",
       "isEnglish": true,
-      "published_at": "2026-03-30T02:43:17Z",
+      "published_at": "2026-03-31T09:40:12Z",
       "trust_score": 5,
-      "titleCn": "The sudden fall of Sora"
+      "titleCn": "Claude Code full source code leaked on NPM"
     },
     {
       "id": "7",
-      "title": "OpenAI shutting down Sora app",
+      "title": "Ask HN: Are you too getting addicted to the dev workflow of coding with agents?",
       "subtitle": "",
-      "what": "HN 50赞/3评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI",
-        "Sora"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47509036",
-      "isEnglish": true,
-      "published_at": "2026-03-24T20:49:31Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI shutting down Sora app"
-    },
-    {
-      "id": "8",
-      "title": "Show HN: Coasts – Containerized Hosts for Agents",
-      "subtitle": "",
-      "what": "HN 49赞/18评论",
+      "what": "HN 41赞/39评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "智能体"
@@ -164,11 +144,31 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47575417",
+      "url": "https://news.ycombinator.com/item?id=47581097",
       "isEnglish": true,
-      "published_at": "2026-03-30T15:17:51Z",
+      "published_at": "2026-03-30T23:49:28Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Coasts – Containerized Hosts for Agents"
+      "titleCn": "Ask HN: Are you too getting addicted to the dev workflow of coding with agents?"
+    },
+    {
+      "id": "8",
+      "title": "Closed Source AI = Neofeudalism",
+      "subtitle": "",
+      "what": "HN 38赞/18评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47584304",
+      "isEnglish": true,
+      "published_at": "2026-03-31T08:29:24Z",
+      "trust_score": 5,
+      "titleCn": "Closed Source AI = Neofeudalism"
     },
     {
       "id": "9",
