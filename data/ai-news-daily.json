@@ -1,18 +1,18 @@
 {
-  "date": "2026-04-01",
-  "generated_at": "2026-04-01T22:55:16.133314",
-  "count": 12,
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T22:48:45.937789",
+  "count": 11,
   "sources": {
     "zh": 2,
-    "en": 19
+    "en": 18
   },
   "cards": [
     {
       "id": "1",
       "title": "OpenAI closes funding round at an $852B valuation",
       "subtitle": "",
-      "what": "HN 510赞/475评论",
-      "why": "HN热度极高(510赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 523赞/486评论",
+      "why": "HN热度极高(523赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
       ],
@@ -29,71 +29,30 @@
     },
     {
       "id": "2",
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "subtitle": "",
-      "what": "HN 398赞/146评论",
-      "why": "HN热度极高(398赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 402赞/94评论",
+      "why": "HN热度极高(402赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "AI趋势"
+        "开源"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "publicView": "开源社区反响积极，认为这是推动AI民主化的重要进展",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47593422",
+      "url": "https://news.ycombinator.com/item?id=47612724",
       "isEnglish": true,
-      "published_at": "2026-03-31T21:01:18Z",
+      "published_at": "2026-04-02T11:04:51Z",
       "trust_score": 5,
-      "titleCn": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs"
+      "titleCn": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU"
     },
     {
       "id": "3",
-      "title": "Claude Code users hitting usage limits 'way faster than expected'",
-      "subtitle": "",
-      "what": "HN 318赞/216评论",
-      "why": "HN热度极高(318赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47586176",
-      "isEnglish": true,
-      "published_at": "2026-03-31T12:11:29Z",
-      "trust_score": 5,
-      "titleCn": "Claude Code users hitting usage limits 'way faster than expected'"
-    },
-    {
-      "id": "4",
-      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
-      "subtitle": "",
-      "what": "HN 234赞/102评论",
-      "why": "HN热度极高(234赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Claude"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47597119",
-      "isEnglish": true,
-      "published_at": "2026-04-01T05:21:48Z",
-      "trust_score": 5,
-      "titleCn": "Claude wrote a full FreeBSD remote kernel RCE with root shell"
-    },
-    {
-      "id": "5",
       "title": "The OpenAI graveyard: All the deals and products that haven't happened",
       "subtitle": "",
-      "what": "HN 206赞/155评论",
-      "why": "HN热度极高(206赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 239赞/195评论",
+      "why": "HN热度极高(239赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
       ],
@@ -109,11 +68,31 @@
       "titleCn": "The OpenAI graveyard: All the deals and products that haven't happened"
     },
     {
-      "id": "6",
+      "id": "4",
+      "title": "r/programming bans all discussion of LLM programming",
+      "subtitle": "",
+      "what": "HN 178赞/183评论",
+      "why": "HN高赞(178赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47610336",
+      "isEnglish": true,
+      "published_at": "2026-04-02T05:33:20Z",
+      "trust_score": 5,
+      "titleCn": "r/programming bans all discussion of LLM programming"
+    },
+    {
+      "id": "5",
       "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
       "subtitle": "",
-      "what": "HN 130赞/58评论",
-      "why": "HN高赞(130赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 137赞/60评论",
+      "why": "HN高赞(137赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "OpenAI",
         "Anthropic"
@@ -130,49 +109,87 @@
       "titleCn": "OpenAI demand sinks on secondary market as Anthropic runs hot"
     },
     {
-      "id": "7",
-      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "id": "6",
+      "title": "OpenAI Acquires TBPN",
       "subtitle": "",
-      "what": "HN 66赞/23评论",
+      "what": "HN 116赞/98评论",
+      "why": "HN高赞(116赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47617376",
+      "isEnglish": true,
+      "published_at": "2026-04-02T17:26:49Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI Acquires TBPN"
+    },
+    {
+      "id": "7",
+      "title": "The case for zero-error horizons in trustworthy LLMs",
+      "subtitle": "",
+      "what": "HN 63赞/89评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Claude",
-        "智能体",
-        "代码生成"
+        "AI趋势"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47602986",
+      "url": "https://news.ycombinator.com/item?id=47615876",
       "isEnglish": true,
-      "published_at": "2026-04-01T16:24:28Z",
+      "published_at": "2026-04-02T15:35:31Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Real-time dashboard for Claude Code agent teams"
+      "titleCn": "The case for zero-error horizons in trustworthy LLMs"
     },
     {
       "id": "8",
-      "title": "Show HN: Baton – A desktop app for developing with AI agents",
+      "title": "GitHub热门: microsoft/VibeVoice",
       "subtitle": "",
-      "what": "HN 59赞/49评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "Open-Source Frontier Voice AI\n\n 🎙️ VibeVoice: Open-Source Frontier Voice AI \n\n 📰 News \n 🎉 VibeVoice-ASR is being adopted by the open-source community! Vibing, a voice-powered input method, is now buil",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "智能体"
+        "Microsoft"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47599771",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/microsoft/VibeVoice",
       "isEnglish": true,
-      "published_at": "2026-04-01T12:11:30Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: Baton – A desktop app for developing with AI agents"
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: microsoft/VibeVoice"
     },
     {
       "id": "9",
+      "title": "GitHub热门: google-research/timesfm",
+      "subtitle": "",
+      "what": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nTimesFM \nTimesFM (Time Series Foundation Model) is a pretr",
+      "why": "Google在AI领域持续发力，Gemini系列被视为对抗OpenAI的重要力量",
+      "related": [
+        "Google"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/google-research/timesfm",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: google-research/timesfm"
+    },
+    {
+      "id": "10",
       "title": "GitHub热门: luongnv89/claude-howto",
       "subtitle": "",
       "what": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\nMaster Claude Code in a Weekend \nGo from typing claude to",
@@ -194,65 +211,24 @@
       "titleCn": "GitHub热门: luongnv89/claude-howto"
     },
     {
-      "id": "10",
-      "title": "GitHub热门: microsoft/VibeVoice",
-      "subtitle": "",
-      "what": "Open-Source Frontier Voice AI\n\n 🎙️ VibeVoice: Open-Source Frontier Voice AI \n\n 📰 News \n 2026-03-29: 🎉 VibeVoice-ASR is being adopted by the open-source community! Vibing, a voice-powered input method,",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Microsoft"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: microsoft/VibeVoice"
-    },
-    {
       "id": "11",
-      "title": "GitHub热门: NousResearch/hermes-agent",
+      "title": "GitHub热门: PaddlePaddle/PaddleOCR",
       "subtitle": "",
-      "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
+      "what": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.\n\n Global Leading OCR To",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "智能体"
+        "图像生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: NousResearch/hermes-agent"
-    },
-    {
-      "id": "12",
-      "title": "GitHub热门: microsoft/agent-lightning",
-      "subtitle": "",
-      "what": "The absolute trainer to light up AI agents.\n\nAgent Lightning⚡ \n\nThe absolute trainer to light up AI agents.\n\nJoin our Discord community to connect with other users and contributors.\n\n⚡ Core Features \n",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Microsoft",
-        "智能体"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/microsoft/agent-lightning",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: microsoft/agent-lightning"
+      "titleCn": "GitHub热门: PaddlePaddle/PaddleOCR"
     }
   ]
 }
