@@ -1,38 +1,18 @@
 {
-  "date": "2026-04-02",
-  "generated_at": "2026-04-02T22:48:45.937789",
-  "count": 11,
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T22:51:07.496894",
+  "count": 12,
   "sources": {
-    "zh": 2,
-    "en": 18
+    "zh": 1,
+    "en": 19
   },
   "cards": [
     {
       "id": "1",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "subtitle": "",
-      "what": "HN 523赞/486评论",
-      "why": "HN热度极高(523赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47592755",
-      "isEnglish": true,
-      "published_at": "2026-03-31T20:07:30Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI closes funding round at an $852B valuation"
-    },
-    {
-      "id": "2",
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "subtitle": "",
-      "what": "HN 402赞/94评论",
-      "why": "HN热度极高(402赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 544赞/111评论",
+      "why": "HN热度极高(544赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "开源"
       ],
@@ -48,10 +28,30 @@
       "titleCn": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU"
     },
     {
+      "id": "2",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "subtitle": "",
+      "what": "HN 525赞/493评论",
+      "why": "HN热度极高(525赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47592755",
+      "isEnglish": true,
+      "published_at": "2026-03-31T20:07:30Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI closes funding round at an $852B valuation"
+    },
+    {
       "id": "3",
       "title": "The OpenAI graveyard: All the deals and products that haven't happened",
       "subtitle": "",
-      "what": "HN 239赞/195评论",
+      "what": "HN 239赞/197评论",
       "why": "HN热度极高(239赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
@@ -69,10 +69,30 @@
     },
     {
       "id": "4",
+      "title": "OpenAI Acquires TBPN",
+      "subtitle": "",
+      "what": "HN 233赞/190评论",
+      "why": "HN热度极高(233赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47617376",
+      "isEnglish": true,
+      "published_at": "2026-04-02T17:26:49Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI Acquires TBPN"
+    },
+    {
+      "id": "5",
       "title": "r/programming bans all discussion of LLM programming",
       "subtitle": "",
-      "what": "HN 178赞/183评论",
-      "why": "HN高赞(178赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 190赞/210评论",
+      "why": "HN高赞(190赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -88,11 +108,11 @@
       "titleCn": "r/programming bans all discussion of LLM programming"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
       "subtitle": "",
-      "what": "HN 137赞/60评论",
-      "why": "HN高赞(137赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 138赞/60评论",
+      "why": "HN高赞(138赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "OpenAI",
         "Anthropic"
@@ -109,30 +129,10 @@
       "titleCn": "OpenAI demand sinks on secondary market as Anthropic runs hot"
     },
     {
-      "id": "6",
-      "title": "OpenAI Acquires TBPN",
-      "subtitle": "",
-      "what": "HN 116赞/98评论",
-      "why": "HN高赞(116赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47617376",
-      "isEnglish": true,
-      "published_at": "2026-04-02T17:26:49Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI Acquires TBPN"
-    },
-    {
       "id": "7",
       "title": "The case for zero-error horizons in trustworthy LLMs",
       "subtitle": "",
-      "what": "HN 63赞/89评论",
+      "what": "HN 76赞/109评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -150,52 +150,52 @@
     },
     {
       "id": "8",
-      "title": "GitHub热门: microsoft/VibeVoice",
+      "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
       "subtitle": "",
-      "what": "Open-Source Frontier Voice AI\n\n 🎙️ VibeVoice: Open-Source Frontier Voice AI \n\n 📰 News \n 🎉 VibeVoice-ASR is being adopted by the open-source community! Vibing, a voice-powered input method, is now buil",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "HN 74赞/42评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
-        "Microsoft"
+        "OpenAI",
+        "视频生成"
       ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/microsoft/VibeVoice",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47619322",
       "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: microsoft/VibeVoice"
+      "published_at": "2026-04-02T19:49:51Z",
+      "trust_score": 5,
+      "titleCn": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace"
     },
     {
       "id": "9",
-      "title": "GitHub热门: google-research/timesfm",
+      "title": "GitHub热门: sherlock-project/sherlock",
       "subtitle": "",
-      "what": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nTimesFM \nTimesFM (Time Series Foundation Model) is a pretr",
-      "why": "Google在AI领域持续发力，Gemini系列被视为对抗OpenAI的重要力量",
+      "what": "Hunt down social media accounts by username across social networks\n\n Hunt down social media accounts by username across 400+ social networks \n\n Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Google"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/google-research/timesfm",
+      "url": "https://github.com/sherlock-project/sherlock",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: google-research/timesfm"
+      "titleCn": "GitHub热门: sherlock-project/sherlock"
     },
     {
       "id": "10",
-      "title": "GitHub热门: luongnv89/claude-howto",
+      "title": "GitHub热门: MervinPraison/PraisonAI",
       "subtitle": "",
-      "what": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\nMaster Claude Code in a Weekend \nGo from typing claude to",
+      "what": "PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Claude",
         "智能体",
         "代码生成"
       ],
@@ -204,31 +204,51 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/luongnv89/claude-howto",
+      "url": "https://github.com/MervinPraison/PraisonAI",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: luongnv89/claude-howto"
+      "titleCn": "GitHub热门: MervinPraison/PraisonAI"
     },
     {
       "id": "11",
-      "title": "GitHub热门: PaddlePaddle/PaddleOCR",
+      "title": "GitHub热门: yusufkaraaslan/Skill_Seekers",
       "subtitle": "",
-      "what": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.\n\n Global Leading OCR To",
+      "what": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection\n\nSkill Seekers \nEnglish | 简体中文 | 日本語 | 한국어 | Español | Français | Deutsch | Portug",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "图像生成"
+        "Claude"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: PaddlePaddle/PaddleOCR"
+      "titleCn": "GitHub热门: yusufkaraaslan/Skill_Seekers"
+    },
+    {
+      "id": "12",
+      "title": "GitHub热门: zai-org/GLM-OCR",
+      "subtitle": "",
+      "what": "GLM-OCR: Accurate × Fast × Comprehensive\nGLM-OCR \n中文阅读\n\n 👋 Join our WeChat and Discord community \n 📖 Check out the GLM-OCR technical report \n 📍 Use GLM-OCR's API \n\nModel Introduction \nGLM-OCR is a mul",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "大模型"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/zai-org/GLM-OCR",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: zai-org/GLM-OCR"
     }
   ]
 }
