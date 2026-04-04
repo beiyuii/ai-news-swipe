@@ -1,57 +1,39 @@
 {
-  "date": "2026-04-03",
-  "generated_at": "2026-04-03T22:51:07.496894",
-  "count": 12,
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T22:47:38.692537",
+  "count": 10,
   "sources": {
-    "zh": 1,
-    "en": 19
+    "zh": 2,
+    "en": 18
   },
   "cards": [
     {
       "id": "1",
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "subtitle": "",
-      "what": "HN 544赞/111评论",
-      "why": "HN热度极高(544赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 1011赞/768评论",
+      "why": "HN热度极高(1011赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "开源"
+        "Anthropic",
+        "Claude",
+        "代码生成"
       ],
-      "publicView": "开源社区反响积极，认为这是推动AI民主化的重要进展",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47612724",
+      "url": "https://news.ycombinator.com/item?id=47633396",
       "isEnglish": true,
-      "published_at": "2026-04-02T11:04:51Z",
+      "published_at": "2026-04-03T22:55:24Z",
       "trust_score": 5,
-      "titleCn": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU"
+      "titleCn": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw"
     },
     {
       "id": "2",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "subtitle": "",
-      "what": "HN 525赞/493评论",
-      "why": "HN热度极高(525赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47592755",
-      "isEnglish": true,
-      "published_at": "2026-03-31T20:07:30Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI closes funding round at an $852B valuation"
-    },
-    {
-      "id": "3",
       "title": "The OpenAI graveyard: All the deals and products that haven't happened",
       "subtitle": "",
-      "what": "HN 239赞/197评论",
+      "what": "HN 239赞/199评论",
       "why": "HN热度极高(239赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
@@ -68,11 +50,11 @@
       "titleCn": "The OpenAI graveyard: All the deals and products that haven't happened"
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "OpenAI Acquires TBPN",
       "subtitle": "",
-      "what": "HN 233赞/190评论",
-      "why": "HN热度极高(233赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 237赞/190评论",
+      "why": "HN热度极高(237赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
       ],
@@ -88,11 +70,11 @@
       "titleCn": "OpenAI Acquires TBPN"
     },
     {
-      "id": "5",
-      "title": "r/programming bans all discussion of LLM programming",
+      "id": "4",
+      "title": "12k AI-generated blog posts added in a single commit",
       "subtitle": "",
-      "what": "HN 190赞/210评论",
-      "why": "HN高赞(190赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 137赞/138评论",
+      "why": "HN高赞(137赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -101,38 +83,17 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47610336",
+      "url": "https://news.ycombinator.com/item?id=47640722",
       "isEnglish": true,
-      "published_at": "2026-04-02T05:33:20Z",
+      "published_at": "2026-04-04T16:45:31Z",
       "trust_score": 5,
-      "titleCn": "r/programming bans all discussion of LLM programming"
+      "titleCn": "12k AI-generated blog posts added in a single commit"
     },
     {
-      "id": "6",
-      "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
+      "id": "5",
+      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
       "subtitle": "",
-      "what": "HN 138赞/60评论",
-      "why": "HN高赞(138赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47601405",
-      "isEnglish": true,
-      "published_at": "2026-04-01T14:26:16Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI demand sinks on secondary market as Anthropic runs hot"
-    },
-    {
-      "id": "7",
-      "title": "The case for zero-error horizons in trustworthy LLMs",
-      "subtitle": "",
-      "what": "HN 76赞/109评论",
+      "what": "HN 94赞/39评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -142,32 +103,71 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47615876",
+      "url": "https://news.ycombinator.com/item?id=47632504",
       "isEnglish": true,
-      "published_at": "2026-04-02T15:35:31Z",
+      "published_at": "2026-04-03T21:26:13Z",
       "trust_score": 5,
-      "titleCn": "The case for zero-error horizons in trustworthy LLMs"
+      "titleCn": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds"
     },
     {
-      "id": "8",
-      "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
+      "id": "6",
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
       "subtitle": "",
-      "what": "HN 74赞/42评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "what": "HN 93赞/58评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "OpenAI",
-        "视频生成"
+        "AI趋势"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47619322",
+      "url": "https://news.ycombinator.com/item?id=47639779",
       "isEnglish": true,
-      "published_at": "2026-04-02T19:49:51Z",
+      "published_at": "2026-04-04T15:18:58Z",
       "trust_score": 5,
-      "titleCn": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace"
+      "titleCn": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens"
+    },
+    {
+      "id": "7",
+      "title": "GitHub热门: onyx-dot-app/onyx",
+      "subtitle": "",
+      "what": "Open Source AI Platform - AI Chat with advanced features that works with every LLM\n\nOnyx - The Open Source AI Platform \nOnyx is the application layer for LLMs - bringing a feature-rich interface that ",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "开源"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: onyx-dot-app/onyx"
+    },
+    {
+      "id": "8",
+      "title": "GitHub热门: google-research/timesfm",
+      "subtitle": "",
+      "what": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nTimesFM \nTimesFM (Time Series Foundation Model) is a pretr",
+      "why": "Google在AI领域持续发力，Gemini系列被视为对抗OpenAI的重要力量",
+      "related": [
+        "Google"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/google-research/timesfm",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: google-research/timesfm"
     },
     {
       "id": "9",
@@ -191,64 +191,23 @@
     },
     {
       "id": "10",
-      "title": "GitHub热门: MervinPraison/PraisonAI",
+      "title": "GitHub热门: hsliuping/TradingAgents-CN",
       "subtitle": "",
-      "what": "PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g",
+      "what": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版\nTradingAgents 中文增强版 \n\n⚠️ 重要版权声明与授权说明 \n🚨 版权侵权警告 \n我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。\n\n⚠️ 重要提醒：\n\n ❌ 我们项目组目前没有给任何组织或个人进行过商业授权 \n ❌ 该网站未经授权使用我们的",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "智能体",
-        "代码生成"
+        "智能体"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/MervinPraison/PraisonAI",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: MervinPraison/PraisonAI"
-    },
-    {
-      "id": "11",
-      "title": "GitHub热门: yusufkaraaslan/Skill_Seekers",
-      "subtitle": "",
-      "what": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection\n\nSkill Seekers \nEnglish | 简体中文 | 日本語 | 한국어 | Español | Français | Deutsch | Portug",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Claude"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: yusufkaraaslan/Skill_Seekers"
-    },
-    {
-      "id": "12",
-      "title": "GitHub热门: zai-org/GLM-OCR",
-      "subtitle": "",
-      "what": "GLM-OCR: Accurate × Fast × Comprehensive\nGLM-OCR \n中文阅读\n\n 👋 Join our WeChat and Discord community \n 📖 Check out the GLM-OCR technical report \n 📍 Use GLM-OCR's API \n\nModel Introduction \nGLM-OCR is a mul",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "大模型"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/zai-org/GLM-OCR",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: zai-org/GLM-OCR"
+      "titleCn": "GitHub热门: hsliuping/TradingAgents-CN"
     }
   ]
 }
