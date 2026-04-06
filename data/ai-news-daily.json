@@ -1,78 +1,80 @@
 {
-  "date": "2026-04-05",
-  "generated_at": "2026-04-05T22:49:32.296161",
-  "count": 11,
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T22:53:37.118520",
+  "count": 12,
   "sources": {
-    "zh": 3,
-    "en": 19
+    "zh": 2,
+    "en": 18
   },
   "cards": [
     {
       "id": "1",
-      "title": "Caveman: Why use many token when few token do trick",
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "subtitle": "",
-      "what": "HN 639赞/300评论",
-      "why": "HN热度极高(639赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 830赞/126评论",
+      "why": "HN热度极高(830赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "AI趋势"
+        "大模型"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47647455",
+      "url": "https://news.ycombinator.com/item?id=47655408",
       "isEnglish": true,
-      "published_at": "2026-04-05T08:56:18Z",
+      "published_at": "2026-04-06T00:20:12Z",
       "trust_score": 5,
-      "titleCn": "Caveman: Why use many token when few token do trick"
+      "titleCn": "Show HN: I built a tiny LLM to demystify how language models work"
     },
     {
       "id": "2",
-      "title": "LLM Wiki – example of an \"idea file\"",
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
       "subtitle": "",
-      "what": "HN 274赞/87评论",
-      "why": "HN热度极高(274赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 388赞/96评论",
+      "why": "HN热度极高(388赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "AI趋势"
+        "Claude",
+        "代码生成"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47640875",
+      "url": "https://news.ycombinator.com/item?id=47651540",
       "isEnglish": true,
-      "published_at": "2026-04-04T16:57:45Z",
+      "published_at": "2026-04-05T17:13:51Z",
       "trust_score": 5,
-      "titleCn": "LLM Wiki – example of an \"idea file\""
+      "titleCn": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code"
     },
     {
       "id": "3",
-      "title": "OpenAI Acquires TBPN",
+      "title": "OpenAI's fall from grace as investors race to Anthropic",
       "subtitle": "",
-      "what": "HN 238赞/190评论",
-      "why": "HN热度极高(238赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 207赞/143评论",
+      "why": "HN热度极高(207赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "OpenAI"
+        "OpenAI",
+        "Anthropic"
       ],
       "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
       "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47617376",
+      "url": "https://news.ycombinator.com/item?id=47655058",
       "isEnglish": true,
-      "published_at": "2026-04-02T17:26:49Z",
+      "published_at": "2026-04-05T23:33:01Z",
       "trust_score": 5,
-      "titleCn": "OpenAI Acquires TBPN"
+      "titleCn": "OpenAI's fall from grace as investors race to Anthropic"
     },
     {
       "id": "4",
       "title": "Codex pricing to align with API token usage, instead of per-message",
       "subtitle": "",
-      "what": "HN 189赞/171评论",
-      "why": "HN高赞(189赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 203赞/190评论",
+      "why": "HN热度极高(203赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "代码生成"
       ],
@@ -91,8 +93,8 @@
       "id": "5",
       "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
       "subtitle": "",
-      "what": "HN 177赞/87评论",
-      "why": "HN高赞(177赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 183赞/89评论",
+      "why": "HN高赞(183赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -109,48 +111,67 @@
     },
     {
       "id": "6",
-      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
       "subtitle": "",
-      "what": "HN 130赞/33评论",
-      "why": "HN高赞(130赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 169赞/99评论",
+      "why": "HN高赞(169赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
-        "Claude",
-        "代码生成"
+        "智能体"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47651540",
+      "url": "https://news.ycombinator.com/item?id=47663147",
       "isEnglish": true,
-      "published_at": "2026-04-05T17:13:51Z",
+      "published_at": "2026-04-06T16:32:11Z",
       "trust_score": 5,
-      "titleCn": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code"
+      "titleCn": "Launch HN: Freestyle – Sandboxes for Coding Agents"
     },
     {
       "id": "7",
-      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "title": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter",
       "subtitle": "",
-      "what": "HN 126赞/22评论",
-      "why": "HN高赞(126赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 67赞/35评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
-        "Claude",
-        "代码生成"
+        "OpenAI",
+        "图像生成"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47649742",
+      "url": "https://news.ycombinator.com/item?id=47652549",
       "isEnglish": true,
-      "published_at": "2026-04-05T14:21:17Z",
+      "published_at": "2026-04-05T18:44:34Z",
       "trust_score": 5,
-      "titleCn": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs"
+      "titleCn": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter"
     },
     {
       "id": "8",
+      "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+      "subtitle": "",
+      "what": "HN 60赞/50评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47654757",
+      "isEnglish": true,
+      "published_at": "2026-04-05T22:54:29Z",
+      "trust_score": 5,
+      "titleCn": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate"
+    },
+    {
+      "id": "9",
       "title": "GitHub热门: Blaizzy/mlx-vlm",
       "subtitle": "",
       "what": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.\n\nMLX-VLM \nMLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs)",
@@ -170,7 +191,7 @@
       "titleCn": "GitHub热门: Blaizzy/mlx-vlm"
     },
     {
-      "id": "9",
+      "id": "10",
       "title": "GitHub热门: onyx-dot-app/onyx",
       "subtitle": "",
       "what": "Open Source AI Platform - AI Chat with advanced features that works with every LLM\n\nOnyx - The Open Source AI Platform \nOnyx is the application layer for LLMs - bringing a feature-rich interface that ",
@@ -190,7 +211,7 @@
       "titleCn": "GitHub热门: onyx-dot-app/onyx"
     },
     {
-      "id": "10",
+      "id": "11",
       "title": "GitHub热门: microsoft/agent-framework",
       "subtitle": "",
       "what": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.\n\nWelcome to Microsoft Agent Framework! \n\nWelcome to Microsoft's comprehensiv",
@@ -211,24 +232,24 @@
       "titleCn": "GitHub热门: microsoft/agent-framework"
     },
     {
-      "id": "11",
-      "title": "GitHub热门: sherlock-project/sherlock",
+      "id": "12",
+      "title": "GitHub热门: NousResearch/hermes-agent",
       "subtitle": "",
-      "what": "Hunt down social media accounts by username across social networks\n\n Hunt down social media accounts by username across 400+ social networks \n\n Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage",
+      "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "智能体"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/sherlock-project/sherlock",
+      "url": "https://github.com/NousResearch/hermes-agent",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: sherlock-project/sherlock"
+      "titleCn": "GitHub热门: NousResearch/hermes-agent"
     }
   ]
 }
