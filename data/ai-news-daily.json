@@ -1,7 +1,7 @@
 {
-  "date": "2026-04-06",
-  "generated_at": "2026-04-06T22:53:37.118520",
-  "count": 12,
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T22:55:21.734810",
+  "count": 11,
   "sources": {
     "zh": 2,
     "en": 18
@@ -9,51 +9,10 @@
   "cards": [
     {
       "id": "1",
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "subtitle": "",
-      "what": "HN 830赞/126评论",
-      "why": "HN热度极高(830赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "大模型"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47655408",
-      "isEnglish": true,
-      "published_at": "2026-04-06T00:20:12Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: I built a tiny LLM to demystify how language models work"
-    },
-    {
-      "id": "2",
-      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "subtitle": "",
-      "what": "HN 388赞/96评论",
-      "why": "HN热度极高(388赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47651540",
-      "isEnglish": true,
-      "published_at": "2026-04-05T17:13:51Z",
-      "trust_score": 5,
-      "titleCn": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code"
-    },
-    {
-      "id": "3",
       "title": "OpenAI's fall from grace as investors race to Anthropic",
       "subtitle": "",
-      "what": "HN 207赞/143评论",
-      "why": "HN热度极高(207赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 213赞/151评论",
+      "why": "HN热度极高(213赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI",
         "Anthropic"
@@ -70,11 +29,32 @@
       "titleCn": "OpenAI's fall from grace as investors race to Anthropic"
     },
     {
-      "id": "4",
+      "id": "2",
+      "title": "Claude Code is locking people out for hours",
+      "subtitle": "",
+      "what": "HN 213赞/290评论",
+      "why": "HN热度极高(213赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "Claude",
+        "代码生成"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47676521",
+      "isEnglish": true,
+      "published_at": "2026-04-07T15:04:23Z",
+      "trust_score": 5,
+      "titleCn": "Claude Code is locking people out for hours"
+    },
+    {
+      "id": "3",
       "title": "Codex pricing to align with API token usage, instead of per-message",
       "subtitle": "",
-      "what": "HN 203赞/190评论",
-      "why": "HN热度极高(203赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 208赞/193评论",
+      "why": "HN热度极高(208赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "代码生成"
       ],
@@ -90,11 +70,31 @@
       "titleCn": "Codex pricing to align with API token usage, instead of per-message"
     },
     {
+      "id": "4",
+      "title": "Taste in the age of AI and LLMs",
+      "subtitle": "",
+      "what": "HN 204赞/176评论",
+      "why": "HN热度极高(204赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47677241",
+      "isEnglish": true,
+      "published_at": "2026-04-07T15:54:16Z",
+      "trust_score": 5,
+      "titleCn": "Taste in the age of AI and LLMs"
+    },
+    {
       "id": "5",
       "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
       "subtitle": "",
-      "what": "HN 183赞/89评论",
-      "why": "HN高赞(183赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 184赞/102评论",
+      "why": "HN高赞(184赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -111,11 +111,12 @@
     },
     {
       "id": "6",
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "title": "Google open-sources experimental agent orchestration testbed Scion",
       "subtitle": "",
-      "what": "HN 169赞/99评论",
-      "why": "HN高赞(169赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 134赞/43评论",
+      "why": "HN高赞(134赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
+        "Google",
         "智能体"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
@@ -123,116 +124,34 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47663147",
+      "url": "https://news.ycombinator.com/item?id=47675213",
       "isEnglish": true,
-      "published_at": "2026-04-06T16:32:11Z",
+      "published_at": "2026-04-07T13:39:15Z",
       "trust_score": 5,
-      "titleCn": "Launch HN: Freestyle – Sandboxes for Coding Agents"
+      "titleCn": "Google open-sources experimental agent orchestration testbed Scion"
     },
     {
       "id": "7",
-      "title": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter",
+      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
       "subtitle": "",
-      "what": "HN 67赞/35评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "what": "HN 95赞/8评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "OpenAI",
-        "图像生成"
+        "Apple"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47652549",
+      "url": "https://news.ycombinator.com/item?id=47680309",
       "isEnglish": true,
-      "published_at": "2026-04-05T18:44:34Z",
+      "published_at": "2026-04-07T19:37:05Z",
       "trust_score": 5,
-      "titleCn": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter"
+      "titleCn": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon"
     },
     {
       "id": "8",
-      "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
-      "subtitle": "",
-      "what": "HN 60赞/50评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47654757",
-      "isEnglish": true,
-      "published_at": "2026-04-05T22:54:29Z",
-      "trust_score": 5,
-      "titleCn": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate"
-    },
-    {
-      "id": "9",
-      "title": "GitHub热门: Blaizzy/mlx-vlm",
-      "subtitle": "",
-      "what": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.\n\nMLX-VLM \nMLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs)",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "大模型"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/Blaizzy/mlx-vlm",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: Blaizzy/mlx-vlm"
-    },
-    {
-      "id": "10",
-      "title": "GitHub热门: onyx-dot-app/onyx",
-      "subtitle": "",
-      "what": "Open Source AI Platform - AI Chat with advanced features that works with every LLM\n\nOnyx - The Open Source AI Platform \nOnyx is the application layer for LLMs - bringing a feature-rich interface that ",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "开源"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: onyx-dot-app/onyx"
-    },
-    {
-      "id": "11",
-      "title": "GitHub热门: microsoft/agent-framework",
-      "subtitle": "",
-      "what": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.\n\nWelcome to Microsoft Agent Framework! \n\nWelcome to Microsoft's comprehensiv",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Microsoft",
-        "智能体"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/microsoft/agent-framework",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: microsoft/agent-framework"
-    },
-    {
-      "id": "12",
       "title": "GitHub热门: NousResearch/hermes-agent",
       "subtitle": "",
       "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
@@ -250,6 +169,67 @@
       "published_at": "",
       "trust_score": 4,
       "titleCn": "GitHub热门: NousResearch/hermes-agent"
+    },
+    {
+      "id": "9",
+      "title": "GitHub热门: NVIDIA/personaplex",
+      "subtitle": "",
+      "what": "PersonaPlex code.\nPersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models \n\nPersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona ",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "NVIDIA",
+        "代码生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: NVIDIA/personaplex"
+    },
+    {
+      "id": "10",
+      "title": "GitHub热门: HKUDS/DeepTutor",
+      "subtitle": "",
+      "what": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"\n\n DeepTutor: Agent-Native Personalized Tutoring \n\n Features · Get Started · Explore · TutorBot · CLI · Community\n\n 🇨🇳 中文 · 🇯🇵 日本語 · 🇪🇸 Español",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: HKUDS/DeepTutor"
+    },
+    {
+      "id": "11",
+      "title": "GitHub热门: Blaizzy/mlx-vlm",
+      "subtitle": "",
+      "what": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.\n\nMLX-VLM \nMLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs)",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "大模型"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: Blaizzy/mlx-vlm"
     }
   ]
 }
