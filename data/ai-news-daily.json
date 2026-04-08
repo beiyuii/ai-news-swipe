@@ -1,18 +1,98 @@
 {
-  "date": "2026-04-07",
-  "generated_at": "2026-04-07T22:55:21.734810",
-  "count": 11,
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T22:58:14.330464",
+  "count": 12,
   "sources": {
-    "zh": 2,
+    "zh": 1,
     "en": 18
   },
   "cards": [
     {
       "id": "1",
+      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+      "subtitle": "",
+      "what": "HN 375赞/113评论",
+      "why": "HN热度极高(375赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47684326",
+      "isEnglish": true,
+      "published_at": "2026-04-08T02:41:12Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI says its new model GPT-2 is too dangerous to release (2019)"
+    },
+    {
+      "id": "2",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "subtitle": "",
+      "what": "HN 244赞/47评论",
+      "why": "HN热度极高(244赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47689174",
+      "isEnglish": true,
+      "published_at": "2026-04-08T12:19:00Z",
+      "trust_score": 5,
+      "titleCn": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU"
+    },
+    {
+      "id": "3",
+      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "subtitle": "",
+      "what": "HN 227赞/118评论",
+      "why": "HN热度极高(227赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "Anthropic"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47693679",
+      "isEnglish": true,
+      "published_at": "2026-04-08T17:44:25Z",
+      "trust_score": 5,
+      "titleCn": "I've been waiting over a month for Anthropic to respond to my billing issue"
+    },
+    {
+      "id": "4",
+      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "subtitle": "",
+      "what": "HN 221赞/27评论",
+      "why": "HN热度极高(221赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "Apple"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47680309",
+      "isEnglish": true,
+      "published_at": "2026-04-07T19:37:05Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon"
+    },
+    {
+      "id": "5",
       "title": "OpenAI's fall from grace as investors race to Anthropic",
       "subtitle": "",
-      "what": "HN 213赞/151评论",
-      "why": "HN热度极高(213赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 216赞/151评论",
+      "why": "HN热度极高(216赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI",
         "Anthropic"
@@ -29,146 +109,65 @@
       "titleCn": "OpenAI's fall from grace as investors race to Anthropic"
     },
     {
-      "id": "2",
-      "title": "Claude Code is locking people out for hours",
-      "subtitle": "",
-      "what": "HN 213赞/290评论",
-      "why": "HN热度极高(213赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47676521",
-      "isEnglish": true,
-      "published_at": "2026-04-07T15:04:23Z",
-      "trust_score": 5,
-      "titleCn": "Claude Code is locking people out for hours"
-    },
-    {
-      "id": "3",
-      "title": "Codex pricing to align with API token usage, instead of per-message",
-      "subtitle": "",
-      "what": "HN 208赞/193评论",
-      "why": "HN热度极高(208赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47650726",
-      "isEnglish": true,
-      "published_at": "2026-04-05T15:58:08Z",
-      "trust_score": 5,
-      "titleCn": "Codex pricing to align with API token usage, instead of per-message"
-    },
-    {
-      "id": "4",
-      "title": "Taste in the age of AI and LLMs",
-      "subtitle": "",
-      "what": "HN 204赞/176评论",
-      "why": "HN热度极高(204赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47677241",
-      "isEnglish": true,
-      "published_at": "2026-04-07T15:54:16Z",
-      "trust_score": 5,
-      "titleCn": "Taste in the age of AI and LLMs"
-    },
-    {
-      "id": "5",
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "subtitle": "",
-      "what": "HN 184赞/102评论",
-      "why": "HN高赞(184赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47639779",
-      "isEnglish": true,
-      "published_at": "2026-04-04T15:18:58Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens"
-    },
-    {
       "id": "6",
-      "title": "Google open-sources experimental agent orchestration testbed Scion",
+      "title": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter",
       "subtitle": "",
-      "what": "HN 134赞/43评论",
-      "why": "HN高赞(134赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 76赞/41评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
-        "Google",
-        "智能体"
+        "OpenAI",
+        "图像生成"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47675213",
+      "url": "https://news.ycombinator.com/item?id=47652549",
       "isEnglish": true,
-      "published_at": "2026-04-07T13:39:15Z",
+      "published_at": "2026-04-05T18:44:34Z",
       "trust_score": 5,
-      "titleCn": "Google open-sources experimental agent orchestration testbed Scion"
+      "titleCn": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter"
     },
     {
       "id": "7",
-      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "title": "The AI Great Leap Forward",
       "subtitle": "",
-      "what": "HN 95赞/8评论",
+      "what": "HN 67赞/28评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Apple"
+        "AI趋势"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47680309",
+      "url": "https://news.ycombinator.com/item?id=47695647",
       "isEnglish": true,
-      "published_at": "2026-04-07T19:37:05Z",
+      "published_at": "2026-04-08T20:10:51Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon"
+      "titleCn": "The AI Great Leap Forward"
     },
     {
       "id": "8",
-      "title": "GitHub热门: NousResearch/hermes-agent",
+      "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
       "subtitle": "",
-      "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "HN 65赞/1评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
-        "智能体"
+        "OpenAI"
       ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "publicView": "HN讨论 (None赞): Previously on source: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47654757",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47672642",
       "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: NousResearch/hermes-agent"
+      "published_at": "2026-04-07T09:29:11Z",
+      "trust_score": 5,
+      "titleCn": "Iran threatens OpenAI's Stargate data center in Abu Dhabi"
     },
     {
       "id": "9",
@@ -193,6 +192,26 @@
     },
     {
       "id": "10",
+      "title": "GitHub热门: elebumm/RedditVideoMakerBot",
+      "subtitle": "",
+      "what": "Create Reddit Videos with just✨ one command ✨\nReddit Video Maker Bot 🎥 \nAll done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.\n\nCreated by Lewis Menelaws &amp; TMRRW\n\nVideo ",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "视频生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: elebumm/RedditVideoMakerBot"
+    },
+    {
+      "id": "11",
       "title": "GitHub热门: HKUDS/DeepTutor",
       "subtitle": "",
       "what": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"\n\n DeepTutor: Agent-Native Personalized Tutoring \n\n Features · Get Started · Explore · TutorBot · CLI · Community\n\n 🇨🇳 中文 · 🇯🇵 日本語 · 🇪🇸 Español",
@@ -212,24 +231,25 @@
       "titleCn": "GitHub热门: HKUDS/DeepTutor"
     },
     {
-      "id": "11",
-      "title": "GitHub热门: Blaizzy/mlx-vlm",
+      "id": "12",
+      "title": "GitHub热门: TheCraigHewitt/seomachine",
       "subtitle": "",
-      "what": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.\n\nMLX-VLM \nMLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs)",
+      "what": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "大模型"
+        "Claude",
+        "代码生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: Blaizzy/mlx-vlm"
+      "titleCn": "GitHub热门: TheCraigHewitt/seomachine"
     }
   ]
 }
