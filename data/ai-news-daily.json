@@ -1,18 +1,38 @@
 {
-  "date": "2026-04-09",
-  "generated_at": "2026-04-09T22:58:32.906826",
-  "count": 12,
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T22:53:24.333208",
+  "count": 11,
   "sources": {
-    "zh": 3,
-    "en": 18
+    "zh": 1,
+    "en": 19
   },
   "cards": [
     {
       "id": "1",
+      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "subtitle": "",
+      "what": "HN 412赞/306评论",
+      "why": "HN热度极高(412赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47717587",
+      "isEnglish": true,
+      "published_at": "2026-04-10T13:08:43Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI backs Illinois bill that would limit when AI labs can be held liable"
+    },
+    {
+      "id": "2",
       "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
       "subtitle": "",
-      "what": "HN 391赞/115评论",
-      "why": "HN热度极高(391赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 394赞/117评论",
+      "why": "HN热度极高(394赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
       ],
@@ -28,11 +48,11 @@
       "titleCn": "OpenAI says its new model GPT-2 is too dangerous to release (2019)"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
       "subtitle": "",
-      "what": "HN 321赞/56评论",
-      "why": "HN热度极高(321赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 324赞/57评论",
+      "why": "HN热度极高(324赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "AI趋势"
       ],
@@ -48,48 +68,47 @@
       "titleCn": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU"
     },
     {
-      "id": "3",
-      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "id": "4",
+      "title": "Molotov cocktail is hurled at home of Sam Altman",
       "subtitle": "",
-      "what": "HN 230赞/27评论",
-      "why": "HN热度极高(230赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 131赞/306评论",
+      "why": "HN高赞(131赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
-        "Apple"
+        "AI趋势"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47680309",
+      "url": "https://news.ycombinator.com/item?id=47722096",
       "isEnglish": true,
-      "published_at": "2026-04-07T19:37:05Z",
+      "published_at": "2026-04-10T18:48:24Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon"
-    },
-    {
-      "id": "4",
-      "title": "OpenAI's fall from grace as investors race to Anthropic",
-      "subtitle": "",
-      "what": "HN 217赞/151评论",
-      "why": "HN热度极高(217赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47655058",
-      "isEnglish": true,
-      "published_at": "2026-04-05T23:33:01Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI's fall from grace as investors race to Anthropic"
+      "titleCn": "Molotov cocktail is hurled at home of Sam Altman"
     },
     {
       "id": "5",
+      "title": "AI assistance when contributing to the Linux kernel",
+      "subtitle": "",
+      "what": "HN 113赞/96评论",
+      "why": "HN高赞(113赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47721953",
+      "isEnglish": true,
+      "published_at": "2026-04-10T18:35:21Z",
+      "trust_score": 5,
+      "titleCn": "AI assistance when contributing to the Linux kernel"
+    },
+    {
+      "id": "6",
       "title": "LLM scraper bots are overloading acme.com's HTTPS server",
       "subtitle": "",
       "what": "HN 68赞/62评论",
@@ -109,7 +128,7 @@
       "titleCn": "LLM scraper bots are overloading acme.com's HTTPS server"
     },
     {
-      "id": "6",
+      "id": "7",
       "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
       "subtitle": "",
       "what": "HN 65赞/1评论",
@@ -129,47 +148,67 @@
       "titleCn": "Iran threatens OpenAI's Stargate data center in Abu Dhabi"
     },
     {
-      "id": "7",
-      "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
-      "subtitle": "",
-      "what": "HN 64赞/164评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47654757",
-      "isEnglish": true,
-      "published_at": "2026-04-05T22:54:29Z",
-      "trust_score": 5,
-      "titleCn": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate"
-    },
-    {
       "id": "8",
-      "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
+      "title": "GitHub热门: NousResearch/hermes-agent",
       "subtitle": "",
-      "what": "HN 54赞/33评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "OpenAI"
+        "智能体"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47708593",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/NousResearch/hermes-agent",
       "isEnglish": true,
-      "published_at": "2026-04-09T19:29:59Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI puts Stargate UK on ice, blames energy costs and red tape"
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: NousResearch/hermes-agent"
     },
     {
       "id": "9",
+      "title": "GitHub热门: HKUDS/DeepTutor",
+      "subtitle": "",
+      "what": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"\n\n DeepTutor: Agent-Native Personalized Tutoring \n\n Features · Get Started · Explore · TutorBot · CLI · Community\n\n 🇨🇳 中文 · 🇯🇵 日本語 · 🇪🇸 Español",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: HKUDS/DeepTutor"
+    },
+    {
+      "id": "10",
+      "title": "GitHub热门: OpenBMB/VoxCPM",
+      "subtitle": "",
+      "what": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\nVoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, a",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: OpenBMB/VoxCPM"
+    },
+    {
+      "id": "11",
       "title": "GitHub热门: TheCraigHewitt/seomachine",
       "subtitle": "",
       "what": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
@@ -188,68 +227,6 @@
       "published_at": "",
       "trust_score": 4,
       "titleCn": "GitHub热门: TheCraigHewitt/seomachine"
-    },
-    {
-      "id": "10",
-      "title": "GitHub热门: NVIDIA/personaplex",
-      "subtitle": "",
-      "what": "PersonaPlex code.\nPersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models \n\nPersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona ",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "NVIDIA",
-        "代码生成"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/NVIDIA/personaplex",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: NVIDIA/personaplex"
-    },
-    {
-      "id": "11",
-      "title": "GitHub热门: elebumm/RedditVideoMakerBot",
-      "subtitle": "",
-      "what": "Create Reddit Videos with just✨ one command ✨\nReddit Video Maker Bot 🎥 \nAll done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.\n\nCreated by Lewis Menelaws &amp; TMRRW\n\nVideo ",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "视频生成"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/elebumm/RedditVideoMakerBot",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: elebumm/RedditVideoMakerBot"
-    },
-    {
-      "id": "12",
-      "title": "GitHub热门: newton-physics/newton",
-      "subtitle": "",
-      "what": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.\n\nNewton \nNewton is a GPU-accelerated physics simulation",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "NVIDIA",
-        "机器人"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/newton-physics/newton",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: newton-physics/newton"
     }
   ]
 }
