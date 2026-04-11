@@ -1,9 +1,9 @@
 {
-  "date": "2026-04-10",
-  "generated_at": "2026-04-10T22:53:24.333208",
+  "date": "2026-04-11",
+  "generated_at": "2026-04-11T22:49:36.769403",
   "count": 11,
   "sources": {
-    "zh": 1,
+    "zh": 2,
     "en": 19
   },
   "cards": [
@@ -11,8 +11,8 @@
       "id": "1",
       "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
       "subtitle": "",
-      "what": "HN 412赞/306评论",
-      "why": "HN热度极高(412赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 439赞/319评论",
+      "why": "HN热度极高(439赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
       ],
@@ -29,50 +29,10 @@
     },
     {
       "id": "2",
-      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "subtitle": "",
-      "what": "HN 394赞/117评论",
-      "why": "HN热度极高(394赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47684326",
-      "isEnglish": true,
-      "published_at": "2026-04-08T02:41:12Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI says its new model GPT-2 is too dangerous to release (2019)"
-    },
-    {
-      "id": "3",
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "subtitle": "",
-      "what": "HN 324赞/57评论",
-      "why": "HN热度极高(324赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47689174",
-      "isEnglish": true,
-      "published_at": "2026-04-08T12:19:00Z",
-      "trust_score": 5,
-      "titleCn": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU"
-    },
-    {
-      "id": "4",
       "title": "Molotov cocktail is hurled at home of Sam Altman",
       "subtitle": "",
-      "what": "HN 131赞/306评论",
-      "why": "HN高赞(131赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 242赞/588评论",
+      "why": "HN热度极高(242赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "AI趋势"
       ],
@@ -88,30 +48,30 @@
       "titleCn": "Molotov cocktail is hurled at home of Sam Altman"
     },
     {
-      "id": "5",
-      "title": "AI assistance when contributing to the Linux kernel",
+      "id": "3",
+      "title": "Cirrus Labs to join OpenAI",
       "subtitle": "",
-      "what": "HN 113赞/96评论",
-      "why": "HN高赞(113赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 216赞/109评论",
+      "why": "HN热度极高(216赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "AI趋势"
+        "OpenAI"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47721953",
+      "url": "https://news.ycombinator.com/item?id=47730194",
       "isEnglish": true,
-      "published_at": "2026-04-10T18:35:21Z",
+      "published_at": "2026-04-11T13:01:34Z",
       "trust_score": 5,
-      "titleCn": "AI assistance when contributing to the Linux kernel"
+      "titleCn": "Cirrus Labs to join OpenAI"
     },
     {
-      "id": "6",
-      "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+      "id": "4",
+      "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
       "subtitle": "",
-      "what": "HN 68赞/62评论",
+      "what": "HN 84赞/41评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -121,34 +81,95 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47684506",
+      "url": "https://news.ycombinator.com/item?id=47731707",
       "isEnglish": true,
-      "published_at": "2026-04-08T03:02:56Z",
+      "published_at": "2026-04-11T16:04:52Z",
       "trust_score": 5,
-      "titleCn": "LLM scraper bots are overloading acme.com's HTTPS server"
+      "titleCn": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom"
     },
     {
-      "id": "7",
-      "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+      "id": "5",
+      "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
       "subtitle": "",
-      "what": "HN 65赞/1评论",
+      "what": "HN 59赞/35评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
       ],
-      "publicView": "HN讨论 (None赞): Previously on source: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47654757",
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
       "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47672642",
+      "url": "https://news.ycombinator.com/item?id=47708593",
       "isEnglish": true,
-      "published_at": "2026-04-07T09:29:11Z",
+      "published_at": "2026-04-09T19:29:59Z",
       "trust_score": 5,
-      "titleCn": "Iran threatens OpenAI's Stargate data center in Abu Dhabi"
+      "titleCn": "OpenAI puts Stargate UK on ice, blames energy costs and red tape"
+    },
+    {
+      "id": "6",
+      "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
+      "subtitle": "",
+      "what": "HN 51赞/16评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47729477",
+      "isEnglish": true,
+      "published_at": "2026-04-11T10:58:36Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours"
+    },
+    {
+      "id": "7",
+      "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
+      "subtitle": "",
+      "what": "HN 43赞/26评论",
+      "why": "Meta开源策略影响深远，Llama系列成为许多AI应用的底层模型",
+      "related": [
+        "Meta"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47729975",
+      "isEnglish": true,
+      "published_at": "2026-04-11T12:25:02Z",
+      "trust_score": 5,
+      "titleCn": "Meta is set to pay its top AI executives almost a billion each in bonuses"
     },
     {
       "id": "8",
+      "title": "GitHub热门: microsoft/markitdown",
+      "subtitle": "",
+      "what": "Python tool for converting files and office documents to Markdown.\nMarkItDown \n\n Tip\n\n MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude De",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Microsoft",
+        "Claude"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/microsoft/markitdown",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: microsoft/markitdown"
+    },
+    {
+      "id": "9",
       "title": "GitHub热门: NousResearch/hermes-agent",
       "subtitle": "",
       "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
@@ -168,7 +189,27 @@
       "titleCn": "GitHub热门: NousResearch/hermes-agent"
     },
     {
-      "id": "9",
+      "id": "10",
+      "title": "GitHub热门: shiyu-coder/Kronos",
+      "subtitle": "",
+      "what": "Kronos: A Foundation Model for the Language of Financial Markets\n\n Kronos: A Foundation Model for the Language of Financial Markets \n\n Deutsch | \n Español | \n Français | \n 日本語 | \n 한국어 | \n Português | ",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "代码生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: shiyu-coder/Kronos"
+    },
+    {
+      "id": "11",
       "title": "GitHub热门: HKUDS/DeepTutor",
       "subtitle": "",
       "what": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"\n\n DeepTutor: Agent-Native Personalized Tutoring \n\n Features · Get Started · Explore · TutorBot · CLI · Community\n\n 🇨🇳 中文 · 🇯🇵 日本語 · 🇪🇸 Español",
@@ -186,47 +227,6 @@
       "published_at": "",
       "trust_score": 4,
       "titleCn": "GitHub热门: HKUDS/DeepTutor"
-    },
-    {
-      "id": "10",
-      "title": "GitHub热门: OpenBMB/VoxCPM",
-      "subtitle": "",
-      "what": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\nVoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, a",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: OpenBMB/VoxCPM"
-    },
-    {
-      "id": "11",
-      "title": "GitHub热门: TheCraigHewitt/seomachine",
-      "subtitle": "",
-      "what": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/TheCraigHewitt/seomachine",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: TheCraigHewitt/seomachine"
     }
   ]
 }
