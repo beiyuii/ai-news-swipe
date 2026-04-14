@@ -1,37 +1,17 @@
 {
-  "date": "2026-04-13",
-  "generated_at": "2026-04-13T23:00:24.132958",
-  "count": 11,
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T23:00:27.849054",
+  "count": 12,
   "sources": {
     "zh": 1,
-    "en": 18
+    "en": 19
   },
   "cards": [
     {
       "id": "1",
-      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "subtitle": "",
-      "what": "HN 445赞/323评论",
-      "why": "HN热度极高(445赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47717587",
-      "isEnglish": true,
-      "published_at": "2026-04-10T13:08:43Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI backs Illinois bill that would limit when AI labs can be held liable"
-    },
-    {
-      "id": "2",
       "title": "Cirrus Labs to join OpenAI",
       "subtitle": "",
-      "what": "HN 280赞/142评论",
+      "what": "HN 280赞/145评论",
       "why": "HN热度极高(280赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
@@ -48,10 +28,10 @@
       "titleCn": "Cirrus Labs to join OpenAI"
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "Molotov cocktail is hurled at home of Sam Altman",
       "subtitle": "",
-      "what": "HN 248赞/635评论",
+      "what": "HN 248赞/639评论",
       "why": "HN热度极高(248赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "AI趋势"
@@ -68,11 +48,11 @@
       "titleCn": "Molotov cocktail is hurled at home of Sam Altman"
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
       "subtitle": "",
-      "what": "HN 174赞/75评论",
-      "why": "HN高赞(174赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 182赞/77评论",
+      "why": "HN高赞(182赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "OpenAI"
       ],
@@ -88,69 +68,108 @@
       "titleCn": "Tell HN: OpenAI silently removed Study Mode from ChatGPT"
     },
     {
+      "id": "4",
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "subtitle": "",
+      "what": "HN 102赞/54评论",
+      "why": "HN高赞(102赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47761625",
+      "isEnglish": true,
+      "published_at": "2026-04-14T05:32:48Z",
+      "trust_score": 5,
+      "titleCn": "Multi-Agentic Software Development Is a Distributed Systems Problem"
+    },
+    {
       "id": "5",
-      "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+      "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
       "subtitle": "",
-      "what": "HN 173赞/115评论",
-      "why": "HN高赞(173赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 87赞/28评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "Claude",
         "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47749674",
-      "isEnglish": true,
-      "published_at": "2026-04-13T09:26:56Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex"
-    },
-    {
-      "id": "6",
-      "title": "Show HN: Claudraband – Claude Code for the Power User",
-      "subtitle": "",
-      "what": "HN 116赞/42评论",
-      "why": "HN高赞(116赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47741889",
-      "isEnglish": true,
-      "published_at": "2026-04-12T16:55:20Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: Claudraband – Claude Code for the Power User"
-    },
-    {
-      "id": "7",
-      "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
-      "subtitle": "",
-      "what": "HN 49赞/28评论",
-      "why": "Meta开源策略影响深远，Llama系列成为许多AI应用的底层模型",
-      "related": [
-        "Meta"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47729975",
+      "url": "https://news.ycombinator.com/item?id=47766370",
       "isEnglish": true,
-      "published_at": "2026-04-11T12:25:02Z",
+      "published_at": "2026-04-14T14:48:46Z",
       "trust_score": 5,
-      "titleCn": "Meta is set to pay its top AI executives almost a billion each in bonuses"
+      "titleCn": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?"
+    },
+    {
+      "id": "6",
+      "title": "Two Months After I Gave an AI $100 and No Instructions",
+      "subtitle": "",
+      "what": "HN 87赞/106评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47765458",
+      "isEnglish": true,
+      "published_at": "2026-04-14T13:34:24Z",
+      "trust_score": 5,
+      "titleCn": "Two Months After I Gave an AI $100 and No Instructions"
+    },
+    {
+      "id": "7",
+      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+      "subtitle": "",
+      "what": "HN 87赞/30评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "代码生成"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47758347",
+      "isEnglish": true,
+      "published_at": "2026-04-13T21:54:03Z",
+      "trust_score": 5,
+      "titleCn": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?"
     },
     {
       "id": "8",
+      "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+      "subtitle": "",
+      "what": "HN 45赞/19评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47768750",
+      "isEnglish": true,
+      "published_at": "2026-04-14T17:43:17Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Plain – The full-stack Python framework designed for humans and agents"
+    },
+    {
+      "id": "9",
       "title": "GitHub热门: NousResearch/hermes-agent",
       "subtitle": "",
       "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
@@ -170,7 +189,7 @@
       "titleCn": "GitHub热门: NousResearch/hermes-agent"
     },
     {
-      "id": "9",
+      "id": "10",
       "title": "GitHub热门: shiyu-coder/Kronos",
       "subtitle": "",
       "what": "Kronos: A Foundation Model for the Language of Financial Markets\n\n Kronos: A Foundation Model for the Language of Financial Markets \n\n Deutsch | \n Español | \n Français | \n 日本語 | \n 한국어 | \n Português | ",
@@ -190,7 +209,7 @@
       "titleCn": "GitHub热门: shiyu-coder/Kronos"
     },
     {
-      "id": "10",
+      "id": "11",
       "title": "GitHub热门: microsoft/markitdown",
       "subtitle": "",
       "what": "Python tool for converting files and office documents to Markdown.\nMarkItDown \n\n Tip\n\n MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude De",
@@ -211,10 +230,10 @@
       "titleCn": "GitHub热门: microsoft/markitdown"
     },
     {
-      "id": "11",
-      "title": "GitHub热门: OpenBMB/VoxCPM",
+      "id": "12",
+      "title": "GitHub热门: virattt/ai-hedge-fund",
       "subtitle": "",
-      "what": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\nVoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, a",
+      "what": "An AI Hedge Fund Team\nAI Hedge Fund \nThis is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educat",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -224,11 +243,11 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/OpenBMB/VoxCPM",
+      "url": "https://github.com/virattt/ai-hedge-fund",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: OpenBMB/VoxCPM"
+      "titleCn": "GitHub热门: virattt/ai-hedge-fund"
     }
   ]
 }
