@@ -1,99 +1,38 @@
 {
-  "date": "2026-04-15",
-  "generated_at": "2026-04-15T22:58:03.550468",
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T22:59:08.447388",
   "count": 11,
   "sources": {
-    "zh": 1,
-    "en": 15
+    "zh": 2,
+    "en": 18
   },
   "cards": [
     {
       "id": "1",
-      "title": "Cirrus Labs to join OpenAI",
+      "title": "The local LLM ecosystem doesn’t need Ollama",
       "subtitle": "",
-      "what": "HN 280赞/145评论",
-      "why": "HN热度极高(280赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 593赞/197评论",
+      "why": "HN热度极高(593赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "OpenAI"
+        "Llama"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47730194",
+      "url": "https://news.ycombinator.com/item?id=47788385",
       "isEnglish": true,
-      "published_at": "2026-04-11T13:01:34Z",
+      "published_at": "2026-04-16T03:35:11Z",
       "trust_score": 5,
-      "titleCn": "Cirrus Labs to join OpenAI"
+      "titleCn": "The local LLM ecosystem doesn’t need Ollama"
     },
     {
       "id": "2",
-      "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
-      "subtitle": "",
-      "what": "HN 186赞/77评论",
-      "why": "HN高赞(186赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47739305",
-      "isEnglish": true,
-      "published_at": "2026-04-12T13:20:58Z",
-      "trust_score": 5,
-      "titleCn": "Tell HN: OpenAI silently removed Study Mode from ChatGPT"
-    },
-    {
-      "id": "3",
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "subtitle": "",
-      "what": "HN 166赞/80评论",
-      "why": "HN高赞(166赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47785053",
-      "isEnglish": true,
-      "published_at": "2026-04-15T20:49:48Z",
-      "trust_score": 5,
-      "titleCn": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?"
-    },
-    {
-      "id": "4",
-      "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
-      "subtitle": "",
-      "what": "HN 144赞/51评论",
-      "why": "HN高赞(144赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47766370",
-      "isEnglish": true,
-      "published_at": "2026-04-14T14:48:46Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?"
-    },
-    {
-      "id": "5",
       "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
       "subtitle": "",
-      "what": "HN 114赞/133评论",
-      "why": "HN高赞(114赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 117赞/136评论",
+      "why": "HN高赞(117赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "OpenAI"
       ],
@@ -109,10 +48,50 @@
       "titleCn": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports"
     },
     {
-      "id": "6",
-      "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
+      "id": "3",
+      "title": "SDL bans AI-written commits",
       "subtitle": "",
-      "what": "HN 93赞/45评论",
+      "what": "HN 108赞/109评论",
+      "why": "HN高赞(108赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47790791",
+      "isEnglish": true,
+      "published_at": "2026-04-16T09:40:43Z",
+      "trust_score": 5,
+      "titleCn": "SDL bans AI-written commits"
+    },
+    {
+      "id": "4",
+      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "subtitle": "",
+      "what": "HN 105赞/30评论",
+      "why": "HN高赞(105赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "Transformer"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47792525",
+      "isEnglish": true,
+      "published_at": "2026-04-16T13:16:29Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh"
+    },
+    {
+      "id": "5",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "subtitle": "",
+      "what": "HN 42赞/3评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -122,17 +101,37 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47781998",
+      "url": "https://news.ycombinator.com/item?id=47800033",
       "isEnglish": true,
-      "published_at": "2026-04-15T17:07:36Z",
+      "published_at": "2026-04-16T21:56:37Z",
       "trust_score": 5,
-      "titleCn": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous"
+      "titleCn": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine"
+    },
+    {
+      "id": "6",
+      "title": "GPT‑Rosalind for life sciences research",
+      "subtitle": "",
+      "what": "HN 35赞/4评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "HN讨论 (None赞): I&#x27;m all for naming things in honor of Rosalind Franklin, but this seems like incredible misplaced hubris instead.",
+      "counterView": "I&#x27;m all for naming things in honor of Rosalind Franklin, but this seems like incredible misplaced hubris instead.",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47798244",
+      "isEnglish": true,
+      "published_at": "2026-04-16T19:24:50Z",
+      "trust_score": 5,
+      "titleCn": "GPT‑Rosalind for life sciences research"
     },
     {
       "id": "7",
-      "title": "Two Months After I Gave an AI $100 and No Instructions",
+      "title": "The Death of an AI Whistleblower",
       "subtitle": "",
-      "what": "HN 92赞/113评论",
+      "what": "HN 35赞/10评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -142,35 +141,14 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47765458",
+      "url": "https://news.ycombinator.com/item?id=47775593",
       "isEnglish": true,
-      "published_at": "2026-04-14T13:34:24Z",
+      "published_at": "2026-04-15T06:56:56Z",
       "trust_score": 5,
-      "titleCn": "Two Months After I Gave an AI $100 and No Instructions"
+      "titleCn": "The Death of an AI Whistleblower"
     },
     {
       "id": "8",
-      "title": "GitHub热门: microsoft/markitdown",
-      "subtitle": "",
-      "what": "Python tool for converting files and office documents to Markdown.\nMarkItDown \n\n Tip\n\n MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude De",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Microsoft",
-        "Claude"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/microsoft/markitdown",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: microsoft/markitdown"
-    },
-    {
-      "id": "9",
       "title": "GitHub热门: virattt/ai-hedge-fund",
       "subtitle": "",
       "what": "An AI Hedge Fund Team\nAI Hedge Fund \nThis is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educat",
@@ -190,30 +168,30 @@
       "titleCn": "GitHub热门: virattt/ai-hedge-fund"
     },
     {
-      "id": "10",
-      "title": "GitHub热门: shiyu-coder/Kronos",
+      "id": "9",
+      "title": "GitHub热门: public-apis/public-apis",
       "subtitle": "",
-      "what": "Kronos: A Foundation Model for the Language of Financial Markets\n\n Kronos: A Foundation Model for the Language of Financial Markets \n\n Deutsch | \n Español | \n Français | \n 日本語 | \n 한국어 | \n Português | ",
+      "what": "A collective list of free APIs\nTry Public APIs for free \nThe Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of pu",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "代码生成"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/shiyu-coder/Kronos",
+      "url": "https://github.com/public-apis/public-apis",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: shiyu-coder/Kronos"
+      "titleCn": "GitHub热门: public-apis/public-apis"
     },
     {
-      "id": "11",
-      "title": "GitHub热门: NousResearch/hermes-agent",
+      "id": "10",
+      "title": "GitHub热门: lsdefine/GenericAgent",
       "subtitle": "",
-      "what": "The agent that grows with you\n\nHermes Agent ☤ \n\nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them",
+      "what": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\n\n English | 中文 \n\n🌟 Overview \nGenericAgent is a minimal, self-evolving autonomous",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "智能体"
@@ -223,11 +201,31 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/lsdefine/GenericAgent",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: NousResearch/hermes-agent"
+      "titleCn": "GitHub热门: lsdefine/GenericAgent"
+    },
+    {
+      "id": "11",
+      "title": "GitHub热门: google/magika",
+      "subtitle": "",
+      "what": "Fast and accurate AI powered file content types detection\nMagika \n\nMagika is a novel AI-powered file type detection tool that relies on the recent advance of deep learning to provide accurate detectio",
+      "why": "Google在AI领域持续发力，Gemini系列被视为对抗OpenAI的重要力量",
+      "related": [
+        "Google"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "AGI概念被过度炒作；当前模型本质是高级模式匹配，与真正的通用智能存在本质差距",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/google/magika",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: google/magika"
     }
   ]
 }
