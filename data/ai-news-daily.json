@@ -1,9 +1,9 @@
 {
-  "date": "2026-04-16",
-  "generated_at": "2026-04-16T22:59:08.447388",
-  "count": 11,
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T22:58:18.229353",
+  "count": 12,
   "sources": {
-    "zh": 2,
+    "zh": 1,
     "en": 18
   },
   "cards": [
@@ -11,8 +11,8 @@
       "id": "1",
       "title": "The local LLM ecosystem doesn’t need Ollama",
       "subtitle": "",
-      "what": "HN 593赞/197评论",
-      "why": "HN热度极高(593赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 631赞/208评论",
+      "why": "HN热度极高(631赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "Llama"
       ],
@@ -29,6 +29,46 @@
     },
     {
       "id": "2",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "subtitle": "",
+      "what": "HN 221赞/46评论",
+      "why": "HN热度极高(221赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47800033",
+      "isEnglish": true,
+      "published_at": "2026-04-16T21:56:37Z",
+      "trust_score": 5,
+      "titleCn": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine"
+    },
+    {
+      "id": "3",
+      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "subtitle": "",
+      "what": "HN 146赞/41评论",
+      "why": "HN高赞(146赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "Transformer"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47792525",
+      "isEnglish": true,
+      "published_at": "2026-04-16T13:16:29Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh"
+    },
+    {
+      "id": "4",
       "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
       "subtitle": "",
       "what": "HN 117赞/136评论",
@@ -48,76 +88,16 @@
       "titleCn": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports"
     },
     {
-      "id": "3",
-      "title": "SDL bans AI-written commits",
-      "subtitle": "",
-      "what": "HN 108赞/109评论",
-      "why": "HN高赞(108赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47790791",
-      "isEnglish": true,
-      "published_at": "2026-04-16T09:40:43Z",
-      "trust_score": 5,
-      "titleCn": "SDL bans AI-written commits"
-    },
-    {
-      "id": "4",
-      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-      "subtitle": "",
-      "what": "HN 105赞/30评论",
-      "why": "HN高赞(105赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "Transformer"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47792525",
-      "isEnglish": true,
-      "published_at": "2026-04-16T13:16:29Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh"
-    },
-    {
       "id": "5",
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "subtitle": "",
-      "what": "HN 42赞/3评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47800033",
-      "isEnglish": true,
-      "published_at": "2026-04-16T21:56:37Z",
-      "trust_score": 5,
-      "titleCn": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine"
-    },
-    {
-      "id": "6",
       "title": "GPT‑Rosalind for life sciences research",
       "subtitle": "",
-      "what": "HN 35赞/4评论",
+      "what": "HN 99赞/29评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
       ],
-      "publicView": "HN讨论 (None赞): I&#x27;m all for naming things in honor of Rosalind Franklin, but this seems like incredible misplaced hubris instead.",
-      "counterView": "I&#x27;m all for naming things in honor of Rosalind Franklin, but this seems like incredible misplaced hubris instead.",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
@@ -128,10 +108,50 @@
       "titleCn": "GPT‑Rosalind for life sciences research"
     },
     {
-      "id": "7",
-      "title": "The Death of an AI Whistleblower",
+      "id": "6",
+      "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
       "subtitle": "",
-      "what": "HN 35赞/10评论",
+      "what": "HN 69赞/35评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47795468",
+      "isEnglish": true,
+      "published_at": "2026-04-16T16:08:05Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Marky – A lightweight Markdown viewer for agentic coding"
+    },
+    {
+      "id": "7",
+      "title": "Show HN: Gave Claude a casino bankroll – it gambles till it's too broke to think",
+      "subtitle": "",
+      "what": "HN 36赞/9评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Claude"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47787491",
+      "isEnglish": true,
+      "published_at": "2026-04-16T01:10:44Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Gave Claude a casino bankroll – it gambles till it's too broke to think"
+    },
+    {
+      "id": "8",
+      "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+      "subtitle": "",
+      "what": "HN 36赞/17评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -141,54 +161,14 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47775593",
+      "url": "https://news.ycombinator.com/item?id=47801639",
       "isEnglish": true,
-      "published_at": "2026-04-15T06:56:56Z",
+      "published_at": "2026-04-17T01:38:01Z",
       "trust_score": 5,
-      "titleCn": "The Death of an AI Whistleblower"
-    },
-    {
-      "id": "8",
-      "title": "GitHub热门: virattt/ai-hedge-fund",
-      "subtitle": "",
-      "what": "An AI Hedge Fund Team\nAI Hedge Fund \nThis is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educat",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: virattt/ai-hedge-fund"
+      "titleCn": "Solitaire simulator for finding the best strategy: Current record is 8.590%"
     },
     {
       "id": "9",
-      "title": "GitHub热门: public-apis/public-apis",
-      "subtitle": "",
-      "what": "A collective list of free APIs\nTry Public APIs for free \nThe Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of pu",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/public-apis/public-apis",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: public-apis/public-apis"
-    },
-    {
-      "id": "10",
       "title": "GitHub热门: lsdefine/GenericAgent",
       "subtitle": "",
       "what": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\n\n English | 中文 \n\n🌟 Overview \nGenericAgent is a minimal, self-evolving autonomous",
@@ -208,7 +188,7 @@
       "titleCn": "GitHub热门: lsdefine/GenericAgent"
     },
     {
-      "id": "11",
+      "id": "10",
       "title": "GitHub热门: google/magika",
       "subtitle": "",
       "what": "Fast and accurate AI powered file content types detection\nMagika \n\nMagika is a novel AI-powered file type detection tool that relies on the recent advance of deep learning to provide accurate detectio",
@@ -226,6 +206,47 @@
       "published_at": "",
       "trust_score": 4,
       "titleCn": "GitHub热门: google/magika"
+    },
+    {
+      "id": "11",
+      "title": "GitHub热门: topoteretes/cognee",
+      "subtitle": "",
+      "what": "Knowledge Engine for AI Agent Memory in 6 lines of code\n\n Cognee - Build AI memory with a Knowledge Engine that learns\n\n Demo . Docs . Learn More · Join Discord · Join r/AIMemory . Community Plugins &",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体",
+        "代码生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/topoteretes/cognee",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: topoteretes/cognee"
+    },
+    {
+      "id": "12",
+      "title": "GitHub热门: z-lab/dflash",
+      "subtitle": "",
+      "what": "DFlash: Block Diffusion for Flash Speculative Decoding\nDFlash: Block Diffusion for Flash Speculative Decoding \nPaper | Blog | Models\n\nDFlash is a lightweight block diffusion model designed for specula",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "大模型"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/z-lab/dflash",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: z-lab/dflash"
     }
   ]
 }
