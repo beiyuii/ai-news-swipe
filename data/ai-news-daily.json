@@ -1,38 +1,18 @@
 {
-  "date": "2026-04-18",
-  "generated_at": "2026-04-18T22:53:00.264672",
-  "count": 11,
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T22:53:18.426949",
+  "count": 12,
   "sources": {
-    "zh": 0,
-    "en": 19
+    "zh": 2,
+    "en": 18
   },
   "cards": [
     {
       "id": "1",
-      "title": "The local LLM ecosystem doesn’t need Ollama",
-      "subtitle": "",
-      "what": "HN 638赞/208评论",
-      "why": "HN热度极高(638赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Llama"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47788385",
-      "isEnglish": true,
-      "published_at": "2026-04-16T03:35:11Z",
-      "trust_score": 5,
-      "titleCn": "The local LLM ecosystem doesn’t need Ollama"
-    },
-    {
-      "id": "2",
       "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
       "subtitle": "",
-      "what": "HN 155赞/42评论",
-      "why": "HN高赞(155赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 157赞/42评论",
+      "why": "HN高赞(157赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "Transformer"
       ],
@@ -48,7 +28,7 @@
       "titleCn": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh"
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "GPT‑Rosalind for life sciences research",
       "subtitle": "",
       "what": "HN 102赞/30评论",
@@ -68,10 +48,10 @@
       "titleCn": "GPT‑Rosalind for life sciences research"
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
       "subtitle": "",
-      "what": "HN 76赞/13评论",
+      "what": "HN 80赞/13评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
@@ -88,10 +68,10 @@
       "titleCn": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving"
     },
     {
-      "id": "5",
+      "id": "4",
       "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
       "subtitle": "",
-      "what": "HN 70赞/35评论",
+      "what": "HN 73赞/35评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "智能体"
@@ -108,10 +88,10 @@
       "titleCn": "Show HN: Marky – A lightweight Markdown viewer for agentic coding"
     },
     {
-      "id": "6",
+      "id": "5",
       "title": "Claude Code Opus 4.7 keeps checking on malware",
       "subtitle": "",
-      "what": "HN 58赞/55评论",
+      "what": "HN 64赞/59评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "Claude",
@@ -127,6 +107,26 @@
       "published_at": "2026-04-18T10:46:17Z",
       "trust_score": 5,
       "titleCn": "Claude Code Opus 4.7 keeps checking on malware"
+    },
+    {
+      "id": "6",
+      "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+      "subtitle": "",
+      "what": "HN 44赞/16评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47810533",
+      "isEnglish": true,
+      "published_at": "2026-04-17T21:03:18Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: AI Subroutines – Run automation scripts inside your browser tab"
     },
     {
       "id": "7",
@@ -150,26 +150,47 @@
     },
     {
       "id": "8",
-      "title": "GitHub热门: lsdefine/GenericAgent",
+      "title": "Claude Brain",
       "subtitle": "",
-      "what": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\n\n English | 中文 | 📄 Technical Report \n\n🌟 Overview \nGenericAgent is a minimal, sel",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "HN 33赞/21评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "智能体"
+        "Claude"
       ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/lsdefine/GenericAgent",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47825158",
       "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: lsdefine/GenericAgent"
+      "published_at": "2026-04-19T15:48:13Z",
+      "trust_score": 5,
+      "titleCn": "Claude Brain"
     },
     {
       "id": "9",
+      "title": "GitHub热门: openai/openai-agents-python",
+      "subtitle": "",
+      "what": "A lightweight, powerful framework for multi-agent workflows\nOpenAI Agents SDK \nThe OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI",
+        "智能体"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/openai/openai-agents-python",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: openai/openai-agents-python"
+    },
+    {
+      "id": "10",
       "title": "GitHub热门: Tracer-Cloud/opensre",
       "subtitle": "",
       "what": "Build your own AI SRE agents. The open source toolkit for the AI era ✨\n\n OpenSRE: Build Your Own AI SRE Agents \n The open-source framework for AI SRE agents, and the training and evaluation environmen",
@@ -189,45 +210,45 @@
       "titleCn": "GitHub热门: Tracer-Cloud/opensre"
     },
     {
-      "id": "10",
-      "title": "GitHub热门: z-lab/dflash",
+      "id": "11",
+      "title": "GitHub热门: lsdefine/GenericAgent",
       "subtitle": "",
-      "what": "DFlash: Block Diffusion for Flash Speculative Decoding\nDFlash: Block Diffusion for Flash Speculative Decoding \nPaper | Blog | Models\n\nDFlash is a lightweight block diffusion model designed for specula",
+      "what": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\n\n English | 中文 | 📄 Technical Report \n\n🌟 Overview \nGenericAgent is a minimal, sel",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "大模型"
+        "智能体"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/z-lab/dflash",
+      "url": "https://github.com/lsdefine/GenericAgent",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: z-lab/dflash"
+      "titleCn": "GitHub热门: lsdefine/GenericAgent"
     },
     {
-      "id": "11",
-      "title": "GitHub热门: openai/openai-agents-python",
+      "id": "12",
+      "title": "GitHub热门: Shubhamsaboo/awesome-llm-apps",
       "subtitle": "",
-      "what": "A lightweight, powerful framework for multi-agent workflows\nOpenAI Agents SDK \nThe OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "what": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.\n\n Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 \n\n 🌟 Awesome LLM Apps \n 100+ AI Agent &amp; RAG apps you c",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "OpenAI",
+        "RAG",
         "智能体"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/openai/openai-agents-python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: openai/openai-agents-python"
+      "titleCn": "GitHub热门: Shubhamsaboo/awesome-llm-apps"
     }
   ]
 }
