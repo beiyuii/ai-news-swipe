@@ -1,18 +1,18 @@
 {
-  "date": "2026-04-19",
-  "generated_at": "2026-04-19T22:53:18.426949",
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T23:00:02.329324",
   "count": 12,
   "sources": {
-    "zh": 2,
-    "en": 18
+    "zh": 0,
+    "en": 17
   },
   "cards": [
     {
       "id": "1",
       "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
       "subtitle": "",
-      "what": "HN 157赞/42评论",
-      "why": "HN高赞(157赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 159赞/42评论",
+      "why": "HN高赞(159赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "Transformer"
       ],
@@ -51,7 +51,7 @@
       "id": "3",
       "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
       "subtitle": "",
-      "what": "HN 80赞/13评论",
+      "what": "HN 81赞/13评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
@@ -69,29 +69,29 @@
     },
     {
       "id": "4",
-      "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
       "subtitle": "",
-      "what": "HN 73赞/35评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "HN 73赞/23评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
-        "智能体"
+        "OpenAI"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47795468",
+      "url": "https://news.ycombinator.com/item?id=47840980",
       "isEnglish": true,
-      "published_at": "2026-04-16T16:08:05Z",
+      "published_at": "2026-04-20T21:20:52Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Marky – A lightweight Markdown viewer for agentic coding"
+      "titleCn": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\""
     },
     {
       "id": "5",
       "title": "Claude Code Opus 4.7 keeps checking on malware",
       "subtitle": "",
-      "what": "HN 64赞/59评论",
+      "what": "HN 67赞/61评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "Claude",
@@ -112,7 +112,7 @@
       "id": "6",
       "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
       "subtitle": "",
-      "what": "HN 44赞/16评论",
+      "what": "HN 44赞/17评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -130,46 +130,66 @@
     },
     {
       "id": "7",
-      "title": "The Death of an AI Whistleblower",
+      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
       "subtitle": "",
-      "what": "HN 35赞/10评论",
+      "what": "HN 39赞/6评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "Transformer"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47775593",
+      "url": "https://news.ycombinator.com/item?id=47839645",
       "isEnglish": true,
-      "published_at": "2026-04-15T06:56:56Z",
+      "published_at": "2026-04-20T19:51:07Z",
       "trust_score": 5,
-      "titleCn": "The Death of an AI Whistleblower"
+      "titleCn": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64"
     },
     {
       "id": "8",
-      "title": "Claude Brain",
+      "title": "ChatGPT and Codex Down",
       "subtitle": "",
-      "what": "HN 33赞/21评论",
+      "what": "HN 32赞/8评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Claude"
+        "代码生成"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47825158",
+      "url": "https://news.ycombinator.com/item?id=47835039",
       "isEnglish": true,
-      "published_at": "2026-04-19T15:48:13Z",
+      "published_at": "2026-04-20T14:37:48Z",
       "trust_score": 5,
-      "titleCn": "Claude Brain"
+      "titleCn": "ChatGPT and Codex Down"
     },
     {
       "id": "9",
+      "title": "GitHub热门: Fincept-Corporation/FinceptTerminal",
+      "subtitle": "",
+      "what": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "金融AI"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: Fincept-Corporation/FinceptTerminal"
+    },
+    {
+      "id": "10",
       "title": "GitHub热门: openai/openai-agents-python",
       "subtitle": "",
       "what": "A lightweight, powerful framework for multi-agent workflows\nOpenAI Agents SDK \nThe OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic",
@@ -190,53 +210,32 @@
       "titleCn": "GitHub热门: openai/openai-agents-python"
     },
     {
-      "id": "10",
-      "title": "GitHub热门: Tracer-Cloud/opensre",
-      "subtitle": "",
-      "what": "Build your own AI SRE agents. The open source toolkit for the AI era ✨\n\n OpenSRE: Build Your Own AI SRE Agents \n The open-source framework for AI SRE agents, and the training and evaluation environmen",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "智能体"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/Tracer-Cloud/opensre",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: Tracer-Cloud/opensre"
-    },
-    {
       "id": "11",
-      "title": "GitHub热门: lsdefine/GenericAgent",
+      "title": "GitHub热门: paperless-ngx/paperless-ngx",
       "subtitle": "",
-      "what": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\n\n English | 中文 | 📄 Technical Report \n\n🌟 Overview \nGenericAgent is a minimal, sel",
+      "what": "A community-supported supercharged document management system: scan, index and archive all your documents\n\nPaperless-ngx \nPaperless-ngx is a document management system that transforms your physical do",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "智能体"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/lsdefine/GenericAgent",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: lsdefine/GenericAgent"
+      "titleCn": "GitHub热门: paperless-ngx/paperless-ngx"
     },
     {
       "id": "12",
-      "title": "GitHub热门: Shubhamsaboo/awesome-llm-apps",
+      "title": "GitHub热门: HKUDS/DeepTutor",
       "subtitle": "",
-      "what": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.\n\n Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 \n\n 🌟 Awesome LLM Apps \n 100+ AI Agent &amp; RAG apps you c",
+      "what": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"\n\n DeepTutor: Agent-Native Personalized Tutoring \n\n Features · Get Started · Explore · TutorBot · CLI · Community\n\n 🇨🇳 中文 · 🇯🇵 日本語 · 🇪🇸 Español",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "RAG",
         "智能体"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
@@ -244,11 +243,11 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/HKUDS/DeepTutor",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: Shubhamsaboo/awesome-llm-apps"
+      "titleCn": "GitHub热门: HKUDS/DeepTutor"
     }
   ]
 }
