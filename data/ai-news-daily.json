@@ -1,38 +1,78 @@
 {
-  "date": "2026-04-20",
-  "generated_at": "2026-04-20T23:00:02.329324",
-  "count": 12,
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T22:56:05.681962",
+  "count": 10,
   "sources": {
-    "zh": 0,
-    "en": 17
+    "zh": 1,
+    "en": 20
   },
   "cards": [
     {
       "id": "1",
-      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
       "subtitle": "",
-      "what": "HN 159赞/42评论",
-      "why": "HN高赞(159赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 299赞/159评论",
+      "why": "HN热度极高(299赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "Transformer"
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47840980",
+      "isEnglish": true,
+      "published_at": "2026-04-20T21:20:52Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”"
+    },
+    {
+      "id": "2",
+      "title": "ChatGPT Images 2.0",
+      "subtitle": "",
+      "what": "HN 189赞/157评论",
+      "why": "HN高赞(189赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "图像生成"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47792525",
+      "url": "https://news.ycombinator.com/item?id=47852835",
       "isEnglish": true,
-      "published_at": "2026-04-16T13:16:29Z",
+      "published_at": "2026-04-21T18:50:00Z",
       "trust_score": 5,
-      "titleCn": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh"
+      "titleCn": "ChatGPT Images 2.0"
     },
     {
-      "id": "2",
-      "title": "GPT‑Rosalind for life sciences research",
+      "id": "3",
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
       "subtitle": "",
-      "what": "HN 102赞/30评论",
-      "why": "HN高赞(102赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 152赞/56评论",
+      "why": "HN高赞(152赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "大模型"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47849097",
+      "isEnglish": true,
+      "published_at": "2026-04-21T14:11:53Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: GoModel – an open-source AI gateway in Go"
+    },
+    {
+      "id": "4",
+      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "subtitle": "",
+      "what": "HN 144赞/74评论",
+      "why": "HN高赞(144赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -41,14 +81,14 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47798244",
+      "url": "https://news.ycombinator.com/item?id=47835411",
       "isEnglish": true,
-      "published_at": "2026-04-16T19:24:50Z",
+      "published_at": "2026-04-20T15:07:04Z",
       "trust_score": 5,
-      "titleCn": "GPT‑Rosalind for life sciences research"
+      "titleCn": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness"
     },
     {
-      "id": "3",
+      "id": "5",
       "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
       "subtitle": "",
       "what": "HN 81赞/13评论",
@@ -68,108 +108,27 @@
       "titleCn": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving"
     },
     {
-      "id": "4",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
-      "subtitle": "",
-      "what": "HN 73赞/23评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47840980",
-      "isEnglish": true,
-      "published_at": "2026-04-20T21:20:52Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\""
-    },
-    {
-      "id": "5",
-      "title": "Claude Code Opus 4.7 keeps checking on malware",
-      "subtitle": "",
-      "what": "HN 67赞/61评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47814832",
-      "isEnglish": true,
-      "published_at": "2026-04-18T10:46:17Z",
-      "trust_score": 5,
-      "titleCn": "Claude Code Opus 4.7 keeps checking on malware"
-    },
-    {
       "id": "6",
-      "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+      "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
       "subtitle": "",
-      "what": "HN 44赞/17评论",
+      "what": "HN 47赞/27评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "智能体"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47810533",
+      "url": "https://news.ycombinator.com/item?id=47850907",
       "isEnglish": true,
-      "published_at": "2026-04-17T21:03:18Z",
+      "published_at": "2026-04-21T16:16:41Z",
       "trust_score": 5,
-      "titleCn": "Show HN: AI Subroutines – Run automation scripts inside your browser tab"
+      "titleCn": "Show HN: Daemons – we pivoted from building agents to cleaning up after them"
     },
     {
       "id": "7",
-      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-      "subtitle": "",
-      "what": "HN 39赞/6评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Transformer"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47839645",
-      "isEnglish": true,
-      "published_at": "2026-04-20T19:51:07Z",
-      "trust_score": 5,
-      "titleCn": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64"
-    },
-    {
-      "id": "8",
-      "title": "ChatGPT and Codex Down",
-      "subtitle": "",
-      "what": "HN 32赞/8评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47835039",
-      "isEnglish": true,
-      "published_at": "2026-04-20T14:37:48Z",
-      "trust_score": 5,
-      "titleCn": "ChatGPT and Codex Down"
-    },
-    {
-      "id": "9",
       "title": "GitHub热门: Fincept-Corporation/FinceptTerminal",
       "subtitle": "",
       "what": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
@@ -189,7 +148,27 @@
       "titleCn": "GitHub热门: Fincept-Corporation/FinceptTerminal"
     },
     {
-      "id": "10",
+      "id": "8",
+      "title": "GitHub热门: paperless-ngx/paperless-ngx",
+      "subtitle": "",
+      "what": "A community-supported supercharged document management system: scan, index and archive all your documents\n\nPaperless-ngx \nPaperless-ngx is a document management system that transforms your physical do",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: paperless-ngx/paperless-ngx"
+    },
+    {
+      "id": "9",
       "title": "GitHub热门: openai/openai-agents-python",
       "subtitle": "",
       "what": "A lightweight, powerful framework for multi-agent workflows\nOpenAI Agents SDK \nThe OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic",
@@ -210,44 +189,24 @@
       "titleCn": "GitHub热门: openai/openai-agents-python"
     },
     {
-      "id": "11",
-      "title": "GitHub热门: paperless-ngx/paperless-ngx",
+      "id": "10",
+      "title": "GitHub热门: alexzhang13/rlm",
       "subtitle": "",
-      "what": "A community-supported supercharged document management system: scan, index and archive all your documents\n\nPaperless-ngx \nPaperless-ngx is a document management system that transforms your physical do",
+      "what": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.\n\n Recursive Language Models (RLMs) \n Full Paper • Blogpost • Documentation • RLM Minimal \n\nO",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "大模型"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "url": "https://github.com/alexzhang13/rlm",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: paperless-ngx/paperless-ngx"
-    },
-    {
-      "id": "12",
-      "title": "GitHub热门: HKUDS/DeepTutor",
-      "subtitle": "",
-      "what": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"\n\n DeepTutor: Agent-Native Personalized Tutoring \n\n Features · Get Started · Explore · TutorBot · CLI · Community\n\n 🇨🇳 中文 · 🇯🇵 日本語 · 🇪🇸 Español",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "智能体"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: HKUDS/DeepTutor"
+      "titleCn": "GitHub热门: alexzhang13/rlm"
     }
   ]
 }
