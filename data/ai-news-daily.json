@@ -1,38 +1,18 @@
 {
-  "date": "2026-04-21",
-  "generated_at": "2026-04-21T22:56:05.681962",
-  "count": 10,
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T23:02:05.582687",
+  "count": 11,
   "sources": {
-    "zh": 1,
+    "zh": 2,
     "en": 20
   },
   "cards": [
     {
       "id": "1",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "subtitle": "",
-      "what": "HN 299赞/159评论",
-      "why": "HN热度极高(299赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47840980",
-      "isEnglish": true,
-      "published_at": "2026-04-20T21:20:52Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”"
-    },
-    {
-      "id": "2",
       "title": "ChatGPT Images 2.0",
       "subtitle": "",
-      "what": "HN 189赞/157评论",
-      "why": "HN高赞(189赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 1000赞/917评论",
+      "why": "HN热度极高(1000赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "图像生成"
       ],
@@ -48,11 +28,11 @@
       "titleCn": "ChatGPT Images 2.0"
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "Show HN: GoModel – an open-source AI gateway in Go",
       "subtitle": "",
-      "what": "HN 152赞/56评论",
-      "why": "HN高赞(152赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 193赞/71评论",
+      "why": "HN高赞(193赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "大模型"
       ],
@@ -68,50 +48,71 @@
       "titleCn": "Show HN: GoModel – an open-source AI gateway in Go"
     },
     {
-      "id": "4",
-      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "id": "3",
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
       "subtitle": "",
-      "what": "HN 144赞/74评论",
-      "why": "HN高赞(144赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 125赞/53评论",
+      "why": "HN高赞(125赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
-        "AI趋势"
+        "智能体"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47835411",
+      "url": "https://news.ycombinator.com/item?id=47850212",
       "isEnglish": true,
-      "published_at": "2026-04-20T15:07:04Z",
+      "published_at": "2026-04-21T15:29:16Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness"
+      "titleCn": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production"
     },
     {
-      "id": "5",
-      "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
+      "id": "4",
+      "title": "Kernel code removals driven by LLM-created security reports",
       "subtitle": "",
-      "what": "HN 81赞/13评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "what": "HN 98赞/85评论",
+      "why": "AI供应链安全事件频发，直接影响开发者日常工作，企业级用户高度关注数据泄露风险",
       "related": [
-        "OpenAI"
+        "代码生成",
+        "AI安全"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "开发者社区高度关注安全风险，呼吁加强供应链审查和依赖管理",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47813428",
+      "url": "https://news.ycombinator.com/item?id=47862230",
       "isEnglish": true,
-      "published_at": "2026-04-18T05:41:15Z",
+      "published_at": "2026-04-22T11:48:07Z",
       "trust_score": 5,
-      "titleCn": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving"
+      "titleCn": "Kernel code removals driven by LLM-created security reports"
+    },
+    {
+      "id": "5",
+      "title": "Workspace Agents in ChatGPT",
+      "subtitle": "",
+      "what": "HN 81赞/27评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47866860",
+      "isEnglish": true,
+      "published_at": "2026-04-22T17:47:07Z",
+      "trust_score": 5,
+      "titleCn": "Workspace Agents in ChatGPT"
     },
     {
       "id": "6",
       "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
       "subtitle": "",
-      "what": "HN 47赞/27评论",
+      "what": "HN 65赞/31评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "智能体"
@@ -129,6 +130,26 @@
     },
     {
       "id": "7",
+      "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+      "subtitle": "",
+      "what": "HN 44赞/33评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47865642",
+      "isEnglish": true,
+      "published_at": "2026-04-22T16:09:56Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Broccoli, one shot coding agent on the cloud"
+    },
+    {
+      "id": "8",
       "title": "GitHub热门: Fincept-Corporation/FinceptTerminal",
       "subtitle": "",
       "what": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
@@ -148,10 +169,30 @@
       "titleCn": "GitHub热门: Fincept-Corporation/FinceptTerminal"
     },
     {
-      "id": "8",
-      "title": "GitHub热门: paperless-ngx/paperless-ngx",
+      "id": "9",
+      "title": "GitHub热门: HKUDS/RAG-Anything",
       "subtitle": "",
-      "what": "A community-supported supercharged document management system: scan, index and archive all your documents\n\nPaperless-ngx \nPaperless-ngx is a document management system that transforms your physical do",
+      "what": "\"RAG-Anything: All-in-One RAG Framework\"\n\n 🚀 RAG-Anything: All-in-One RAG Framework \n\n🎉 News \n\n [2025.10]🎯📢 🚀 We have released the technical report of RAG-Anything. Access it now to explore our latest",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "RAG"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: HKUDS/RAG-Anything"
+    },
+    {
+      "id": "10",
+      "title": "GitHub热门: sansan0/TrendRadar",
+      "subtitle": "",
+      "what": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -161,52 +202,34 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "url": "https://github.com/sansan0/TrendRadar",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: paperless-ngx/paperless-ngx"
+      "titleCn": "GitHub热门: sansan0/TrendRadar"
     },
     {
-      "id": "9",
-      "title": "GitHub热门: openai/openai-agents-python",
+      "id": "11",
+      "title": "GitHub热门: OthmanAdi/planning-with-files",
       "subtitle": "",
-      "what": "A lightweight, powerful framework for multi-agent workflows\nOpenAI Agents SDK \nThe OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI",
-        "智能体"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/openai/openai-agents-python",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: openai/openai-agents-python"
-    },
-    {
-      "id": "10",
-      "title": "GitHub热门: alexzhang13/rlm",
-      "subtitle": "",
-      "what": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.\n\n Recursive Language Models (RLMs) \n Full Paper • Blogpost • Documentation • RLM Minimal \n\nO",
+      "what": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.\n\nPlanning with Files \n\n Work like Manus — the AI agent company Meta acquired ",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "大模型"
+        "Meta",
+        "Claude",
+        "智能体",
+        "代码生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/alexzhang13/rlm",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: alexzhang13/rlm"
+      "titleCn": "GitHub热门: OthmanAdi/planning-with-files"
     }
   ]
 }
