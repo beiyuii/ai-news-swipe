@@ -1,18 +1,80 @@
 {
-  "date": "2026-04-23",
-  "generated_at": "2026-04-23T23:02:09.243545",
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T22:55:36.718190",
   "count": 10,
   "sources": {
-    "zh": 1,
-    "en": 20
+    "zh": 0,
+    "en": 17
   },
   "cards": [
     {
       "id": "1",
+      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+      "subtitle": "",
+      "what": "HN 230赞/53评论",
+      "why": "HN热度极高(230赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47886517",
+      "isEnglish": true,
+      "published_at": "2026-04-24T06:48:53Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture"
+    },
+    {
+      "id": "2",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "subtitle": "",
+      "what": "HN 178赞/105评论",
+      "why": "HN高赞(178赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "OpenAI",
+        "GPT-5"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47894000",
+      "isEnglish": true,
+      "published_at": "2026-04-24T18:23:32Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API"
+    },
+    {
+      "id": "3",
+      "title": "Hear your agent suffer through your code",
+      "subtitle": "",
+      "what": "HN 174赞/84评论",
+      "why": "HN高赞(174赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "智能体",
+        "代码生成"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47888465",
+      "isEnglish": true,
+      "published_at": "2026-04-24T10:58:45Z",
+      "trust_score": 5,
+      "titleCn": "Hear your agent suffer through your code"
+    },
+    {
+      "id": "4",
       "title": "Workspace Agents in ChatGPT",
       "subtitle": "",
-      "what": "HN 154赞/59评论",
-      "why": "HN高赞(154赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 158赞/62评论",
+      "why": "HN高赞(158赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "智能体"
       ],
@@ -28,11 +90,11 @@
       "titleCn": "Workspace Agents in ChatGPT"
     },
     {
-      "id": "2",
+      "id": "5",
       "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
       "subtitle": "",
-      "what": "HN 130赞/55评论",
-      "why": "HN高赞(130赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 131赞/55评论",
+      "why": "HN高赞(131赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "智能体"
       ],
@@ -48,11 +110,11 @@
       "titleCn": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production"
     },
     {
-      "id": "3",
+      "id": "6",
       "title": "Kernel code removals driven by LLM-created security reports",
       "subtitle": "",
-      "what": "HN 120赞/115评论",
-      "why": "HN高赞(120赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 123赞/117评论",
+      "why": "HN高赞(123赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "代码生成",
         "AI安全"
@@ -69,84 +131,24 @@
       "titleCn": "Kernel code removals driven by LLM-created security reports"
     },
     {
-      "id": "4",
-      "title": "OpenAI's response to the Axios developer tool compromise",
-      "subtitle": "",
-      "what": "HN 93赞/59评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47871077",
-      "isEnglish": true,
-      "published_at": "2026-04-23T00:45:01Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI's response to the Axios developer tool compromise"
-    },
-    {
-      "id": "5",
-      "title": "Show HN: Broccoli, one shot coding agent on the cloud",
-      "subtitle": "",
-      "what": "HN 70赞/45评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "智能体"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47865642",
-      "isEnglish": true,
-      "published_at": "2026-04-22T16:09:56Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: Broccoli, one shot coding agent on the cloud"
-    },
-    {
-      "id": "6",
-      "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
-      "subtitle": "",
-      "what": "HN 66赞/32评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "智能体"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47850907",
-      "isEnglish": true,
-      "published_at": "2026-04-21T16:16:41Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: Daemons – we pivoted from building agents to cleaning up after them"
-    },
-    {
       "id": "7",
-      "title": "GitHub热门: Fincept-Corporation/FinceptTerminal",
+      "title": "GitHub热门: huggingface/ml-intern",
       "subtitle": "",
-      "what": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "what": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models\n\nML Intern \nAn ML intern that autonomously researches, writes, and ships good quality ML releated code usi",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "金融AI"
+        "代码生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/huggingface/ml-intern",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: Fincept-Corporation/FinceptTerminal"
+      "titleCn": "GitHub热门: huggingface/ml-intern"
     },
     {
       "id": "8",
@@ -170,43 +172,45 @@
     },
     {
       "id": "9",
-      "title": "GitHub热门: sansan0/TrendRadar",
+      "title": "GitHub热门: Z4nzu/hackingtool",
       "subtitle": "",
-      "what": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能",
+      "what": "ALL IN ONE Hacking Tool For Hackers\n\n All-in-One Hacking Tool for Security Researchers &amp; Pentesters\n\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n\n &nbsp; &nbsp; \n\nWhat's New in v2.0.0 \n\n Feature \n",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "AI安全"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/sansan0/TrendRadar",
+      "url": "https://github.com/Z4nzu/hackingtool",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: sansan0/TrendRadar"
+      "titleCn": "GitHub热门: Z4nzu/hackingtool"
     },
     {
       "id": "10",
-      "title": "GitHub热门: AIDC-AI/Pixelle-Video",
+      "title": "GitHub热门: Alishahryar1/free-claude-code",
       "subtitle": "",
-      "what": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine\n🎬 Pixelle-Video —— AI 全自动短视频引擎 \nEnglish | 中文\n\nhttps://github.com/user-attachments/assets/a42e7457-fcc8-40da-83fc-784c45a8b95d\n\n只需输入一个 主题，Pixelle-V",
+      "what": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\n\n 🤖 Free Claude Code \n Use Claude Code CLI &amp; VSCode for free. No Anthropic API key required. \n\n A lightweigh",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "视频生成"
+        "Anthropic",
+        "Claude",
+        "代码生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: AIDC-AI/Pixelle-Video"
+      "titleCn": "GitHub热门: Alishahryar1/free-claude-code"
     }
   ]
 }
