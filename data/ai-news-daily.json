@@ -1,38 +1,18 @@
 {
-  "date": "2026-04-24",
-  "generated_at": "2026-04-24T22:55:36.718190",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T22:53:47.738203",
   "count": 10,
   "sources": {
-    "zh": 0,
-    "en": 17
+    "zh": 1,
+    "en": 19
   },
   "cards": [
     {
       "id": "1",
-      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-      "subtitle": "",
-      "what": "HN 230赞/53评论",
-      "why": "HN热度极高(230赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47886517",
-      "isEnglish": true,
-      "published_at": "2026-04-24T06:48:53Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture"
-    },
-    {
-      "id": "2",
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
       "subtitle": "",
-      "what": "HN 178赞/105评论",
-      "why": "HN高赞(178赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 254赞/151评论",
+      "why": "HN热度极高(254赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI",
         "GPT-5"
@@ -49,68 +29,67 @@
       "titleCn": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API"
     },
     {
-      "id": "3",
-      "title": "Hear your agent suffer through your code",
+      "id": "2",
+      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
       "subtitle": "",
-      "what": "HN 174赞/84评论",
-      "why": "HN高赞(174赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 242赞/55评论",
+      "why": "HN热度极高(242赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "智能体",
-        "代码生成"
+        "AI趋势"
       ],
       "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47888465",
+      "url": "https://news.ycombinator.com/item?id=47886517",
       "isEnglish": true,
-      "published_at": "2026-04-24T10:58:45Z",
+      "published_at": "2026-04-24T06:48:53Z",
       "trust_score": 5,
-      "titleCn": "Hear your agent suffer through your code"
+      "titleCn": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture"
+    },
+    {
+      "id": "3",
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "subtitle": "",
+      "what": "HN 217赞/102评论",
+      "why": "HN热度极高(217赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47899844",
+      "isEnglish": true,
+      "published_at": "2026-04-25T08:53:53Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)"
     },
     {
       "id": "4",
-      "title": "Workspace Agents in ChatGPT",
+      "title": "Lambda Calculus Benchmark for AI",
       "subtitle": "",
-      "what": "HN 158赞/62评论",
-      "why": "HN高赞(158赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 124赞/37评论",
+      "why": "HN高赞(124赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
-        "智能体"
+        "AI趋势"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "publicView": "技术圈对性能提升表示关注，但提醒实际应用效果需独立验证",
+      "counterView": "刷榜成绩不等于真实能力；模型往往在测试集过拟合，生产环境表现可能大打折扣",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47866860",
+      "url": "https://news.ycombinator.com/item?id=47900506",
       "isEnglish": true,
-      "published_at": "2026-04-22T17:47:07Z",
+      "published_at": "2026-04-25T11:16:23Z",
       "trust_score": 5,
-      "titleCn": "Workspace Agents in ChatGPT"
+      "titleCn": "Lambda Calculus Benchmark for AI"
     },
     {
       "id": "5",
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "subtitle": "",
-      "what": "HN 131赞/55评论",
-      "why": "HN高赞(131赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "智能体"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47850212",
-      "isEnglish": true,
-      "published_at": "2026-04-21T15:29:16Z",
-      "trust_score": 5,
-      "titleCn": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production"
-    },
-    {
-      "id": "6",
       "title": "Kernel code removals driven by LLM-created security reports",
       "subtitle": "",
       "what": "HN 123赞/117评论",
@@ -131,7 +110,49 @@
       "titleCn": "Kernel code removals driven by LLM-created security reports"
     },
     {
+      "id": "6",
+      "title": "GPT‑5.5 Bio Bug Bounty",
+      "subtitle": "",
+      "what": "HN 118赞/90评论",
+      "why": "HN高赞(118赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47901734",
+      "isEnglish": true,
+      "published_at": "2026-04-25T14:17:31Z",
+      "trust_score": 5,
+      "titleCn": "GPT‑5.5 Bio Bug Bounty"
+    },
+    {
       "id": "7",
+      "title": "GitHub热门: Alishahryar1/free-claude-code",
+      "subtitle": "",
+      "what": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\n\n 🤖 Free Claude Code \n Use Claude Code CLI &amp; VSCode for free. No Anthropic API key required. \n\n A lightweigh",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Anthropic",
+        "Claude",
+        "代码生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: Alishahryar1/free-claude-code"
+    },
+    {
+      "id": "8",
       "title": "GitHub热门: huggingface/ml-intern",
       "subtitle": "",
       "what": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models\n\nML Intern \nAn ML intern that autonomously researches, writes, and ships good quality ML releated code usi",
@@ -149,26 +170,6 @@
       "published_at": "",
       "trust_score": 4,
       "titleCn": "GitHub热门: huggingface/ml-intern"
-    },
-    {
-      "id": "8",
-      "title": "GitHub热门: HKUDS/RAG-Anything",
-      "subtitle": "",
-      "what": "\"RAG-Anything: All-in-One RAG Framework\"\n\n 🚀 RAG-Anything: All-in-One RAG Framework \n\n🎉 News \n\n [2025.10]🎯📢 🚀 We have released the technical report of RAG-Anything. Access it now to explore our latest",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "RAG"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/HKUDS/RAG-Anything",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: HKUDS/RAG-Anything"
     },
     {
       "id": "9",
@@ -192,25 +193,23 @@
     },
     {
       "id": "10",
-      "title": "GitHub热门: Alishahryar1/free-claude-code",
+      "title": "GitHub热门: PostHog/posthog",
       "subtitle": "",
-      "what": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\n\n 🤖 Free Claude Code \n Use Claude Code CLI &amp; VSCode for free. No Anthropic API key required. \n\n A lightweigh",
+      "what": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Anthropic",
-        "Claude",
-        "代码生成"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "url": "https://github.com/PostHog/posthog",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: Alishahryar1/free-claude-code"
+      "titleCn": "GitHub热门: PostHog/posthog"
     }
   ]
 }
