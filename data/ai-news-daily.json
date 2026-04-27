@@ -1,59 +1,39 @@
 {
-  "date": "2026-04-26",
-  "generated_at": "2026-04-26T22:55:49.270621",
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T23:07:07.247322",
   "count": 11,
   "sources": {
-    "zh": 1,
-    "en": 20
+    "zh": 2,
+    "en": 19
   },
   "cards": [
     {
       "id": "1",
-      "title": "OpenAI Privacy Filter",
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "subtitle": "",
-      "what": "HN 286赞/63评论",
-      "why": "HN热度极高(286赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 691赞/624评论",
+      "why": "HN热度极高(691赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "OpenAI"
+        "OpenAI",
+        "Microsoft"
       ],
       "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
       "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47870901",
+      "url": "https://news.ycombinator.com/item?id=47921248",
       "isEnglish": true,
-      "published_at": "2026-04-23T00:14:55Z",
+      "published_at": "2026-04-27T13:22:42Z",
       "trust_score": 5,
-      "titleCn": "OpenAI Privacy Filter"
+      "titleCn": "Microsoft and OpenAI end their exclusive and revenue-sharing deal"
     },
     {
       "id": "2",
-      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "subtitle": "",
-      "what": "HN 255赞/158评论",
-      "why": "HN热度极高(255赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "OpenAI",
-        "GPT-5"
-      ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47894000",
-      "isEnglish": true,
-      "published_at": "2026-04-24T18:23:32Z",
-      "trust_score": 5,
-      "titleCn": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API"
-    },
-    {
-      "id": "3",
       "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
       "subtitle": "",
-      "what": "HN 251赞/111评论",
-      "why": "HN热度极高(251赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 258赞/114评论",
+      "why": "HN热度极高(258赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "智能体"
       ],
@@ -69,31 +49,11 @@
       "titleCn": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)"
     },
     {
-      "id": "4",
-      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-      "subtitle": "",
-      "what": "HN 243赞/55评论",
-      "why": "HN热度极高(243赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47886517",
-      "isEnglish": true,
-      "published_at": "2026-04-24T06:48:53Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture"
-    },
-    {
-      "id": "5",
+      "id": "3",
       "title": "GPT‑5.5 Bio Bug Bounty",
       "subtitle": "",
-      "what": "HN 154赞/103评论",
-      "why": "HN高赞(154赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 157赞/103评论",
+      "why": "HN高赞(157赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -109,7 +69,7 @@
       "titleCn": "GPT‑5.5 Bio Bug Bounty"
     },
     {
-      "id": "6",
+      "id": "4",
       "title": "Lambda Calculus Benchmark for AI",
       "subtitle": "",
       "what": "HN 142赞/43评论",
@@ -129,11 +89,11 @@
       "titleCn": "Lambda Calculus Benchmark for AI"
     },
     {
-      "id": "7",
-      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+      "id": "5",
+      "title": "Running local LLMs offline on a ten-hour flight",
       "subtitle": "",
-      "what": "HN 127赞/61评论",
-      "why": "HN高赞(127赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 105赞/77评论",
+      "why": "HN高赞(105赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -142,11 +102,52 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47890841",
+      "url": "https://news.ycombinator.com/item?id=47921064",
       "isEnglish": true,
-      "published_at": "2026-04-24T14:31:38Z",
+      "published_at": "2026-04-27T13:05:59Z",
       "trust_score": 5,
-      "titleCn": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task"
+      "titleCn": "Running local LLMs offline on a ten-hour flight"
+    },
+    {
+      "id": "6",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "subtitle": "",
+      "what": "HN 70赞/1评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "publicView": "HN讨论 (None赞): Comments moved to https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47921248, which is currently on the frontpage.",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47921262",
+      "isEnglish": true,
+      "published_at": "2026-04-27T13:24:15Z",
+      "trust_score": 5,
+      "titleCn": "The next phase of the Microsoft OpenAI partnership"
+    },
+    {
+      "id": "7",
+      "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+      "subtitle": "",
+      "what": "HN 47赞/7评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47916519",
+      "isEnglish": true,
+      "published_at": "2026-04-27T00:50:46Z",
+      "trust_score": 5,
+      "titleCn": "The reporters at this news site are AI bots. OpenAI appears to be funding it"
     },
     {
       "id": "8",
@@ -212,12 +213,11 @@
     },
     {
       "id": "11",
-      "title": "GitHub热门: davila7/claude-code-templates",
+      "title": "GitHub热门: abhigyanpatwari/GitNexus",
       "subtitle": "",
-      "what": "CLI tool for configuring and monitoring Claude Code\n\n &nbsp;&nbsp; &nbsp;&nbsp; \n\n 🧪 NEW: Dashboard — Explore components, manage collections, and track installations at www.aitmpl.com. Currently in be",
+      "what": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Claude",
         "代码生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
@@ -225,11 +225,11 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/davila7/claude-code-templates",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: davila7/claude-code-templates"
+      "titleCn": "GitHub热门: abhigyanpatwari/GitNexus"
     }
   ]
 }
