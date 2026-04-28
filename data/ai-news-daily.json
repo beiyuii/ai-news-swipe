@@ -1,99 +1,59 @@
 {
-  "date": "2026-04-27",
-  "generated_at": "2026-04-27T23:07:07.247322",
-  "count": 11,
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T23:07:51.346450",
+  "count": 10,
   "sources": {
-    "zh": 2,
-    "en": 19
+    "zh": 0,
+    "en": 17
   },
   "cards": [
     {
       "id": "1",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
       "subtitle": "",
-      "what": "HN 691赞/624评论",
-      "why": "HN热度极高(691赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 276赞/100评论",
+      "why": "HN热度极高(276赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "OpenAI",
-        "Microsoft"
+        "OpenAI"
       ],
       "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
       "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47921248",
+      "url": "https://news.ycombinator.com/item?id=47934269",
       "isEnglish": true,
-      "published_at": "2026-04-27T13:22:42Z",
+      "published_at": "2026-04-28T13:26:26Z",
       "trust_score": 5,
-      "titleCn": "Microsoft and OpenAI end their exclusive and revenue-sharing deal"
+      "titleCn": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership"
     },
     {
       "id": "2",
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "subtitle": "",
-      "what": "HN 258赞/114评论",
-      "why": "HN热度极高(258赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 141赞/50评论",
+      "why": "HN高赞(141赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
-        "智能体"
+        "OpenAI",
+        "Amazon"
       ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47899844",
+      "url": "https://news.ycombinator.com/item?id=47939320",
       "isEnglish": true,
-      "published_at": "2026-04-25T08:53:53Z",
+      "published_at": "2026-04-28T19:24:43Z",
       "trust_score": 5,
-      "titleCn": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)"
+      "titleCn": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs"
     },
     {
       "id": "3",
-      "title": "GPT‑5.5 Bio Bug Bounty",
-      "subtitle": "",
-      "what": "HN 157赞/103评论",
-      "why": "HN高赞(157赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47901734",
-      "isEnglish": true,
-      "published_at": "2026-04-25T14:17:31Z",
-      "trust_score": 5,
-      "titleCn": "GPT‑5.5 Bio Bug Bounty"
-    },
-    {
-      "id": "4",
-      "title": "Lambda Calculus Benchmark for AI",
-      "subtitle": "",
-      "what": "HN 142赞/43评论",
-      "why": "HN高赞(142赞)，技术圈高度关注，具有较强的行业代表性",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "技术圈对性能提升表示关注，但提醒实际应用效果需独立验证",
-      "counterView": "刷榜成绩不等于真实能力；模型往往在测试集过拟合，生产环境表现可能大打折扣",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47900506",
-      "isEnglish": true,
-      "published_at": "2026-04-25T11:16:23Z",
-      "trust_score": 5,
-      "titleCn": "Lambda Calculus Benchmark for AI"
-    },
-    {
-      "id": "5",
       "title": "Running local LLMs offline on a ten-hour flight",
       "subtitle": "",
-      "what": "HN 105赞/77评论",
-      "why": "HN高赞(105赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 125赞/103评论",
+      "why": "HN高赞(125赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -109,7 +69,27 @@
       "titleCn": "Running local LLMs offline on a ten-hour flight"
     },
     {
-      "id": "6",
+      "id": "4",
+      "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
+      "subtitle": "",
+      "what": "HN 77赞/19评论",
+      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47929510",
+      "isEnglish": true,
+      "published_at": "2026-04-28T01:34:12Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO"
+    },
+    {
+      "id": "5",
       "title": "The next phase of the Microsoft OpenAI partnership",
       "subtitle": "",
       "what": "HN 70赞/1评论",
@@ -130,10 +110,10 @@
       "titleCn": "The next phase of the Microsoft OpenAI partnership"
     },
     {
-      "id": "7",
-      "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+      "id": "6",
+      "title": "OpenAI misses revenue, is the AI bubble bursting?",
       "subtitle": "",
-      "what": "HN 47赞/7评论",
+      "what": "HN 46赞/26评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
@@ -143,17 +123,37 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47916519",
+      "url": "https://news.ycombinator.com/item?id=47933430",
       "isEnglish": true,
-      "published_at": "2026-04-27T00:50:46Z",
+      "published_at": "2026-04-28T12:15:13Z",
       "trust_score": 5,
-      "titleCn": "The reporters at this news site are AI bots. OpenAI appears to be funding it"
+      "titleCn": "OpenAI misses revenue, is the AI bubble bursting?"
+    },
+    {
+      "id": "7",
+      "title": "GitHub热门: ComposioHQ/awesome-codex-skills",
+      "subtitle": "",
+      "what": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.\nAwesome Codex Skills \n\nA curated list of practical Codex skills for automating workflows across the Code",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "代码生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: ComposioHQ/awesome-codex-skills"
     },
     {
       "id": "8",
       "title": "GitHub热门: Alishahryar1/free-claude-code",
       "subtitle": "",
-      "what": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\n\n 🤖 Free Claude Code \n Use Claude Code CLI &amp; VSCode for free. No Anthropic API key required. \n\n A lightweigh",
+      "what": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\n\n 🤖 Free Claude Code \n Use Claude Code CLI, VS Code, JetBrains ACP, or chat bots through your own Anthropic-comp",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "Anthropic",
@@ -173,51 +173,12 @@
     },
     {
       "id": "9",
-      "title": "GitHub热门: Z4nzu/hackingtool",
+      "title": "GitHub热门: davila7/claude-code-templates",
       "subtitle": "",
-      "what": "ALL IN ONE Hacking Tool For Hackers\n\n All-in-One Hacking Tool for Security Researchers &amp; Pentesters\n\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n\n &nbsp; &nbsp; \n\nWhat's New in v2.0.0 \n\n Feature \n",
+      "what": "CLI tool for configuring and monitoring Claude Code\n\n &nbsp;&nbsp; &nbsp;&nbsp; \n\n 🧪 NEW: Dashboard — Explore components, manage collections, and track installations at www.aitmpl.com. Currently in be",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI安全"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: Z4nzu/hackingtool"
-    },
-    {
-      "id": "10",
-      "title": "GitHub热门: PostHog/posthog",
-      "subtitle": "",
-      "what": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/PostHog/posthog",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: PostHog/posthog"
-    },
-    {
-      "id": "11",
-      "title": "GitHub热门: abhigyanpatwari/GitNexus",
-      "subtitle": "",
-      "what": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
+        "Claude",
         "代码生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
@@ -225,11 +186,32 @@
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "url": "https://github.com/davila7/claude-code-templates",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: abhigyanpatwari/GitNexus"
+      "titleCn": "GitHub热门: davila7/claude-code-templates"
+    },
+    {
+      "id": "10",
+      "title": "GitHub热门: microsoft/VibeVoice",
+      "subtitle": "",
+      "what": "Open-Source Frontier Voice AI\n\n 🎙️ VibeVoice: Open-Source Frontier Voice AI \n\n 📰 News \n 2026-03-06: 🚀 VibeVoice ASR is now part of a Transformers release! You can now use our speech recognition model ",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Microsoft",
+        "Transformer"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: microsoft/VibeVoice"
     }
   ]
 }
