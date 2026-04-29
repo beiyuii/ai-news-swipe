@@ -1,38 +1,38 @@
 {
-  "date": "2026-04-28",
-  "generated_at": "2026-04-28T23:07:51.346450",
-  "count": 10,
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T23:08:36.157819",
+  "count": 12,
   "sources": {
-    "zh": 0,
+    "zh": 3,
     "en": 17
   },
   "cards": [
     {
       "id": "1",
-      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+      "title": "How ChatGPT serves ads",
       "subtitle": "",
-      "what": "HN 276赞/100评论",
-      "why": "HN热度极高(276赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 486赞/342评论",
+      "why": "HN热度极高(486赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
-        "OpenAI"
+        "AI趋势"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47934269",
+      "url": "https://news.ycombinator.com/item?id=47942437",
       "isEnglish": true,
-      "published_at": "2026-04-28T13:26:26Z",
+      "published_at": "2026-04-28T23:54:14Z",
       "trust_score": 5,
-      "titleCn": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership"
+      "titleCn": "How ChatGPT serves ads"
     },
     {
       "id": "2",
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "subtitle": "",
-      "what": "HN 141赞/50评论",
-      "why": "HN高赞(141赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 317赞/107评论",
+      "why": "HN热度极高(317赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI",
         "Amazon"
@@ -50,10 +50,30 @@
     },
     {
       "id": "3",
-      "title": "Running local LLMs offline on a ten-hour flight",
+      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
       "subtitle": "",
-      "what": "HN 125赞/103评论",
-      "why": "HN高赞(125赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 281赞/108评论",
+      "why": "HN热度极高(281赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "OpenAI"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47934269",
+      "isEnglish": true,
+      "published_at": "2026-04-28T13:26:26Z",
+      "trust_score": 5,
+      "titleCn": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership"
+    },
+    {
+      "id": "4",
+      "title": "We decreased our LLM costs with Opus",
+      "subtitle": "",
+      "what": "HN 103赞/31评论",
+      "why": "HN高赞(103赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -62,17 +82,17 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47921064",
+      "url": "https://news.ycombinator.com/item?id=47942903",
       "isEnglish": true,
-      "published_at": "2026-04-27T13:05:59Z",
+      "published_at": "2026-04-29T00:57:12Z",
       "trust_score": 5,
-      "titleCn": "Running local LLMs offline on a ten-hour flight"
+      "titleCn": "We decreased our LLM costs with Opus"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
       "subtitle": "",
-      "what": "HN 77赞/19评论",
+      "what": "HN 86赞/21评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
@@ -89,7 +109,7 @@
       "titleCn": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "The next phase of the Microsoft OpenAI partnership",
       "subtitle": "",
       "what": "HN 70赞/1评论",
@@ -110,10 +130,10 @@
       "titleCn": "The next phase of the Microsoft OpenAI partnership"
     },
     {
-      "id": "6",
+      "id": "7",
       "title": "OpenAI misses revenue, is the AI bubble bursting?",
       "subtitle": "",
-      "what": "HN 46赞/26评论",
+      "what": "HN 57赞/35评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
@@ -130,7 +150,27 @@
       "titleCn": "OpenAI misses revenue, is the AI bubble bursting?"
     },
     {
-      "id": "7",
+      "id": "8",
+      "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+      "subtitle": "",
+      "what": "HN 48赞/20评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "技术圈对性能提升表示关注，但提醒实际应用效果需独立验证",
+      "counterView": "刷榜成绩不等于真实能力；模型往往在测试集过拟合，生产环境表现可能大打折扣",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47950283",
+      "isEnglish": true,
+      "published_at": "2026-04-29T16:01:51Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: A new benchmark for testing LLMs for deterministic outputs"
+    },
+    {
+      "id": "9",
       "title": "GitHub热门: ComposioHQ/awesome-codex-skills",
       "subtitle": "",
       "what": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.\nAwesome Codex Skills \n\nA curated list of practical Codex skills for automating workflows across the Code",
@@ -148,49 +188,6 @@
       "published_at": "",
       "trust_score": 4,
       "titleCn": "GitHub热门: ComposioHQ/awesome-codex-skills"
-    },
-    {
-      "id": "8",
-      "title": "GitHub热门: Alishahryar1/free-claude-code",
-      "subtitle": "",
-      "what": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\n\n 🤖 Free Claude Code \n Use Claude Code CLI, VS Code, JetBrains ACP, or chat bots through your own Anthropic-comp",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Anthropic",
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: Alishahryar1/free-claude-code"
-    },
-    {
-      "id": "9",
-      "title": "GitHub热门: davila7/claude-code-templates",
-      "subtitle": "",
-      "what": "CLI tool for configuring and monitoring Claude Code\n\n &nbsp;&nbsp; &nbsp;&nbsp; \n\n 🧪 NEW: Dashboard — Explore components, manage collections, and track installations at www.aitmpl.com. Currently in be",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: davila7/claude-code-templates"
     },
     {
       "id": "10",
@@ -212,6 +209,47 @@
       "published_at": "",
       "trust_score": 4,
       "titleCn": "GitHub热门: microsoft/VibeVoice"
+    },
+    {
+      "id": "11",
+      "title": "GitHub热门: davila7/claude-code-templates",
+      "subtitle": "",
+      "what": "CLI tool for configuring and monitoring Claude Code\n\n &nbsp;&nbsp; &nbsp;&nbsp; \n\n 🧪 NEW: Dashboard — Explore components, manage collections, and track installations at www.aitmpl.com. Currently in be",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "Claude",
+        "代码生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: davila7/claude-code-templates"
+    },
+    {
+      "id": "12",
+      "title": "GitHub热门: abhigyanpatwari/GitNexus",
+      "subtitle": "",
+      "what": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "代码生成"
+      ],
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "isEnglish": true,
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: abhigyanpatwari/GitNexus"
     }
   ]
 }
