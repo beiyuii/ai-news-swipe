@@ -1,18 +1,39 @@
 {
-  "date": "2026-04-29",
-  "generated_at": "2026-04-29T23:08:36.157819",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T23:06:23.802326",
   "count": 12,
   "sources": {
     "zh": 3,
-    "en": 17
+    "en": 20
   },
   "cards": [
     {
       "id": "1",
-      "title": "How ChatGPT serves ads",
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "subtitle": "",
-      "what": "HN 486赞/342评论",
-      "why": "HN热度极高(486赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 855赞/491评论",
+      "why": "HN热度极高(855赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "Claude",
+        "代码生成"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47963204",
+      "isEnglish": true,
+      "published_at": "2026-04-30T14:36:58Z",
+      "trust_score": 5,
+      "titleCn": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\""
+    },
+    {
+      "id": "2",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "subtitle": "",
+      "what": "HN 633赞/418评论",
+      "why": "HN热度极高(633赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "AI趋势"
       ],
@@ -21,18 +42,18 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47942437",
+      "url": "https://news.ycombinator.com/item?id=47957294",
       "isEnglish": true,
-      "published_at": "2026-04-28T23:54:14Z",
+      "published_at": "2026-04-30T02:15:47Z",
       "trust_score": 5,
-      "titleCn": "How ChatGPT serves ads"
+      "titleCn": "The Zig project's rationale for their anti-AI contribution policy"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "subtitle": "",
-      "what": "HN 317赞/107评论",
-      "why": "HN热度极高(317赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 323赞/112评论",
+      "why": "HN热度极高(323赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI",
         "Amazon"
@@ -49,11 +70,11 @@
       "titleCn": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
       "subtitle": "",
-      "what": "HN 281赞/108评论",
-      "why": "HN热度极高(281赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 282赞/108评论",
+      "why": "HN热度极高(282赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
       ],
@@ -69,11 +90,11 @@
       "titleCn": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership"
     },
     {
-      "id": "4",
-      "title": "We decreased our LLM costs with Opus",
+      "id": "5",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
       "subtitle": "",
-      "what": "HN 103赞/31评论",
-      "why": "HN高赞(103赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 187赞/151评论",
+      "why": "HN高赞(187赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -82,17 +103,17 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47942903",
+      "url": "https://news.ycombinator.com/item?id=47957627",
       "isEnglish": true,
-      "published_at": "2026-04-29T00:57:12Z",
+      "published_at": "2026-04-30T03:11:51Z",
       "trust_score": 5,
-      "titleCn": "We decreased our LLM costs with Opus"
+      "titleCn": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
       "subtitle": "",
-      "what": "HN 86赞/21评论",
+      "what": "HN 87赞/21评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
@@ -109,51 +130,30 @@
       "titleCn": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO"
     },
     {
-      "id": "6",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "subtitle": "",
-      "what": "HN 70赞/1评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
-      "related": [
-        "OpenAI",
-        "Microsoft"
-      ],
-      "publicView": "HN讨论 (None赞): Comments moved to https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47921248, which is currently on the frontpage.",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47921262",
-      "isEnglish": true,
-      "published_at": "2026-04-27T13:24:15Z",
-      "trust_score": 5,
-      "titleCn": "The next phase of the Microsoft OpenAI partnership"
-    },
-    {
       "id": "7",
-      "title": "OpenAI misses revenue, is the AI bubble bursting?",
+      "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
       "subtitle": "",
-      "what": "HN 57赞/35评论",
-      "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
+      "what": "HN 68赞/41评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "OpenAI"
+        "AI趋势"
       ],
-      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
-      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47933430",
+      "url": "https://news.ycombinator.com/item?id=47963026",
       "isEnglish": true,
-      "published_at": "2026-04-28T12:15:13Z",
+      "published_at": "2026-04-30T14:26:38Z",
       "trust_score": 5,
-      "titleCn": "OpenAI misses revenue, is the AI bubble bursting?"
+      "titleCn": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens"
     },
     {
       "id": "8",
       "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
       "subtitle": "",
-      "what": "HN 48赞/20评论",
+      "what": "HN 58赞/24评论",
       "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
         "AI趋势"
@@ -212,24 +212,23 @@
     },
     {
       "id": "11",
-      "title": "GitHub热门: davila7/claude-code-templates",
+      "title": "GitHub热门: ZhuLinsen/daily_stock_analysis",
       "subtitle": "",
-      "what": "CLI tool for configuring and monitoring Claude Code\n\n &nbsp;&nbsp; &nbsp;&nbsp; \n\n 🧪 NEW: Dashboard — Explore components, manage collections, and track installations at www.aitmpl.com. Currently in be",
+      "what": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.\n\n 📈 股票智能分析系统 \n\n 🤖 基于 AI 大模型的 A股/港股/美股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Claude",
-        "代码生成"
+        "大模型"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/davila7/claude-code-templates",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: davila7/claude-code-templates"
+      "titleCn": "GitHub热门: ZhuLinsen/daily_stock_analysis"
     },
     {
       "id": "12",
