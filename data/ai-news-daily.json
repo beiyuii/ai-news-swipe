@@ -1,58 +1,17 @@
 {
-  "date": "2026-04-30",
-  "generated_at": "2026-04-30T23:06:23.802326",
-  "count": 12,
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T23:04:03.232899",
+  "count": 11,
   "sources": {
-    "zh": 3,
+    "zh": 1,
     "en": 20
   },
   "cards": [
     {
       "id": "1",
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "subtitle": "",
-      "what": "HN 855赞/491评论",
-      "why": "HN热度极高(855赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "Claude",
-        "代码生成"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47963204",
-      "isEnglish": true,
-      "published_at": "2026-04-30T14:36:58Z",
-      "trust_score": 5,
-      "titleCn": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\""
-    },
-    {
-      "id": "2",
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "subtitle": "",
-      "what": "HN 633赞/418评论",
-      "why": "HN热度极高(633赞)，开发者社区广泛讨论，反映行业核心关切",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "high",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47957294",
-      "isEnglish": true,
-      "published_at": "2026-04-30T02:15:47Z",
-      "trust_score": 5,
-      "titleCn": "The Zig project's rationale for their anti-AI contribution policy"
-    },
-    {
-      "id": "3",
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "subtitle": "",
-      "what": "HN 323赞/112评论",
+      "what": "HN 323赞/114评论",
       "why": "HN热度极高(323赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI",
@@ -70,11 +29,31 @@
       "titleCn": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs"
     },
     {
-      "id": "4",
+      "id": "2",
+      "title": "The Gay Jailbreak Technique",
+      "subtitle": "",
+      "what": "HN 299赞/106评论",
+      "why": "HN热度极高(299赞)，开发者社区广泛讨论，反映行业核心关切",
+      "related": [
+        "AI趋势"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47977134",
+      "isEnglish": true,
+      "published_at": "2026-05-01T16:59:35Z",
+      "trust_score": 5,
+      "titleCn": "The Gay Jailbreak Technique"
+    },
+    {
+      "id": "3",
       "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
       "subtitle": "",
-      "what": "HN 282赞/108评论",
-      "why": "HN热度极高(282赞)，开发者社区广泛讨论，反映行业核心关切",
+      "what": "HN 283赞/108评论",
+      "why": "HN热度极高(283赞)，开发者社区广泛讨论，反映行业核心关切",
       "related": [
         "OpenAI"
       ],
@@ -90,11 +69,32 @@
       "titleCn": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership"
     },
     {
-      "id": "5",
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "id": "4",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
       "subtitle": "",
-      "what": "HN 187赞/151评论",
-      "why": "HN高赞(187赞)，技术圈高度关注，具有较强的行业代表性",
+      "what": "HN 135赞/121评论",
+      "why": "HN高赞(135赞)，技术圈高度关注，具有较强的行业代表性",
+      "related": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publicView": "业界认为OpenAI仍是行业标杆，但技术领先优势正在缩小，竞争格局日趋激烈",
+      "counterView": "OpenAI的护城河是用户习惯而非技术；历史证明，一旦更优替代品出现，市场地位可在数月内逆转",
+      "heat": "high",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47973108",
+      "isEnglish": true,
+      "published_at": "2026-05-01T10:28:12Z",
+      "trust_score": 5,
+      "titleCn": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber"
+    },
+    {
+      "id": "5",
+      "title": "Advanced Quantization Algorithm for LLMs",
+      "subtitle": "",
+      "what": "HN 111赞/15评论",
+      "why": "HN高赞(111赞)，技术圈高度关注，具有较强的行业代表性",
       "related": [
         "AI趋势"
       ],
@@ -103,17 +103,37 @@
       "heat": "high",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47957627",
+      "url": "https://news.ycombinator.com/item?id=47972659",
       "isEnglish": true,
-      "published_at": "2026-04-30T03:11:51Z",
+      "published_at": "2026-05-01T09:10:02Z",
       "trust_score": 5,
-      "titleCn": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs"
+      "titleCn": "Advanced Quantization Algorithm for LLMs"
     },
     {
       "id": "6",
-      "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
+      "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
       "subtitle": "",
-      "what": "HN 87赞/21评论",
+      "what": "HN 88赞/26评论",
+      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "related": [
+        "智能体"
+      ],
+      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
+      "heat": "medium",
+      "source": "Hacker News",
+      "icon": "🌍",
+      "url": "https://news.ycombinator.com/item?id=47968112",
+      "isEnglish": true,
+      "published_at": "2026-04-30T20:55:12Z",
+      "trust_score": 5,
+      "titleCn": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell"
+    },
+    {
+      "id": "7",
+      "title": "OpenAI misses revenue, is the AI bubble bursting?",
+      "subtitle": "",
+      "what": "HN 57赞/36评论",
       "why": "OpenAI作为行业标杆，其产品/技术动态直接影响全球AI竞争格局和资本市场情绪",
       "related": [
         "OpenAI"
@@ -123,132 +143,93 @@
       "heat": "medium",
       "source": "Hacker News",
       "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47929510",
+      "url": "https://news.ycombinator.com/item?id=47933430",
       "isEnglish": true,
-      "published_at": "2026-04-28T01:34:12Z",
+      "published_at": "2026-04-28T12:15:13Z",
       "trust_score": 5,
-      "titleCn": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO"
-    },
-    {
-      "id": "7",
-      "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-      "subtitle": "",
-      "what": "HN 68赞/41评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "AI趋势"
-      ],
-      "publicView": "Hacker News读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47963026",
-      "isEnglish": true,
-      "published_at": "2026-04-30T14:26:38Z",
-      "trust_score": 5,
-      "titleCn": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens"
+      "titleCn": "OpenAI misses revenue, is the AI bubble bursting?"
     },
     {
       "id": "8",
-      "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+      "title": "GitHub热门: TauricResearch/TradingAgents",
       "subtitle": "",
-      "what": "HN 58赞/24评论",
-      "why": "Hacker News报道，AI行业热点话题，技术与商业结合点的讨论",
+      "what": "TradingAgents: Multi-Agents LLM Financial Trading Framework\n\n Deutsch | \n Español | \n français | \n 日本語 | \n 한국어 | \n Português | \n Русский | \n 中文 \n\nTradingAgents: Multi-Agents LLM Financial Trading Fram",
+      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "AI趋势"
+        "智能体"
       ],
-      "publicView": "技术圈对性能提升表示关注，但提醒实际应用效果需独立验证",
-      "counterView": "刷榜成绩不等于真实能力；模型往往在测试集过拟合，生产环境表现可能大打折扣",
+      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
+      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
-      "source": "Hacker News",
-      "icon": "🌍",
-      "url": "https://news.ycombinator.com/item?id=47950283",
+      "source": "GitHub Trending",
+      "icon": "💻",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "isEnglish": true,
-      "published_at": "2026-04-29T16:01:51Z",
-      "trust_score": 5,
-      "titleCn": "Show HN: A new benchmark for testing LLMs for deterministic outputs"
+      "published_at": "",
+      "trust_score": 4,
+      "titleCn": "GitHub热门: TauricResearch/TradingAgents"
     },
     {
       "id": "9",
-      "title": "GitHub热门: ComposioHQ/awesome-codex-skills",
+      "title": "GitHub热门: public-apis/public-apis",
       "subtitle": "",
-      "what": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.\nAwesome Codex Skills \n\nA curated list of practical Codex skills for automating workflows across the Code",
+      "what": "A collective list of free APIs\nTry Public APIs for free \nThe Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of pu",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "代码生成"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/public-apis/public-apis",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: ComposioHQ/awesome-codex-skills"
+      "titleCn": "GitHub热门: public-apis/public-apis"
     },
     {
       "id": "10",
-      "title": "GitHub热门: microsoft/VibeVoice",
+      "title": "GitHub热门: soxoj/maigret",
       "subtitle": "",
-      "what": "Open-Source Frontier Voice AI\n\n 🎙️ VibeVoice: Open-Source Frontier Voice AI \n\n 📰 News \n 2026-03-06: 🚀 VibeVoice ASR is now part of a Transformers release! You can now use our speech recognition model ",
+      "what": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites\nMaigret \n\nMaigret collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all th",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "Microsoft",
-        "Transformer"
+        "AI趋势"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/microsoft/VibeVoice",
+      "url": "https://github.com/soxoj/maigret",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: microsoft/VibeVoice"
+      "titleCn": "GitHub热门: soxoj/maigret"
     },
     {
       "id": "11",
-      "title": "GitHub热门: ZhuLinsen/daily_stock_analysis",
+      "title": "GitHub热门: lukilabs/craft-agents-oss",
       "subtitle": "",
-      "what": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.\n\n 📈 股票智能分析系统 \n\n 🤖 基于 AI 大模型的 A股/港股/美股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/",
+      "what": "Craft Agents \n\nHow it Works (Video) \nTo understand what Craft Agents does and how it works watch this video.\n\nClick Here (or on the image above) to watch the video on YouTube →\n\nWhy Craft Agents was b",
       "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
       "related": [
-        "大模型"
+        "智能体",
+        "视频生成",
+        "图像生成"
       ],
       "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
       "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
       "heat": "medium",
       "source": "GitHub Trending",
       "icon": "💻",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
       "isEnglish": true,
       "published_at": "",
       "trust_score": 4,
-      "titleCn": "GitHub热门: ZhuLinsen/daily_stock_analysis"
-    },
-    {
-      "id": "12",
-      "title": "GitHub热门: abhigyanpatwari/GitNexus",
-      "subtitle": "",
-      "what": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "why": "GitHub Trending报道，AI行业热点话题，技术与商业结合点的讨论",
-      "related": [
-        "代码生成"
-      ],
-      "publicView": "GitHub Trending读者关注此事，讨论集中在技术细节和商业影响层面",
-      "counterView": "热点往往是噪音；真正改变行业的突破通常发生在媒体关注度低的领域，热度与价值呈负相关",
-      "heat": "medium",
-      "source": "GitHub Trending",
-      "icon": "💻",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "isEnglish": true,
-      "published_at": "",
-      "trust_score": 4,
-      "titleCn": "GitHub热门: abhigyanpatwari/GitNexus"
+      "titleCn": "GitHub热门: lukilabs/craft-agents-oss"
     }
   ]
 }
